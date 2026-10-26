@@ -1,0 +1,89 @@
+<!doctype html>
+<html lang="pt-BR">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Na Lata! — quiz cultural</title>
+    <meta name="description" content="Adivinhe de onde veio cada frase ou imagem. Quanto mais rápido, mais pontos." />
+    <link rel="icon" href="img/favicon.svg" type="image/svg+xml" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Lobster&family=Quicksand:wght@500;600;700&display=swap"
+    />
+    <link rel="stylesheet" href="css/style.css" />
+  </head>
+  <body>
+    <!-- Tela inicial: apelido + criar/entrar em sala -->
+    <section id="landing" class="landing">
+      <div class="landing-card">
+        <div class="logo-slot" data-logo></div>
+        <form id="landing-form" class="landing-form" autocomplete="off">
+          <label class="field">
+            <span>Seu apelido</span>
+            <input id="nickname" name="nickname" maxlength="20" required placeholder="Como quer ser chamado?" />
+          </label>
+          <button type="submit" class="btn btn-primary" data-action="create">Criar sala</button>
+          <div class="landing-divider"><span>ou entre com um código</span></div>
+          <div class="join-row">
+            <input id="room-code" name="room" maxlength="4" placeholder="ABCD" aria-label="Código da sala" />
+            <button type="submit" class="btn btn-outline" data-action="join">Entrar</button>
+          </div>
+          <p id="landing-error" class="form-error" role="alert"></p>
+        </form>
+        <p class="landing-foot">Adivinhe de onde veio cada frase ou imagem. Quanto mais rápido, mais pontos!</p>
+      </div>
+    </section>
+
+    <!-- Sala -->
+    <main id="room" class="room" hidden>
+      <section class="game">
+        <header id="status" class="topbar" aria-live="polite"></header>
+        <div class="stage-wrap">
+          <div class="timer"><div id="timer-fill" class="timer-fill"></div></div>
+          <div class="rules-line">
+            <span id="rules-summary"></span>
+            <button id="edit-rules" type="button" class="btn btn-outline btn-small">Editar regras</button>
+          </div>
+          <div id="stage" class="stage"></div>
+        </div>
+        <footer class="bottombar">
+          <div id="lobby-bar" class="lobby-bar">
+            <span class="tagline">Responde na lata!</span>
+            <button id="join-btn" type="button" class="btn btn-join">Entrar no jogo</button>
+            <button id="leave-btn" type="button" class="btn btn-danger">Sair</button>
+          </div>
+          <form id="answer-form" class="answer-form" autocomplete="off" hidden>
+            <input id="answer-input" maxlength="100" placeholder="Digite sua resposta…" aria-label="Sua resposta" />
+            <button id="hint-btn" type="button" class="btn btn-hint">💡 Pista</button>
+            <button id="leave-btn-2" type="button" class="btn btn-danger btn-icon" title="Sair do jogo" aria-label="Sair do jogo">✕</button>
+          </form>
+        </footer>
+      </section>
+
+      <aside id="players" class="players" aria-label="Jogadores"></aside>
+
+      <aside class="sidebar">
+        <nav class="tabs" role="tablist">
+          <button type="button" role="tab" data-tab="chat" title="Chat" aria-label="Chat">💬</button>
+          <button type="button" role="tab" data-tab="rules" title="Regras" aria-label="Regras">⚙️</button>
+          <button type="button" role="tab" data-tab="room" title="Sala e convite" aria-label="Sala e convite">🏠</button>
+          <button type="button" role="tab" data-tab="about" title="Como jogar e créditos" aria-label="Como jogar e créditos">ℹ️</button>
+        </nav>
+        <div class="tab-panel chat-panel" data-panel="chat">
+          <div id="chat-log" class="chat-log" aria-live="polite"></div>
+          <form id="chat-form" class="chat-form" autocomplete="off">
+            <input id="chat-input" maxlength="300" placeholder="Escreva aqui para conversar." aria-label="Mensagem" />
+          </form>
+        </div>
+        <div class="tab-panel" data-panel="rules" hidden><div id="rules-panel" class="settings"></div></div>
+        <div class="tab-panel" data-panel="room" hidden><div id="room-panel" class="settings"></div></div>
+        <div class="tab-panel" data-panel="about" hidden><div id="about-panel" class="settings"></div></div>
+      </aside>
+    </main>
+
+    <div id="toast" class="toast" role="status" hidden></div>
+    <script type="module" src="js/main.js"></script>
+  </body>
+</html>

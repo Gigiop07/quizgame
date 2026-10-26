@@ -1,0 +1,1405 @@
+[
+  {
+    "id": "ale-001",
+    "category": "aleatorio",
+    "type": "clue",
+    "difficulty": 1,
+    "prompt": "Quem é esse inventor brasileiro?",
+    "media": {
+      "type": "text",
+      "style": "clue",
+      "text": "Inventor mineiro que, em outubro de 1906, decolou com o 14-bis no Campo de Bagatelle, em Paris, diante de uma multidão."
+    },
+    "answers": [
+      "Santos Dumont",
+      "Alberto Santos Dumont"
+    ],
+    "acceptedAliases": [],
+    "rejectedAnswers": [],
+    "hints": [
+      "Antes dos aviões, ficou famoso voando de dirigível ao redor da Torre Eiffel",
+      "No Brasil, é chamado de 'Pai da Aviação'",
+      "A cidade mineira onde nasceu, Palmira, hoje leva o nome dele"
+    ],
+    "explanation": "Os voos de 1906 com o 14-bis foram os primeiros de um aparelho mais pesado que o ar homologados pelo Aeroclube da França.",
+    "tags": [
+      "brasil",
+      "clássicos",
+      "invenções",
+      "aviação"
+    ],
+    "source": {
+      "url": "https://pt.wikipedia.org/wiki/Santos_Dumont",
+      "attribution": "Wikipédia — Santos Dumont"
+    }
+  },
+  {
+    "id": "ale-002",
+    "category": "aleatorio",
+    "type": "quote",
+    "difficulty": 1,
+    "prompt": "Quem, segundo a tradição, deu este grito às margens do riacho Ipiranga, em 1822?",
+    "media": {
+      "type": "text",
+      "style": "quote",
+      "text": "Independência ou morte!"
+    },
+    "answers": [
+      "Dom Pedro I",
+      "D. Pedro I",
+      "Pedro I"
+    ],
+    "acceptedAliases": [],
+    "rejectedAnswers": [
+      "Dom Pedro II",
+      "D. Pedro II",
+      "Pedro II"
+    ],
+    "hints": [
+      "Era o príncipe regente do Brasil",
+      "Filho do rei D. João VI, de Portugal",
+      "Tornou-se o primeiro imperador do Brasil"
+    ],
+    "explanation": "O episódio de 7 de setembro de 1822 ficou conhecido como o 'Grito do Ipiranga'.",
+    "tags": [
+      "brasil",
+      "clássicos",
+      "história"
+    ],
+    "source": {
+      "url": "https://pt.wikipedia.org/wiki/Independ%C3%AAncia_do_Brasil",
+      "attribution": "Wikipédia — Independência do Brasil"
+    }
+  },
+  {
+    "id": "ale-003",
+    "category": "aleatorio",
+    "type": "clue",
+    "difficulty": 1,
+    "prompt": "Qual personagem do folclore brasileiro?",
+    "media": {
+      "type": "text",
+      "style": "clue",
+      "text": "Menino travesso de uma perna só, com gorro vermelho e cachimbo, que gosta de aparecer dentro dos redemoinhos de vento."
+    },
+    "answers": [
+      "Saci",
+      "Saci-Pererê"
+    ],
+    "acceptedAliases": [],
+    "rejectedAnswers": [],
+    "hints": [
+      "Vive pregando peças e fazendo os viajantes se perderem",
+      "Sua origem é atribuída aos povos indígenas do Sul do Brasil",
+      "É personagem do Sítio do Picapau Amarelo, de Monteiro Lobato"
+    ],
+    "explanation": "Em 1917, Monteiro Lobato fez uma pesquisa com os leitores do jornal O Estado de S. Paulo para reunir as versões do mito.",
+    "tags": [
+      "brasil",
+      "folclore"
+    ],
+    "source": {
+      "url": "https://pt.wikipedia.org/wiki/Saci",
+      "attribution": "Wikipédia — Saci"
+    }
+  },
+  {
+    "id": "ale-004",
+    "category": "aleatorio",
+    "type": "clue",
+    "difficulty": 1,
+    "prompt": "Qual personagem do folclore brasileiro?",
+    "media": {
+      "type": "text",
+      "style": "clue",
+      "text": "Guardião das matas e dos animais, de cabelos cor de fogo, com os pés virados para trás para deixar pegadas que enganam os caçadores."
+    },
+    "answers": [
+      "Curupira"
+    ],
+    "acceptedAliases": [],
+    "rejectedAnswers": [],
+    "hints": [
+      "Castiga quem caça ou destrói a floresta sem necessidade",
+      "Seu nome vem do tupi",
+      "É um dos seres mais conhecidos do folclore, ao lado do Saci e do Boitatá"
+    ],
+    "explanation": "É um dos mitos mais antigos do Brasil: o padre José de Anchieta já o mencionou numa carta de 1560.",
+    "tags": [
+      "brasil",
+      "folclore"
+    ],
+    "source": {
+      "url": "https://pt.wikipedia.org/wiki/Curupira",
+      "attribution": "Wikipédia — Curupira"
+    }
+  },
+  {
+    "id": "ale-005",
+    "category": "aleatorio",
+    "type": "emoji",
+    "difficulty": 1,
+    "prompt": "Qual comida típica brasileira é representada pelos emojis?",
+    "media": {
+      "type": "emoji",
+      "text": "🧀 🍞 ☕"
+    },
+    "answers": [
+      "Pão de queijo"
+    ],
+    "acceptedAliases": [],
+    "rejectedAnswers": [],
+    "hints": [
+      "Leva polvilho, ovos, leite e óleo",
+      "É símbolo da culinária de Minas Gerais",
+      "Pequeno, redondinho e servido quentinho"
+    ],
+    "explanation": "Acredita-se que tenha surgido em Minas Gerais por volta do século XVIII; em 2023, foi eleito uma das melhores comidas de café da manhã do mundo pelo site TasteAtlas.",
+    "tags": [
+      "brasil",
+      "comida"
+    ],
+    "source": {
+      "url": "https://pt.wikipedia.org/wiki/P%C3%A3o_de_queijo",
+      "attribution": "Wikipédia — Pão de queijo"
+    }
+  },
+  {
+    "id": "ale-006",
+    "category": "aleatorio",
+    "type": "clue",
+    "difficulty": 1,
+    "prompt": "Qual animal?",
+    "media": {
+      "type": "text",
+      "style": "clue",
+      "text": "O maior roedor do mundo: vive em grupos perto de rios, lagos e pântanos e pode passar dos 60 kg."
+    },
+    "answers": [
+      "Capivara"
+    ],
+    "acceptedAliases": [
+      "Carpincho"
+    ],
+    "rejectedAnswers": [],
+    "hints": [
+      "É herbívoro e ótimo nadador",
+      "É parente do preá e do porquinho-da-índia",
+      "Seu nome vem do tupi e quer dizer 'comedor de capim'"
+    ],
+    "explanation": "Muito adaptável, ela vive até em lagoas e rios de grandes cidades brasileiras.",
+    "tags": [
+      "brasil",
+      "animais"
+    ],
+    "source": {
+      "url": "https://pt.wikipedia.org/wiki/Capivara",
+      "attribution": "Wikipédia — Capivara"
+    }
+  },
+  {
+    "id": "ale-007",
+    "category": "aleatorio",
+    "type": "clue",
+    "difficulty": 1,
+    "prompt": "Qual é o nome deste símbolo em português?",
+    "media": {
+      "type": "text",
+      "style": "clue",
+      "text": "Símbolo usado em todo endereço de e-mail. Em português, tem o nome de uma antiga unidade de peso que ainda é usada para pesar gado no Brasil (cerca de 15 kg)."
+    },
+    "answers": [
+      "Arroba"
+    ],
+    "acceptedAliases": [],
+    "rejectedAnswers": [],
+    "hints": [
+      "Fica entre o nome do usuário e o domínio",
+      "Nas redes sociais, serve para marcar alguém",
+      "Parece um 'a' dentro de um círculo"
+    ],
+    "explanation": "Um documento comercial italiano de 1537 já usava o símbolo para indicar uma medida de vinho.",
+    "tags": [
+      "internacional",
+      "símbolos",
+      "tecnologia"
+    ],
+    "source": {
+      "url": "https://pt.wikipedia.org/wiki/Arroba_(s%C3%ADmbolo)",
+      "attribution": "Wikipédia — Arroba (símbolo)"
+    }
+  },
+  {
+    "id": "ale-008",
+    "category": "aleatorio",
+    "type": "quote",
+    "difficulty": 1,
+    "prompt": "Quem disse esta frase ao pisar na Lua, em 1969?",
+    "media": {
+      "type": "text",
+      "style": "quote",
+      "text": "Um pequeno passo para o homem, um grande salto para a humanidade."
+    },
+    "answers": [
+      "Neil Armstrong",
+      "Armstrong"
+    ],
+    "acceptedAliases": [],
+    "rejectedAnswers": [
+      "Louis Armstrong",
+      "Lance Armstrong",
+      "Buzz Aldrin"
+    ],
+    "hints": [
+      "Astronauta norte-americano",
+      "Comandava a missão Apollo 11",
+      "Foi o primeiro ser humano a pisar na Lua"
+    ],
+    "explanation": "Antes de virar astronauta, ele foi aviador naval e piloto de testes.",
+    "tags": [
+      "internacional",
+      "clássicos",
+      "história",
+      "espaço"
+    ],
+    "source": {
+      "url": "https://pt.wikipedia.org/wiki/Neil_Armstrong",
+      "attribution": "Wikipédia — Neil Armstrong"
+    }
+  },
+  {
+    "id": "ale-009",
+    "category": "aleatorio",
+    "type": "emoji",
+    "difficulty": 1,
+    "prompt": "Qual celebração popular brasileira é representada pelos emojis?",
+    "media": {
+      "type": "emoji",
+      "text": "🌽 🔥 🎆 🤠"
+    },
+    "answers": [
+      "Festa Junina",
+      "Festas Juninas",
+      "São João",
+      "Festa de São João"
+    ],
+    "acceptedAliases": [
+      "Arraiá",
+      "Arraial"
+    ],
+    "rejectedAnswers": [],
+    "hints": [
+      "Acontece no meio do ano",
+      "Tem quadrilha, quentão, pamonha e fogueira",
+      "Caruaru e Campina Grande têm as mais famosas do país"
+    ],
+    "explanation": "A tradição chegou ao Brasil com os portugueses e ganhou um jeito próprio, celebrando a vida no campo com roupas, comidas e danças típicas.",
+    "tags": [
+      "brasil",
+      "tradições",
+      "festas"
+    ],
+    "source": {
+      "url": "https://pt.wikipedia.org/wiki/Festa_junina_no_Brasil",
+      "attribution": "Wikipédia — Festa junina no Brasil"
+    }
+  },
+  {
+    "id": "ale-010",
+    "category": "aleatorio",
+    "type": "clue",
+    "difficulty": 1,
+    "prompt": "Qual é este lugar?",
+    "media": {
+      "type": "text",
+      "style": "clue",
+      "text": "Conjunto de cerca de 275 quedas-d'água na fronteira entre Brasil e Argentina; a queda mais impressionante se chama Garganta do Diabo."
+    },
+    "answers": [
+      "Cataratas do Iguaçu",
+      "Cataratas do Iguazu",
+      "Cataratas de Foz do Iguaçu"
+    ],
+    "acceptedAliases": [
+      "Foz do Iguaçu",
+      "Iguaçu"
+    ],
+    "rejectedAnswers": [],
+    "hints": [
+      "Ficam dentro de dois parques nacionais, um de cada país",
+      "Do lado brasileiro, estão no estado do Paraná",
+      "A cidade vizinha fica na tríplice fronteira com o Paraguai"
+    ],
+    "explanation": "A Garganta do Diabo tem formato de 'U' invertido, com cerca de 150 metros de largura e 80 de altura.",
+    "tags": [
+      "brasil",
+      "lugares",
+      "natureza"
+    ],
+    "source": {
+      "url": "https://pt.wikipedia.org/wiki/Cataratas_do_Igua%C3%A7u",
+      "attribution": "Wikipédia — Cataratas do Iguaçu"
+    }
+  },
+  {
+    "id": "ale-011",
+    "category": "aleatorio",
+    "type": "emoji",
+    "difficulty": 1,
+    "prompt": "Qual cientista é representado pelos emojis?",
+    "media": {
+      "type": "emoji",
+      "text": "🍎 ⬇️ 🌳 🧠"
+    },
+    "answers": [
+      "Isaac Newton",
+      "Newton"
+    ],
+    "acceptedAliases": [],
+    "rejectedAnswers": [],
+    "hints": [
+      "Cientista inglês do século XVII",
+      "Formulou as três leis do movimento",
+      "Segundo a anedota, teve uma grande ideia ao ver uma fruta cair"
+    ],
+    "explanation": "Seu livro Philosophiæ Naturalis Principia Mathematica, de 1687, apresentou a lei da gravitação universal e as leis do movimento.",
+    "tags": [
+      "internacional",
+      "clássicos",
+      "ciência"
+    ],
+    "source": {
+      "url": "https://pt.wikipedia.org/wiki/Isaac_Newton",
+      "attribution": "Wikipédia — Isaac Newton"
+    }
+  },
+  {
+    "id": "ale-012",
+    "category": "aleatorio",
+    "type": "clue",
+    "difficulty": 1,
+    "prompt": "Quem assinou essa lei?",
+    "media": {
+      "type": "text",
+      "style": "clue",
+      "text": "Em 13 de maio de 1888, foi assinada a Lei Áurea, que extinguiu a escravidão no Brasil."
+    },
+    "answers": [
+      "Princesa Isabel",
+      "Isabel"
+    ],
+    "acceptedAliases": [],
+    "rejectedAnswers": [],
+    "hints": [
+      "Era filha do imperador D. Pedro II",
+      "Assinou como regente, enquanto o pai estava na Europa",
+      "Ficou conhecida como 'a Redentora'"
+    ],
+    "explanation": "A Lei Áurea teve só dois artigos e foi precedida por outras, como a Lei do Ventre Livre (1871).",
+    "tags": [
+      "brasil",
+      "clássicos",
+      "história"
+    ],
+    "source": {
+      "url": "https://pt.wikipedia.org/wiki/Lei_%C3%81urea",
+      "attribution": "Wikipédia — Lei Áurea"
+    }
+  },
+  {
+    "id": "ale-013",
+    "category": "aleatorio",
+    "type": "emoji",
+    "difficulty": 1,
+    "prompt": "Qual personagem do folclore brasileiro é representada pelos emojis?",
+    "media": {
+      "type": "emoji",
+      "text": "🧜‍♀️ 🏞️ 🎶"
+    },
+    "answers": [
+      "Iara",
+      "Uiara",
+      "Yara",
+      "Mãe-d'Água"
+    ],
+    "acceptedAliases": [],
+    "rejectedAnswers": [],
+    "hints": [
+      "É uma lenda amazônica",
+      "Encanta os pescadores com seu canto irresistível",
+      "Seu nome, em nheengatu, quer dizer 'senhora das águas'"
+    ],
+    "explanation": "Segundo Câmara Cascudo, ela é uma mistura da sereia europeia, trazida pelos portugueses, com as lendas das águas brasileiras.",
+    "tags": [
+      "brasil",
+      "folclore"
+    ],
+    "source": {
+      "url": "https://pt.wikipedia.org/wiki/Iara",
+      "attribution": "Wikipédia — Iara"
+    }
+  },
+  {
+    "id": "ale-014",
+    "category": "aleatorio",
+    "type": "quote",
+    "difficulty": 2,
+    "prompt": "Diante de qual invenção D. Pedro II teria dito esta frase, em 1876?",
+    "media": {
+      "type": "text",
+      "style": "quote",
+      "text": "Meu Deus, isto fala!"
+    },
+    "answers": [
+      "Telefone"
+    ],
+    "acceptedAliases": [],
+    "rejectedAnswers": [
+      "Telégrafo"
+    ],
+    "hints": [
+      "Ele visitava a Exposição do Centenário dos Estados Unidos, na Filadélfia",
+      "O inventor era Alexander Graham Bell",
+      "A versão moderna dessa invenção cabe no bolso"
+    ],
+    "explanation": "Encantado, D. Pedro II fez questão de que o Brasil estivesse entre os primeiros países a ter o aparelho, instalado no Rio de Janeiro e em Petrópolis.",
+    "tags": [
+      "brasil",
+      "clássicos",
+      "invenções",
+      "história"
+    ],
+    "source": {
+      "url": "https://pt.wikipedia.org/wiki/Pedro_II_do_Brasil",
+      "attribution": "Wikipédia — Pedro II do Brasil"
+    }
+  },
+  {
+    "id": "ale-015",
+    "category": "aleatorio",
+    "type": "clue",
+    "difficulty": 2,
+    "prompt": "Qual é esta invenção?",
+    "media": {
+      "type": "text",
+      "style": "clue",
+      "text": "Inventada por um engenheiro suíço depois de notar sementes espinhosas grudadas nas suas roupas e no pelo do seu cachorro, após um passeio pelas montanhas, em 1941."
+    },
+    "answers": [
+      "Velcro",
+      "Fecho de contato"
+    ],
+    "acceptedAliases": [],
+    "rejectedAnswers": [],
+    "hints": [
+      "Tem dois lados: um com ganchinhos e outro com pequenas argolas",
+      "Muito usado em tênis infantis e mochilas",
+      "O nome junta as palavras francesas para 'veludo' e 'gancho'"
+    ],
+    "explanation": "George de Mestral patenteou a ideia em 1954, na Suíça; o nome vem de velours (veludo) + crochet (gancho).",
+    "tags": [
+      "internacional",
+      "clássicos",
+      "invenções",
+      "origem das coisas"
+    ],
+    "source": {
+      "url": "https://pt.wikipedia.org/wiki/Velcro",
+      "attribution": "Wikipédia — Velcro"
+    }
+  },
+  {
+    "id": "ale-016",
+    "category": "aleatorio",
+    "type": "clue",
+    "difficulty": 2,
+    "prompt": "Qual eletrodoméstico nasceu dessa descoberta?",
+    "media": {
+      "type": "text",
+      "style": "clue",
+      "text": "Um engenheiro que trabalhava com aparelhos de radar percebeu que uma barra de chocolate tinha derretido no seu bolso."
+    },
+    "answers": [
+      "Micro-ondas",
+      "Microondas",
+      "Forno de micro-ondas"
+    ],
+    "acceptedAliases": [],
+    "rejectedAnswers": [],
+    "hints": [
+      "O engenheiro se chamava Percy Spencer",
+      "Esquenta a comida agitando as moléculas de água",
+      "Perfeito para estourar pipoca de saquinho"
+    ],
+    "explanation": "Percy Spencer trabalhava na empresa Raytheon, que fabricava magnetrons para radares.",
+    "tags": [
+      "internacional",
+      "clássicos",
+      "invenções",
+      "origem das coisas"
+    ],
+    "source": {
+      "url": "https://pt.wikipedia.org/wiki/Forno_de_micro-ondas",
+      "attribution": "Wikipédia — Forno de micro-ondas"
+    }
+  },
+  {
+    "id": "ale-017",
+    "category": "aleatorio",
+    "type": "clue",
+    "difficulty": 2,
+    "prompt": "Qual animal?",
+    "media": {
+      "type": "text",
+      "style": "clue",
+      "text": "Animal típico do Cerrado, de pernas compridas e pelagem alaranjada, escolhido para estampar a nota de 200 reais, lançada em 2020."
+    },
+    "answers": [
+      "Lobo-guará"
+    ],
+    "acceptedAliases": [],
+    "rejectedAnswers": [
+      "Lobo",
+      "Lobo-cinzento",
+      "Guará"
+    ],
+    "hints": [
+      "É o maior canídeo da América do Sul",
+      "Come muitas frutas e ajuda a espalhar sementes",
+      "Tem uma crina escura no pescoço e no dorso"
+    ],
+    "explanation": "Depois do anúncio, um movimento na internet pediu que o vira-lata caramelo também ganhasse uma nota.",
+    "tags": [
+      "brasil",
+      "anos 2020",
+      "animais",
+      "dinheiro"
+    ],
+    "source": {
+      "url": "https://pt.wikipedia.org/wiki/C%C3%A9dula_de_duzentos_reais",
+      "attribution": "Wikipédia — Cédula de duzentos reais"
+    }
+  },
+  {
+    "id": "ale-018",
+    "category": "aleatorio",
+    "type": "clue",
+    "difficulty": 2,
+    "prompt": "Qual é o nome deste fenômeno?",
+    "media": {
+      "type": "text",
+      "style": "clue",
+      "text": "Encontro da maré do oceano com a correnteza do rio Amazonas e de outros rios da região, formando ondas que sobem o rio com grande barulho."
+    },
+    "answers": [
+      "Pororoca"
+    ],
+    "acceptedAliases": [],
+    "rejectedAnswers": [],
+    "hints": [
+      "Acontece no Pará e no Amapá",
+      "O nome vem do tupi e quer dizer 'estrondo'",
+      "Rima com 'pipoca'"
+    ],
+    "explanation": "Fenômenos parecidos acontecem em outros rios do mundo, mas a pororoca amazônica é uma das mais famosas.",
+    "tags": [
+      "brasil",
+      "natureza"
+    ],
+    "source": {
+      "url": "https://pt.wikipedia.org/wiki/Pororoca",
+      "attribution": "Wikipédia — Pororoca"
+    }
+  },
+  {
+    "id": "ale-019",
+    "category": "aleatorio",
+    "type": "clue",
+    "difficulty": 2,
+    "prompt": "Qual é este doce?",
+    "media": {
+      "type": "text",
+      "style": "clue",
+      "text": "Doce de leite condensado com chocolate cujo nome, segundo a versão mais conhecida, homenageia um candidato à Presidência da República na eleição de 1945."
+    },
+    "answers": [
+      "Brigadeiro"
+    ],
+    "acceptedAliases": [
+      "Negrinho"
+    ],
+    "rejectedAnswers": [],
+    "hints": [
+      "O candidato era o militar da Aeronáutica Eduardo Gomes",
+      "Presença obrigatória em festa de aniversário",
+      "Enrolado em bolinhas e coberto de granulado"
+    ],
+    "explanation": "Mulheres paulistanas engajadas na campanha organizavam festas para promover a candidatura, e o docinho servido nelas acabou levando a patente militar do candidato.",
+    "tags": [
+      "brasil",
+      "clássicos",
+      "comida"
+    ],
+    "source": {
+      "url": "https://pt.wikipedia.org/wiki/Brigadeiro_(doce)",
+      "attribution": "Wikipédia — Brigadeiro (doce)"
+    }
+  },
+  {
+    "id": "ale-020",
+    "category": "aleatorio",
+    "type": "clue",
+    "difficulty": 2,
+    "prompt": "Qual é este lugar?",
+    "media": {
+      "type": "text",
+      "style": "clue",
+      "text": "Parque nacional do Nordeste com enormes dunas de areia branca que, na época das chuvas, ficam salpicadas de lagoas azuis e verdes."
+    },
+    "answers": [
+      "Lençóis Maranhenses",
+      "Parque Nacional dos Lençóis Maranhenses"
+    ],
+    "acceptedAliases": [
+      "Lençóis"
+    ],
+    "rejectedAnswers": [
+      "Chapada Diamantina"
+    ],
+    "hints": [
+      "A porta de entrada mais famosa é a cidade de Barreirinhas",
+      "Vistas do alto, as dunas parecem roupa de cama estendida",
+      "Fica no estado vizinho ao Piauí, a oeste"
+    ],
+    "explanation": "O parque tem mais de 156 mil hectares e foi criado para proteger a flora, a fauna e as belezas naturais da região.",
+    "tags": [
+      "brasil",
+      "lugares",
+      "natureza"
+    ],
+    "source": {
+      "url": "https://pt.wikipedia.org/wiki/Parque_Nacional_dos_Len%C3%A7%C3%B3is_Maranhenses",
+      "attribution": "Wikipédia — Parque Nacional dos Lençóis Maranhenses"
+    }
+  },
+  {
+    "id": "ale-021",
+    "category": "aleatorio",
+    "type": "quote",
+    "difficulty": 2,
+    "prompt": "Qual sábio da Grécia Antiga, segundo a lenda, gritou isto ao sair correndo da banheira?",
+    "media": {
+      "type": "text",
+      "style": "quote",
+      "text": "Eureka!"
+    },
+    "answers": [
+      "Arquimedes",
+      "Arquimedes de Siracusa",
+      "Archimedes"
+    ],
+    "acceptedAliases": [],
+    "rejectedAnswers": [
+      "Aristóteles"
+    ],
+    "hints": [
+      "Viveu em Siracusa, na Sicília, no século III a.C.",
+      "Há um princípio sobre empuxo com o nome dele",
+      "Teria dito: 'Dê-me uma alavanca e um ponto de apoio, e moverei o mundo'"
+    ],
+    "explanation": "'Eureka' quer dizer 'encontrei!' em grego: ele teria percebido como medir o volume de um objeto pela água que transbordava.",
+    "tags": [
+      "internacional",
+      "clássicos",
+      "ciência",
+      "história"
+    ],
+    "source": {
+      "url": "https://pt.wikipedia.org/wiki/Arquimedes",
+      "attribution": "Wikipédia — Arquimedes"
+    }
+  },
+  {
+    "id": "ale-022",
+    "category": "aleatorio",
+    "type": "clue",
+    "difficulty": 2,
+    "prompt": "Qual é este ser do folclore brasileiro?",
+    "media": {
+      "type": "text",
+      "style": "clue",
+      "text": "Uma grande serpente de fogo; o nome, de origem tupi, significa 'coisa de fogo'."
+    },
+    "answers": [
+      "Boitatá",
+      "Mboitatá"
+    ],
+    "acceptedAliases": [],
+    "rejectedAnswers": [],
+    "hints": [
+      "Foi registrado ainda no século XVI pelo padre José de Anchieta",
+      "É associado ao fogo-fátuo, luz misteriosa que aparece em brejos e campos",
+      "É uma das entidades míticas mais antigas registradas no Brasil"
+    ],
+    "explanation": "No Sul do Brasil, o mesmo ser também é chamado de baitatá.",
+    "tags": [
+      "brasil",
+      "folclore"
+    ],
+    "source": {
+      "url": "https://pt.wikipedia.org/wiki/Boitat%C3%A1",
+      "attribution": "Wikipédia — Boitatá"
+    }
+  },
+  {
+    "id": "ale-023",
+    "category": "aleatorio",
+    "type": "clue",
+    "difficulty": 2,
+    "prompt": "Quem é esse inventor?",
+    "media": {
+      "type": "text",
+      "style": "clue",
+      "text": "Artesão alemão que, no século XV, desenvolveu na Europa a prensa tipográfica de tipos móveis de metal, permitindo produzir livros em grande escala."
+    },
+    "answers": [
+      "Johannes Gutenberg",
+      "Gutenberg"
+    ],
+    "acceptedAliases": [],
+    "rejectedAnswers": [],
+    "hints": [
+      "Viveu em Mainz, na atual Alemanha",
+      "Usou tinta à base de óleo na impressão",
+      "Uma famosa Bíblia impressa por ele leva o seu nome"
+    ],
+    "explanation": "Já se imprimia com tipos móveis na Ásia Oriental antes dele, mas foi o sistema dele que espalhou os livros pela Europa.",
+    "tags": [
+      "internacional",
+      "clássicos",
+      "invenções",
+      "história"
+    ],
+    "source": {
+      "url": "https://pt.wikipedia.org/wiki/Johannes_Gutenberg",
+      "attribution": "Wikipédia — Johannes Gutenberg"
+    }
+  },
+  {
+    "id": "ale-024",
+    "category": "aleatorio",
+    "type": "clue",
+    "difficulty": 2,
+    "prompt": "Qual é esta comida?",
+    "media": {
+      "type": "text",
+      "style": "clue",
+      "text": "Leva o nome de um conde inglês que, segundo a história, pedia carne entre duas fatias de pão para não interromper o jogo de cartas."
+    },
+    "answers": [
+      "Sanduíche",
+      "Sandwich",
+      "Sanduba"
+    ],
+    "acceptedAliases": [],
+    "rejectedAnswers": [],
+    "hints": [
+      "O conde se chamava John Montagu",
+      "O navegador James Cook batizou ilhas no Pacífico em homenagem ao mesmo conde",
+      "O misto-quente é um exemplo"
+    ],
+    "explanation": "As 'Ilhas Sandwich' batizadas por James Cook são o atual Havaí.",
+    "tags": [
+      "internacional",
+      "comida",
+      "origem das coisas"
+    ],
+    "source": {
+      "url": "https://pt.wikipedia.org/wiki/Sandu%C3%ADche",
+      "attribution": "Wikipédia — Sanduíche"
+    }
+  },
+  {
+    "id": "ale-025",
+    "category": "aleatorio",
+    "type": "clue",
+    "difficulty": 2,
+    "prompt": "Qual é o nome deste festival?",
+    "media": {
+      "type": "text",
+      "style": "clue",
+      "text": "Festival amazonense em que os bois-bumbás Garantido (vermelho) e Caprichoso (azul) disputam o título no Bumbódromo."
+    },
+    "answers": [
+      "Festival de Parintins",
+      "Festival Folclórico de Parintins",
+      "Parintins"
+    ],
+    "acceptedAliases": [],
+    "rejectedAnswers": [],
+    "hints": [
+      "Acontece no último fim de semana de junho",
+      "A cidade fica numa ilha do rio Amazonas",
+      "Leva o nome da cidade onde acontece"
+    ],
+    "explanation": "Cerca de 120 mil turistas visitam a cidade durante o festival, segundo a Amazonastur.",
+    "tags": [
+      "brasil",
+      "tradições",
+      "festas"
+    ],
+    "source": {
+      "url": "https://pt.wikipedia.org/wiki/Festival_Folcl%C3%B3rico_de_Parintins",
+      "attribution": "Wikipédia — Festival Folclórico de Parintins"
+    }
+  },
+  {
+    "id": "ale-026",
+    "category": "aleatorio",
+    "type": "clue",
+    "difficulty": 2,
+    "prompt": "Qual animal?",
+    "media": {
+      "type": "text",
+      "style": "clue",
+      "text": "Animal marinho de oito braços que tem três corações e sangue azulado."
+    },
+    "answers": [
+      "Polvo"
+    ],
+    "acceptedAliases": [],
+    "rejectedAnswers": [
+      "Lula"
+    ],
+    "hints": [
+      "Solta tinta para fugir dos predadores",
+      "Muda de cor para se camuflar",
+      "Aparece em pratos portugueses como o 'à lagareiro'"
+    ],
+    "explanation": "O sangue é azulado por causa da hemocianina, proteína rica em cobre que transporta o oxigênio.",
+    "tags": [
+      "internacional",
+      "animais",
+      "natureza"
+    ],
+    "source": {
+      "url": "https://en.wikipedia.org/wiki/Octopus",
+      "attribution": "Wikipedia (en) — Octopus"
+    }
+  },
+  {
+    "id": "ale-027",
+    "category": "aleatorio",
+    "type": "emoji",
+    "difficulty": 2,
+    "prompt": "Qual sobremesa brasileira é representada pelos emojis?",
+    "media": {
+      "type": "emoji",
+      "text": "🧀 💑"
+    },
+    "answers": [
+      "Romeu e Julieta"
+    ],
+    "acceptedAliases": [],
+    "rejectedAnswers": [],
+    "hints": [
+      "Mistura o doce com o salgado",
+      "Leva goiabada",
+      "Tem o nome de um casal famoso de Shakespeare"
+    ],
+    "explanation": "A versão clássica junta goiabada com queijo minas.",
+    "tags": [
+      "brasil",
+      "comida"
+    ],
+    "source": {
+      "url": "https://pt.wikipedia.org/wiki/Romeu_e_Julieta_(sobremesa)",
+      "attribution": "Wikipédia — Romeu e Julieta (sobremesa)"
+    }
+  },
+  {
+    "id": "ale-028",
+    "category": "aleatorio",
+    "type": "clue",
+    "difficulty": 3,
+    "prompt": "Qual é o sobrenome desse joalheiro francês, que também dá nome à marca?",
+    "media": {
+      "type": "text",
+      "style": "clue",
+      "text": "Em 1904, Santos Dumont reclamou a um amigo joalheiro que era pouco prático usar relógio de bolso durante os voos. O amigo desenhou para ele um relógio de pulso masculino — modelo que até hoje se chama 'Santos'."
+    },
+    "answers": [
+      "Cartier",
+      "Louis Cartier"
+    ],
+    "acceptedAliases": [],
+    "rejectedAnswers": [],
+    "hints": [
+      "Hoje é uma grife de luxo famosa por joias e relógios",
+      "O primeiro nome do joalheiro era Louis"
+    ],
+    "explanation": "Foi a única vez em que a marca batizou um relógio com o nome da pessoa para quem ele foi criado.",
+    "tags": [
+      "brasil",
+      "clássicos",
+      "invenções",
+      "moda"
+    ],
+    "source": {
+      "url": "https://en.wikipedia.org/wiki/Cartier_Santos",
+      "attribution": "Wikipedia (en) — Cartier Santos"
+    }
+  },
+  {
+    "id": "ale-029",
+    "category": "aleatorio",
+    "type": "clue",
+    "difficulty": 3,
+    "prompt": "Qual é o nome 'oficial' deste símbolo em português?",
+    "media": {
+      "type": "text",
+      "style": "clue",
+      "text": "O símbolo # — que no Brasil quase todo mundo chama de 'jogo da velha' ou de 'hashtag'."
+    },
+    "answers": [
+      "Cerquilha"
+    ],
+    "acceptedAliases": [
+      "Octótropo",
+      "Cancela"
+    ],
+    "rejectedAnswers": [],
+    "hints": [
+      "Em Portugal, é chamado de 'cardinal'",
+      "O desenho lembra uma pequena grade",
+      "Na música, um sinal parecido é o sustenido"
+    ],
+    "explanation": "Na revisão de textos, o símbolo também é usado para indicar que é preciso separar duas palavras.",
+    "tags": [
+      "internacional",
+      "símbolos",
+      "língua portuguesa"
+    ],
+    "source": {
+      "url": "https://pt.wikipedia.org/wiki/Cerquilha",
+      "attribution": "Wikipédia — Cerquilha"
+    }
+  },
+  {
+    "id": "ale-030",
+    "category": "aleatorio",
+    "type": "clue",
+    "difficulty": 3,
+    "prompt": "Qual é este osso?",
+    "media": {
+      "type": "text",
+      "style": "clue",
+      "text": "O menor osso do corpo humano fica dentro do ouvido e ajuda a transmitir as vibrações do som."
+    },
+    "answers": [
+      "Estribo"
+    ],
+    "acceptedAliases": [],
+    "rejectedAnswers": [],
+    "hints": [
+      "Forma uma cadeia com o martelo e a bigorna",
+      "Fica no ouvido médio",
+      "Tem o nome da peça da sela onde o cavaleiro apoia o pé"
+    ],
+    "explanation": "Ele se liga à bigorna pela menor articulação do corpo humano.",
+    "tags": [
+      "internacional",
+      "ciência",
+      "corpo humano"
+    ],
+    "source": {
+      "url": "https://pt.wikipedia.org/wiki/Estribo_(osso)",
+      "attribution": "Wikipédia — Estribo (osso)"
+    }
+  },
+  {
+    "id": "ale-031",
+    "category": "aleatorio",
+    "type": "clue",
+    "difficulty": 3,
+    "prompt": "Qual planeta?",
+    "media": {
+      "type": "text",
+      "style": "clue",
+      "text": "Planeta do Sistema Solar em que um dia (uma volta em torno de si mesmo) dura mais do que um ano (uma volta em torno do Sol)."
+    },
+    "answers": [
+      "Vênus"
+    ],
+    "acceptedAliases": [],
+    "rejectedAnswers": [
+      "Netuno",
+      "Urano"
+    ],
+    "hints": [
+      "É o planeta mais quente do Sistema Solar",
+      "Gira 'ao contrário' da maioria dos planetas",
+      "Depois da Lua, é o objeto mais brilhante do céu noturno"
+    ],
+    "explanation": "Ele leva cerca de 243 dias terrestres para girar em torno de si mesmo e cerca de 225 para dar a volta no Sol.",
+    "tags": [
+      "internacional",
+      "ciência",
+      "espaço"
+    ],
+    "source": {
+      "url": "https://pt.wikipedia.org/wiki/V%C3%A9nus_(planeta)",
+      "attribution": "Wikipédia — Vênus (planeta)"
+    }
+  },
+  {
+    "id": "ale-032",
+    "category": "aleatorio",
+    "type": "clue",
+    "difficulty": 3,
+    "prompt": "De qual estado brasileiro é esta versão da moqueca?",
+    "media": {
+      "type": "text",
+      "style": "clue",
+      "text": "Nesta moqueca, servida na panela de barro feita pelas paneleiras de Goiabeiras, não entra dendê nem leite de coco: a cor vem do urucum e o azeite é de oliva."
+    },
+    "answers": [
+      "Espírito Santo"
+    ],
+    "acceptedAliases": [
+      "ES"
+    ],
+    "rejectedAnswers": [
+      "Bahia"
+    ],
+    "hints": [
+      "Fica na região Sudeste",
+      "Goiabeiras é um bairro da capital, Vitória",
+      "Quem nasce lá é chamado de capixaba"
+    ],
+    "explanation": "A moqueca baiana, ao contrário, leva azeite de dendê e leite de coco, herança da influência africana.",
+    "tags": [
+      "brasil",
+      "comida"
+    ],
+    "source": {
+      "url": "https://pt.wikipedia.org/wiki/Moqueca",
+      "attribution": "Wikipédia — Moqueca"
+    }
+  },
+  {
+    "id": "ale-033",
+    "category": "aleatorio",
+    "type": "clue",
+    "difficulty": 3,
+    "prompt": "Qual é este objeto?",
+    "media": {
+      "type": "text",
+      "style": "clue",
+      "text": "Criado em 1957 por dois engenheiros que tentavam fazer um papel de parede texturizado. Não deu certo como decoração, mas virou embalagem — e passatempo de quem adora estourar."
+    },
+    "answers": [
+      "Plástico-bolha"
+    ],
+    "acceptedAliases": [
+      "Plástico de bolhas"
+    ],
+    "rejectedAnswers": [],
+    "hints": [
+      "Protege objetos frágeis em mudanças e entregas",
+      "Os criadores foram Alfred Fielding e Marc Chavannes",
+      "Apertar faz 'ploc'"
+    ],
+    "explanation": "Como muitas invenções, foi um acidente: o produto pensado para as paredes acabou dominando as caixas de encomendas.",
+    "tags": [
+      "internacional",
+      "clássicos",
+      "invenções",
+      "origem das coisas"
+    ],
+    "source": {
+      "url": "https://pt.wikipedia.org/wiki/Pl%C3%A1stico-bolha",
+      "attribution": "Wikipédia — Plástico-bolha"
+    }
+  },
+  {
+    "id": "ale-034",
+    "category": "aleatorio",
+    "type": "clue",
+    "difficulty": 3,
+    "prompt": "Quem é esse cientista brasileiro?",
+    "media": {
+      "type": "text",
+      "style": "clue",
+      "text": "Médico mineiro que, em 1903, desenvolveu cientificamente o soro antiofídico, contra picadas de cobra, e fundou um famoso instituto de pesquisa em São Paulo."
+    },
+    "answers": [
+      "Vital Brazil",
+      "Vital Brasil",
+      "Vital Brazil Mineiro da Campanha"
+    ],
+    "acceptedAliases": [],
+    "rejectedAnswers": [],
+    "hints": [
+      "O soro era produzido a partir do sangue de cavalos",
+      "O instituto fica às margens do rio Pinheiros",
+      "O instituto que fundou é o Butantan"
+    ],
+    "explanation": "Para fabricar o soro, ele fez convênios até com ferrovias, que transportavam as cobras capturadas no interior.",
+    "tags": [
+      "brasil",
+      "clássicos",
+      "ciência"
+    ],
+    "source": {
+      "url": "https://pt.wikipedia.org/wiki/Vital_Brazil",
+      "attribution": "Wikipédia — Vital Brazil"
+    }
+  },
+  {
+    "id": "ale-035",
+    "category": "aleatorio",
+    "type": "clue",
+    "difficulty": 3,
+    "prompt": "Qual é esta invenção?",
+    "media": {
+      "type": "text",
+      "style": "clue",
+      "text": "Em 1905, um menino americano de 11 anos esqueceu no quintal um copo de suco com uma colher dentro, numa noite muito fria. De manhã, tinha criado esta delícia gelada."
+    },
+    "answers": [
+      "Picolé",
+      "Sorvete de palito"
+    ],
+    "acceptedAliases": [
+      "Popsicle"
+    ],
+    "rejectedAnswers": [],
+    "hints": [
+      "O menino se chamava Frank Epperson",
+      "Ele só começou a vender a receita anos depois, já adulto",
+      "É vendido em carrinhos na praia e tem um palitinho"
+    ],
+    "explanation": "O primeiro nome comercial foi 'Eppsicle', de 'Epp's icicle' (o 'pingente de gelo do Epperson').",
+    "tags": [
+      "internacional",
+      "clássicos",
+      "invenções",
+      "origem das coisas"
+    ],
+    "source": {
+      "url": "https://pt.wikipedia.org/wiki/Picol%C3%A9",
+      "attribution": "Wikipédia — Picolé"
+    }
+  },
+  {
+    "id": "ale-036",
+    "category": "aleatorio",
+    "type": "clue",
+    "difficulty": 3,
+    "prompt": "Quem é esse cientista brasileiro?",
+    "media": {
+      "type": "text",
+      "style": "clue",
+      "text": "Médico mineiro que, em 1909, descreveu o parasita, o inseto transmissor (o barbeiro) e a doença que hoje leva o seu sobrenome."
+    },
+    "answers": [
+      "Carlos Chagas",
+      "Carlos Justiniano Ribeiro Chagas"
+    ],
+    "acceptedAliases": [],
+    "rejectedAnswers": [],
+    "hints": [
+      "Batizou o parasita de Trypanosoma cruzi, em homenagem ao mestre Oswaldo Cruz",
+      "Começou a carreira combatendo a malária",
+      "A descoberta aconteceu em Lassance, no interior de Minas Gerais"
+    ],
+    "explanation": "Ele percebeu o inseto porque um engenheiro da ferrovia o alertou sobre a infestação de barbeiros nas casas da região.",
+    "tags": [
+      "brasil",
+      "clássicos",
+      "ciência"
+    ],
+    "source": {
+      "url": "https://pt.wikipedia.org/wiki/Carlos_Chagas",
+      "attribution": "Wikipédia — Carlos Chagas"
+    }
+  },
+  {
+    "id": "ale-037",
+    "category": "aleatorio",
+    "type": "clue",
+    "difficulty": 4,
+    "prompt": "Qual estado essa estrela representa?",
+    "media": {
+      "type": "text",
+      "style": "clue",
+      "text": "Na bandeira do Brasil, a estrela Espiga é a única que fica acima da faixa branca com o lema 'Ordem e Progresso'."
+    },
+    "answers": [
+      "Pará"
+    ],
+    "acceptedAliases": [
+      "PA"
+    ],
+    "rejectedAnswers": [
+      "Paraná",
+      "Paraíba"
+    ],
+    "hints": [
+      "É um estado da região Norte",
+      "Em 1889, sua capital era a mais ao norte do país",
+      "Sua capital é Belém"
+    ],
+    "explanation": "Ao todo, a bandeira tem 27 estrelas, uma para cada estado e o Distrito Federal, posicionadas como o céu do Rio de Janeiro em 15 de novembro de 1889.",
+    "tags": [
+      "brasil",
+      "símbolos",
+      "bandeira"
+    ],
+    "source": {
+      "url": "https://pt.wikipedia.org/wiki/Bandeira_do_Brasil",
+      "attribution": "Wikipédia — Bandeira do Brasil"
+    }
+  },
+  {
+    "id": "ale-038",
+    "category": "aleatorio",
+    "type": "clue",
+    "difficulty": 4,
+    "prompt": "Qual é esta erva?",
+    "media": {
+      "type": "text",
+      "style": "clue",
+      "text": "Erva amazônica que, mastigada, provoca formigamento e uma leve dormência nos lábios e na língua; ingrediente do tacacá e do pato no tucupi."
+    },
+    "answers": [
+      "Jambu"
+    ],
+    "acceptedAliases": [
+      "Acmella oleracea"
+    ],
+    "rejectedAnswers": [],
+    "hints": [
+      "Muito usada na culinária do Pará e do Amazonas",
+      "Na medicina caseira, já foi usada contra dor de dente",
+      "Tem só cinco letras e rima com 'tatu'"
+    ],
+    "explanation": "A sensação de 'boca tremendo' vem de uma ação anestésica local das folhas e flores.",
+    "tags": [
+      "brasil",
+      "comida",
+      "plantas"
+    ],
+    "source": {
+      "url": "https://pt.wikipedia.org/wiki/Acmella_oleracea",
+      "attribution": "Wikipédia — Acmella oleracea (jambu)"
+    }
+  },
+  {
+    "id": "ale-039",
+    "category": "aleatorio",
+    "type": "clue",
+    "difficulty": 4,
+    "prompt": "Quem é esse físico brasileiro?",
+    "media": {
+      "type": "text",
+      "style": "clue",
+      "text": "Físico curitibano, um dos codescobridores do méson pi (píon) — descoberta que levou ao Prêmio Nobel de Física de 1950, dado ao líder da pesquisa, Cecil Powell."
+    },
+    "answers": [
+      "César Lattes",
+      "Cesare Mansueto Giulio Lattes"
+    ],
+    "acceptedAliases": [
+      "Lattes"
+    ],
+    "rejectedAnswers": [],
+    "hints": [
+      "Seu trabalho ajudou a impulsionar a criação do CNPq",
+      "Nasceu em 1924 e morreu em Campinas, em 2005",
+      "A plataforma de currículos dos pesquisadores brasileiros leva o seu nome"
+    ],
+    "explanation": "Todo pesquisador brasileiro conhece o nome dele por causa do 'Currículo Lattes', batizado em sua homenagem.",
+    "tags": [
+      "brasil",
+      "clássicos",
+      "ciência"
+    ],
+    "source": {
+      "url": "https://pt.wikipedia.org/wiki/C%C3%A9sar_Lattes",
+      "attribution": "Wikipédia — César Lattes"
+    }
+  },
+  {
+    "id": "ale-040",
+    "category": "aleatorio",
+    "type": "clue",
+    "difficulty": 4,
+    "prompt": "Quem é esse cientista?",
+    "media": {
+      "type": "text",
+      "style": "clue",
+      "text": "Cientista da computação britânico que, em 1989, no CERN, propôs o sistema que viraria a World Wide Web — e criou também o HTML, as URLs e o HTTP."
+    },
+    "answers": [
+      "Tim Berners-Lee",
+      "Timothy Berners-Lee",
+      "Berners-Lee"
+    ],
+    "acceptedAliases": [
+      "TimBL"
+    ],
+    "rejectedAnswers": [],
+    "hints": [
+      "Foi nomeado cavaleiro pela rainha Elizabeth II em 2004",
+      "Criou também o primeiro navegador",
+      "Ganhou o Prêmio Turing de 2016"
+    ],
+    "explanation": "Ele também fundou o W3C, consórcio que cuida dos padrões da web.",
+    "tags": [
+      "internacional",
+      "anos 80",
+      "invenções",
+      "tecnologia"
+    ],
+    "source": {
+      "url": "https://pt.wikipedia.org/wiki/Tim_Berners-Lee",
+      "attribution": "Wikipédia — Tim Berners-Lee"
+    }
+  },
+  {
+    "id": "ale-041",
+    "category": "aleatorio",
+    "type": "clue",
+    "difficulty": 4,
+    "prompt": "Qual é esta ave? (diga a espécie)",
+    "media": {
+      "type": "text",
+      "style": "clue",
+      "text": "Por um decreto de 2002, esta ave de ventre cor de ferrugem virou o centro das comemorações do Dia da Ave, como 'símbolo representativo da fauna ornitológica brasileira'."
+    },
+    "answers": [
+      "Sabiá-laranjeira"
+    ],
+    "acceptedAliases": [
+      "Sabiá"
+    ],
+    "rejectedAnswers": [],
+    "hints": [
+      "É considerada popularmente a ave nacional do Brasil",
+      "É símbolo do estado de São Paulo desde 1966",
+      "Gonçalves Dias: 'Minha terra tem palmeiras onde canta o...'"
+    ],
+    "explanation": "Seu canto melodioso é mais ouvido no período reprodutivo e, por isso, costuma ser associado à primavera.",
+    "tags": [
+      "brasil",
+      "animais",
+      "símbolos"
+    ],
+    "source": {
+      "url": "https://pt.wikipedia.org/wiki/Sabi%C3%A1-laranjeira",
+      "attribution": "Wikipédia — Sabiá-laranjeira"
+    }
+  }
+]

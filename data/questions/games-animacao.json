@@ -1,0 +1,914 @@
+[
+  {
+    "id": "gam-001",
+    "category": "games_animacao",
+    "type": "emoji",
+    "difficulty": 1,
+    "prompt": "Qual personagem de videogame é representado pelos emojis?",
+    "media": { "type": "emoji", "text": "🍄🪠🇮🇹" },
+    "answers": ["Mario", "Super Mario"],
+    "acceptedAliases": [],
+    "rejectedAnswers": ["Wario", "Luigi"],
+    "hints": [
+      "É o mascote de uma gigante japonesa dos games.",
+      "Usa boné vermelho, macacão azul e bigode.",
+      "Seu irmão mais alto se veste de verde."
+    ],
+    "explanation": "Criado por Shigeru Miyamoto, o encanador baixinho e bigodudo já apareceu em mais de 200 jogos e é o grande mascote da Nintendo.",
+    "tags": ["internacional", "anos 80", "nintendo"],
+    "source": { "url": "https://pt.wikipedia.org/wiki/Mario_(personagem)", "attribution": "Wikipédia — Mario (personagem)" }
+  },
+  {
+    "id": "gam-002",
+    "category": "games_animacao",
+    "type": "emoji",
+    "difficulty": 1,
+    "prompt": "Qual personagem de videogame é representado pelos emojis?",
+    "media": { "type": "emoji", "text": "🦔💨💍" },
+    "answers": ["Sonic", "Sonic the Hedgehog"],
+    "acceptedAliases": [],
+    "rejectedAnswers": ["Shadow", "Tails", "Knuckles"],
+    "hints": [
+      "É o mascote da Sega.",
+      "É azul e corre em altíssima velocidade.",
+      "Seu arqui-inimigo é o Dr. Eggman (Robotnik)."
+    ],
+    "explanation": "O ouriço azul estreou em 1991 e virou a grande resposta da Sega ao Mario na guerra dos consoles.",
+    "tags": ["internacional", "anos 90", "sega"],
+    "source": { "url": "https://pt.wikipedia.org/wiki/Sonic_the_Hedgehog_(personagem)", "attribution": "Wikipédia — Sonic the Hedgehog (personagem)" }
+  },
+  {
+    "id": "gam-003",
+    "category": "games_animacao",
+    "type": "emoji",
+    "difficulty": 1,
+    "prompt": "Qual clássico dos fliperamas é representado pelos emojis?",
+    "media": { "type": "emoji", "text": "🟡👻🍒" },
+    "answers": ["Pac-Man", "Pacman"],
+    "acceptedAliases": [],
+    "rejectedAnswers": ["Ms. Pac-Man"],
+    "hints": [
+      "Foi lançado em 1980.",
+      "O personagem percorre um labirinto comendo pastilhas.",
+      "Quatro fantasmas coloridos o perseguem."
+    ],
+    "explanation": "Criado por Toru Iwatani, o jogo é um dos mais icônicos da era de ouro dos fliperamas; as pastilhas maiores permitem caçar os fantasmas.",
+    "tags": ["internacional", "anos 80", "fliperama"],
+    "source": { "url": "https://pt.wikipedia.org/wiki/Pac-Man", "attribution": "Wikipédia — Pac-Man" }
+  },
+  {
+    "id": "gam-004",
+    "category": "games_animacao",
+    "type": "emoji",
+    "difficulty": 1,
+    "prompt": "Os emojis lembram os botões do controle de um famoso console. Qual empresa fabrica esse console?",
+    "media": { "type": "emoji", "text": "🔺⭕❌🟪" },
+    "answers": ["Sony"],
+    "acceptedAliases": [],
+    "rejectedAnswers": ["Sega", "Nintendo", "Microsoft"],
+    "hints": [
+      "É uma empresa japonesa de eletrônicos.",
+      "Seu primeiro console foi lançado no Japão em 3 de dezembro de 1994.",
+      "Também ficou famosa pelo Walkman."
+    ],
+    "explanation": "Triângulo, círculo, xis e quadrado viraram marca registrada do PlayStation, linha de consoles da Sony.",
+    "tags": ["internacional", "anos 90", "console", "playstation"],
+    "source": { "url": "https://pt.wikipedia.org/wiki/PlayStation_(console)", "attribution": "Wikipédia — PlayStation (console)" }
+  },
+  {
+    "id": "gam-005",
+    "category": "games_animacao",
+    "type": "clue",
+    "difficulty": 1,
+    "prompt": "Qual é o nome desse jogo?",
+    "media": { "type": "text", "style": "clue", "text": "Jogo soviético de 1984 em que peças formadas por quatro quadradinhos caem sem parar e precisam ser encaixadas para completar linhas horizontais." },
+    "answers": ["Tetris"],
+    "acceptedAliases": [],
+    "rejectedAnswers": [],
+    "hints": [
+      "Foi criado pelo engenheiro de software Alexey Pajitnov.",
+      "A primeira versão rodava num computador Electronika 60.",
+      "Fez enorme sucesso no Game Boy."
+    ],
+    "explanation": "As peças do jogo se chamam tetraminós; Pajitnov o criou enquanto trabalhava na Academia de Ciências da União Soviética.",
+    "tags": ["internacional", "anos 80", "quebra-cabeça"],
+    "source": { "url": "https://pt.wikipedia.org/wiki/Tetris", "attribution": "Wikipédia — Tetris" }
+  },
+  {
+    "id": "gam-006",
+    "category": "games_animacao",
+    "type": "clue",
+    "difficulty": 1,
+    "prompt": "Qual é o nome dessa franquia de games?",
+    "media": { "type": "text", "style": "clue", "text": "Franquia de mundo aberto da Rockstar com cidades fictícias como Liberty City, Vice City e San Andreas; o nome é um termo policial americano para roubo de carros." },
+    "answers": ["Grand Theft Auto"],
+    "acceptedAliases": ["GTA"],
+    "rejectedAnswers": [],
+    "hints": [
+      "É desenvolvida principalmente pela Rockstar North, do Reino Unido.",
+      "Liberty City é inspirada em Nova York; Vice City, em Miami.",
+      "Os fãs chamam a série por uma sigla de três letras."
+    ],
+    "explanation": "'Grand theft' designa um furto de alto valor e 'auto' é automóvel — o nome da série vem do jargão da polícia dos EUA.",
+    "tags": ["internacional", "anos 90", "rockstar"],
+    "source": { "url": "https://pt.wikipedia.org/wiki/Grand_Theft_Auto", "attribution": "Wikipédia — Grand Theft Auto" }
+  },
+  {
+    "id": "gam-007",
+    "category": "games_animacao",
+    "type": "emoji",
+    "difficulty": 1,
+    "prompt": "Qual jogo online é representado pelos emojis?",
+    "media": { "type": "emoji", "text": "🚀🧑‍🚀🤥🗳️" },
+    "answers": ["Among Us"],
+    "acceptedAliases": [],
+    "rejectedAnswers": [],
+    "hints": [
+      "É um jogo de dedução social lançado em 2018 pelo estúdio InnerSloth.",
+      "Os tripulantes cumprem tarefas enquanto alguns jogadores sabotam a nave.",
+      "Os suspeitos de serem 'impostores' são expulsos por votação."
+    ],
+    "explanation": "Lançado em 2018 para celulares, o jogo explodiu em 2020 e depois chegou a Switch, PlayStation e Xbox.",
+    "tags": ["internacional", "anos 2010", "online"],
+    "source": { "url": "https://pt.wikipedia.org/wiki/Among_Us", "attribution": "Wikipédia — Among Us" }
+  },
+  {
+    "id": "gam-008",
+    "category": "games_animacao",
+    "type": "clue",
+    "difficulty": 1,
+    "prompt": "Qual é o nome desse jogo?",
+    "media": { "type": "text", "style": "clue", "text": "Battle royale para celular publicado pela Garena em 2017, em que cinquenta jogadores saltam de paraquedas numa ilha atrás de armas — popularíssimo no Brasil." },
+    "answers": ["Free Fire", "Garena Free Fire"],
+    "acceptedAliases": ["FF"],
+    "rejectedAnswers": ["Fortnite", "PUBG"],
+    "hints": [
+      "Foi desenvolvido pelo 111Dots Studio.",
+      "Ganhou o prêmio 'Escolha do Público' da Google Play em 2019.",
+      "Foi o jogo de celular mais baixado do mundo em 2019."
+    ],
+    "explanation": "Em maio de 2020 o jogo bateu 80 milhões de usuários ativos por dia; desde 2021, já passou dos 150 milhões.",
+    "tags": ["internacional", "anos 2010", "celular", "battle royale"],
+    "source": { "url": "https://pt.wikipedia.org/wiki/Free_Fire", "attribution": "Wikipédia — Free Fire" }
+  },
+  {
+    "id": "gam-009",
+    "category": "games_animacao",
+    "type": "clue",
+    "difficulty": 1,
+    "prompt": "Qual é o nome desse anime?",
+    "media": { "type": "text", "style": "clue", "text": "Anime de guerreiros com armaduras ligadas às constelações, que protegem a deusa Atena; estreou no Brasil em 1994, na Rede Manchete, e virou febre." },
+    "answers": ["Os Cavaleiros do Zodíaco", "Saint Seiya"],
+    "acceptedAliases": ["CDZ"],
+    "rejectedAnswers": [],
+    "hints": [
+      "O mangá foi criado por Masami Kurumada.",
+      "O protagonista veste a armadura de Pégaso.",
+      "No Japão, o título é o nome do protagonista."
+    ],
+    "explanation": "O anime foi oferecido à Globo e ao SBT, que recusaram; na Manchete, ficou no ar de 1994 a 1997. O nome brasileiro veio da versão francesa, 'Les Chevaliers du Zodiaque'.",
+    "tags": ["internacional", "anos 80", "anime"],
+    "source": { "url": "https://pt.wikipedia.org/wiki/Os_Cavaleiros_do_Zodíaco", "attribution": "Wikipédia — Os Cavaleiros do Zodíaco" }
+  },
+  {
+    "id": "gam-010",
+    "category": "games_animacao",
+    "type": "clue",
+    "difficulty": 1,
+    "prompt": "Qual é o nome desse ninja?",
+    "media": { "type": "text", "style": "clue", "text": "Ninja loiro e hiperativo da Vila Oculta da Folha, que tem a Raposa de Nove Caudas selada dentro de si e sonha em se tornar Hokage." },
+    "answers": ["Naruto", "Naruto Uzumaki"],
+    "acceptedAliases": [],
+    "rejectedAnswers": ["Sasuke", "Boruto"],
+    "hints": [
+      "É o protagonista de um mangá de Masashi Kishimoto.",
+      "Faz parte do Time 7, ao lado de Sasuke e Sakura.",
+      "O mangá e o anime levam o nome dele."
+    ],
+    "explanation": "A organização Akatsuki tenta capturar as bestas com cauda — incluindo a Raposa de Nove Caudas selada dentro dele.",
+    "tags": ["internacional", "anos 2000", "anime"],
+    "source": { "url": "https://pt.wikipedia.org/wiki/Naruto", "attribution": "Wikipédia — Naruto" }
+  },
+  {
+    "id": "gam-011",
+    "category": "games_animacao",
+    "type": "clue",
+    "difficulty": 1,
+    "prompt": "Qual é o nome desse coelhinho?",
+    "media": { "type": "text", "style": "clue", "text": "Coelho de pelúcia azul, de orelhas compridas, que a dona usa para dar 'coelhadas' nos meninos que mexem com ela." },
+    "answers": ["Sansão"],
+    "acceptedAliases": [],
+    "rejectedAnswers": [],
+    "hints": [
+      "Ele pertence à 'dona da rua' da Turma da Mônica.",
+      "O Cebolinha vive tentando dar nós nas orelhas dele.",
+      "Tem nome de um personagem bíblico famoso pela força."
+    ],
+    "explanation": "O coelho só ganhou nome em 1983, num concurso vencido por uma menina de 2 anos; ele foi inspirado num brinquedo de infância de Mônica Sousa, filha de Mauricio de Sousa.",
+    "tags": ["brasil", "clássicos", "turma da mônica", "quadrinhos"],
+    "source": { "url": "https://pt.wikipedia.org/wiki/Sansão_(Turma_da_Mônica)", "attribution": "Wikipédia — Sansão (Turma da Mônica)" }
+  },
+  {
+    "id": "gam-012",
+    "category": "games_animacao",
+    "type": "clue",
+    "difficulty": 1,
+    "prompt": "Qual é o nome desse personagem?",
+    "media": { "type": "text", "style": "clue", "text": "Pássaro de desenho animado criado em 1940 por Walter Lantz, famoso pela risada escandalosa e pelas confusões que apronta." },
+    "answers": ["Pica-Pau", "Picapau", "Woody Woodpecker"],
+    "acceptedAliases": [],
+    "rejectedAnswers": [],
+    "hints": [
+      "Estreou no curta 'Knock Knock'.",
+      "Os desenhos eram distribuídos pela Universal Pictures.",
+      "Tem um topete vermelho bem pontudo."
+    ],
+    "explanation": "Criado por Walter Lantz e Ben Hardaway, ele é considerado um dos personagens 'malucos' mais marcantes da animação dos anos 1940.",
+    "tags": ["internacional", "clássicos", "desenho"],
+    "source": { "url": "https://pt.wikipedia.org/wiki/Pica-Pau_(personagem)", "attribution": "Wikipédia — Pica-Pau (personagem)" }
+  },
+  {
+    "id": "gam-013",
+    "category": "games_animacao",
+    "type": "quote",
+    "difficulty": 1,
+    "prompt": "Qual personagem de desenho animado é dono desse bordão?",
+    "media": { "type": "text", "style": "quote", "text": "O que é que há, velhinho?" },
+    "answers": ["Pernalonga", "Bugs Bunny"],
+    "acceptedAliases": [],
+    "rejectedAnswers": ["Patolino", "Gaguinho"],
+    "hints": [
+      "Ele é a grande estrela dos Looney Tunes.",
+      "Costuma dizer a frase mastigando uma cenoura.",
+      "É um coelho cinza e branco."
+    ],
+    "explanation": "No original, a frase é 'What's up, Doc?'; em Portugal, foi traduzida como 'Qual é, meu?'.",
+    "tags": ["internacional", "clássicos", "desenho", "looney tunes"],
+    "source": { "url": "https://pt.wikipedia.org/wiki/Bugs_Bunny", "attribution": "Wikipédia — Bugs Bunny" }
+  },
+  {
+    "id": "gam-014",
+    "category": "games_animacao",
+    "type": "quote",
+    "difficulty": 1,
+    "prompt": "Qual personagem de desenho animado solta essa interjeição sempre que faz besteira?",
+    "media": { "type": "text", "style": "quote", "text": "D'oh!" },
+    "answers": ["Homer Simpson", "Homer"],
+    "acceptedAliases": [],
+    "rejectedAnswers": ["Bart", "Barney"],
+    "hints": [
+      "Ele trabalha numa usina nuclear.",
+      "Mora na cidade de Springfield.",
+      "É pai de Bart, Lisa e Maggie."
+    ],
+    "explanation": "A interjeição ficou tão famosa que, desde 2001, a palavra 'doh' aparece no Oxford English Dictionary.",
+    "tags": ["internacional", "anos 90", "desenho", "os simpsons"],
+    "source": { "url": "https://en.wikipedia.org/wiki/D'oh!", "attribution": "Wikipédia (inglês) — D'oh!" }
+  },
+  {
+    "id": "gam-015",
+    "category": "games_animacao",
+    "type": "clue",
+    "difficulty": 2,
+    "prompt": "Qual é o nome desse herói?",
+    "media": { "type": "text", "style": "clue", "text": "Herói de túnica e gorro verdes que empunha a Master Sword para salvar a princesa e o reino de Hyrule do vilão Ganon." },
+    "answers": ["Link"],
+    "acceptedAliases": [],
+    "rejectedAnswers": ["Zelda"],
+    "hints": [
+      "Ele é o protagonista de uma série da Nintendo iniciada em 1986.",
+      "Muita gente o confunde com a personagem que dá nome à série.",
+      "Em 'Ocarina of Time', é guiado pela fada Navi."
+    ],
+    "explanation": "Apesar de a série se chamar 'The Legend of Zelda', Zelda é a princesa — o herói jogável é o Link, uma confusão clássica entre os jogadores.",
+    "tags": ["internacional", "anos 80", "nintendo", "zelda"],
+    "source": { "url": "https://pt.wikipedia.org/wiki/Link_(personagem)", "attribution": "Wikipédia — Link (personagem)" }
+  },
+  {
+    "id": "gam-016",
+    "category": "games_animacao",
+    "type": "emoji",
+    "difficulty": 2,
+    "prompt": "Qual vilão de videogame é representado pelos emojis?",
+    "media": { "type": "emoji", "text": "🐢👑🔥" },
+    "answers": ["Bowser", "Rei Koopa", "King Koopa"],
+    "acceptedAliases": [],
+    "rejectedAnswers": ["Bowser Jr.", "Koopa Troopa"],
+    "hints": [
+      "É o arqui-inimigo de um encanador famoso.",
+      "Vive raptando a princesa do Reino dos Cogumelos.",
+      "É o rei de uma espécie parecida com tartarugas e cospe fogo."
+    ],
+    "explanation": "No Japão ele se chama simplesmente Koopa; é o principal vilão do universo Mario e lidera a organização Koopa Troop.",
+    "tags": ["internacional", "anos 80", "nintendo", "vilão"],
+    "source": { "url": "https://pt.wikipedia.org/wiki/Bowser", "attribution": "Wikipédia — Bowser" }
+  },
+  {
+    "id": "gam-017",
+    "category": "games_animacao",
+    "type": "quote",
+    "difficulty": 2,
+    "prompt": "Qual é o nome da princesa que o herói tenta resgatar nesse jogo?",
+    "media": { "type": "text", "style": "quote", "text": "Thank you Mario! But our princess is in another castle!" },
+    "answers": ["Peach", "Princesa Peach", "Toadstool", "Princesa Toadstool"],
+    "acceptedAliases": [],
+    "rejectedAnswers": ["Daisy", "Pauline", "Zelda"],
+    "hints": [
+      "A frase é dita por um Toad depois de cada falso Bowser derrotado em 'Super Mario Bros.' (1985).",
+      "Ela governa o Reino dos Cogumelos.",
+      "Seu nome é o de uma fruta, em inglês."
+    ],
+    "explanation": "No 'Super Mario Bros.' de 1985, ela foi apresentada no Ocidente como Princess Toadstool; com o tempo, o nome Peach se firmou.",
+    "tags": ["internacional", "anos 80", "nintendo"],
+    "source": { "url": "https://en.wikipedia.org/wiki/Super_Mario_Bros.", "attribution": "Wikipédia (inglês) — Super Mario Bros." }
+  },
+  {
+    "id": "gam-018",
+    "category": "games_animacao",
+    "type": "clue",
+    "difficulty": 2,
+    "prompt": "Como é conhecido esse personagem?",
+    "media": { "type": "text", "style": "clue", "text": "Protagonista de GTA San Andreas (2004), membro da gangue Grove Street Families, que volta a Los Santos depois de anos longe de casa." },
+    "answers": ["CJ", "Carl Johnson"],
+    "acceptedAliases": [],
+    "rejectedAnswers": ["Big Smoke", "Sweet", "Ryder"],
+    "hints": [
+      "O jogo foi desenvolvido pela Rockstar North.",
+      "O irmão dele se chama Sweet.",
+      "Seu apelido é formado pelas iniciais do nome."
+    ],
+    "explanation": "Carl Johnson foi o protagonista do quinto título principal da série Grand Theft Auto.",
+    "tags": ["internacional", "anos 2000", "gta"],
+    "source": { "url": "https://pt.wikipedia.org/wiki/Carl_Johnson", "attribution": "Wikipédia — Carl Johnson" }
+  },
+  {
+    "id": "gam-019",
+    "category": "games_animacao",
+    "type": "clue",
+    "difficulty": 2,
+    "prompt": "Qual é o nome desse personagem?",
+    "media": { "type": "text", "style": "clue", "text": "Guerreiro espartano de pele pálida e tatuagem vermelha, conhecido como 'Fantasma de Esparta', que enfrenta deuses gregos e, mais tarde, nórdicos." },
+    "answers": ["Kratos"],
+    "acceptedAliases": [],
+    "rejectedAnswers": ["Ares", "Atreus", "Zeus"],
+    "hints": [
+      "Estreou em 2005, num jogo para PlayStation 2.",
+      "A série é desenvolvida pelo Santa Monica Studio.",
+      "A franquia se chama 'God of War'."
+    ],
+    "explanation": "Ele estreou em 'God of War' (2005), baseado na mitologia grega; a partir de 2018, a série passou a explorar a mitologia nórdica.",
+    "tags": ["internacional", "anos 2000", "playstation"],
+    "source": { "url": "https://pt.wikipedia.org/wiki/Kratos_(God_of_War)", "attribution": "Wikipédia — Kratos (God of War)" }
+  },
+  {
+    "id": "gam-020",
+    "category": "games_animacao",
+    "type": "clue",
+    "difficulty": 2,
+    "prompt": "Qual é o nome desse videogame?",
+    "media": { "type": "text", "style": "clue", "text": "Portátil da Nintendo lançado em 1989, criado por Gunpei Yokoi, com tela monocromática de fundo esverdeado e jogos em preto e branco." },
+    "answers": ["Game Boy"],
+    "acceptedAliases": [],
+    "rejectedAnswers": ["Game Boy Color", "Game Boy Advance", "Game Gear"],
+    "hints": [
+      "Permitia partidas a dois usando um cabo de conexão.",
+      "O Tetris foi um dos jogos que o transformaram em fenômeno.",
+      "Ganhou versões redesenhadas, como a Pocket e a Light."
+    ],
+    "explanation": "Lançado em abril de 1989 no Japão, o aparelho teve versões Pocket (1996) e Light (1998, só no Japão).",
+    "tags": ["internacional", "anos 80", "console", "nintendo"],
+    "source": { "url": "https://pt.wikipedia.org/wiki/Game_Boy", "attribution": "Wikipédia — Game Boy" }
+  },
+  {
+    "id": "gam-021",
+    "category": "games_animacao",
+    "type": "clue",
+    "difficulty": 2,
+    "prompt": "Qual é o nome desse brinquedo?",
+    "media": { "type": "text", "style": "clue", "text": "Bichinho virtual japonês lançado pela Bandai em 1996: um aparelhinho portátil com uma criaturinha na tela que precisava de cuidados constantes." },
+    "answers": ["Tamagotchi", "Tamagoshi", "Tamagochi"],
+    "acceptedAliases": [],
+    "rejectedAnswers": ["Digimon"],
+    "hints": [
+      "Foi criado a partir de uma ideia de Akihiro Yokoi, da empresa WiZ.",
+      "Virou febre entre crianças e adolescentes no fim dos anos 90.",
+      "Deu origem a spin-offs como Digimon."
+    ],
+    "explanation": "Lançado em 23 de novembro de 1996, o aparelho foi um sucesso inesperado e gerou mangás, jogos, animes e spin-offs.",
+    "tags": ["internacional", "anos 90", "brinquedo"],
+    "source": { "url": "https://pt.wikipedia.org/wiki/Tamagotchi", "attribution": "Wikipédia — Tamagotchi" }
+  },
+  {
+    "id": "gam-022",
+    "category": "games_animacao",
+    "type": "clue",
+    "difficulty": 2,
+    "prompt": "Qual é o nome desse jogo?",
+    "media": { "type": "text", "style": "clue", "text": "Jogo de tiro tático em primeira pessoa de 2000, nascido como mod de Half-Life, em que terroristas e uma equipe antiterror se enfrentam para plantar ou desarmar bombas e resgatar reféns — febre nas lan houses." },
+    "answers": ["Counter-Strike"],
+    "acceptedAliases": ["CS", "CS 1.6", "CS:GO", "CS2"],
+    "rejectedAnswers": ["Call of Duty"],
+    "hints": [
+      "Foi desenvolvido pela Valve.",
+      "Um de seus mapas mais famosos é o de_dust2.",
+      "Os jogadores começam com faca e pistola e compram armas a cada rodada."
+    ],
+    "explanation": "Criado por Minh Le e Jess Cliffe, o jogo deu origem a uma das maiores séries de e-sports do mundo.",
+    "tags": ["internacional", "anos 2000", "tiro", "e-sports"],
+    "source": { "url": "https://pt.wikipedia.org/wiki/Counter-Strike", "attribution": "Wikipédia — Counter-Strike" }
+  },
+  {
+    "id": "gam-023",
+    "category": "games_animacao",
+    "type": "quote",
+    "difficulty": 2,
+    "prompt": "Qual personagem de Dragon Ball Z diz essa frase na dublagem em inglês?",
+    "media": { "type": "text", "style": "quote", "text": "It's over 9000!" },
+    "answers": ["Vegeta"],
+    "acceptedAliases": [],
+    "rejectedAnswers": ["Nappa", "Goku", "Freeza"],
+    "hints": [
+      "Ele é o orgulhoso príncipe dos Saiyajins.",
+      "A frase é sobre o nível de poder de Goku, medido por um rastreador.",
+      "No original japonês, o número dito era 8 mil."
+    ],
+    "explanation": "No original japonês e no mangá, o nível de poder era 'mais de 8 mil'; a mudança na dublagem em inglês virou meme na internet a partir de 2006.",
+    "tags": ["internacional", "anos 2000", "anime", "dragon ball"],
+    "source": { "url": "https://en.wikipedia.org/wiki/It's_Over_9000!", "attribution": "Wikipédia (inglês) — It's Over 9000!" }
+  },
+  {
+    "id": "gam-024",
+    "category": "games_animacao",
+    "type": "clue",
+    "difficulty": 2,
+    "prompt": "Como esse professor é chamado no Brasil?",
+    "media": { "type": "text", "style": "clue", "text": "Pesquisador de Pallet Town que, no anime Pokémon, entrega a Ash o seu primeiro Pokémon: um Pikachu." },
+    "answers": ["Professor Carvalho", "Samuel Carvalho", "Carvalho", "Professor Oak", "Oak"],
+    "acceptedAliases": [],
+    "rejectedAnswers": ["Gary Carvalho", "Gary Oak"],
+    "hints": [
+      "No Japão, ele se chama Yukinari Okido.",
+      "O neto dele é rival de Ash.",
+      "O sobrenome dele é o nome de uma árvore."
+    ],
+    "explanation": "Em inglês ele é o Professor Samuel Oak — e 'oak' significa justamente 'carvalho'; o neto, Gary, também ganhou o sobrenome traduzido.",
+    "tags": ["internacional", "anos 90", "anime", "pokémon"],
+    "source": { "url": "https://pt.wikipedia.org/wiki/Pokémon_(anime)", "attribution": "Wikipédia — Pokémon (anime)" }
+  },
+  {
+    "id": "gam-025",
+    "category": "games_animacao",
+    "type": "clue",
+    "difficulty": 2,
+    "prompt": "Qual é o nome desse personagem?",
+    "media": { "type": "text", "style": "clue", "text": "Vizinho mal-humorado e pretensioso que toca clarinete, mora numa cabeça de pedra (um moai) e trabalha, entediado, no caixa do Siri Cascudo." },
+    "answers": ["Lula Molusco", "Squidward"],
+    "acceptedAliases": [],
+    "rejectedAnswers": ["Patrick", "Seu Siriguejo", "Plankton"],
+    "hints": [
+      "Ele é vizinho do Bob Esponja e do Patrick.",
+      "Apesar do nome, é um polvo — com apenas seis tentáculos.",
+      "Ele se considera um grande artista incompreendido."
+    ],
+    "explanation": "Criado pelo biólogo marinho e animador Stephen Hillenburg, o personagem estreou junto com a série em 1º de maio de 1999.",
+    "tags": ["internacional", "anos 90", "desenho", "nickelodeon"],
+    "source": { "url": "https://pt.wikipedia.org/wiki/Squidward_Tentacles", "attribution": "Wikipédia — Squidward Tentacles" }
+  },
+  {
+    "id": "gam-026",
+    "category": "games_animacao",
+    "type": "clue",
+    "difficulty": 2,
+    "prompt": "Qual é o nome desse personagem?",
+    "media": { "type": "text", "style": "clue", "text": "Guia baixinho e enigmático que entregou as 'armas do poder' a jovens presos num reino mágico — e que sempre some quando eles mais precisam." },
+    "answers": ["Mestre dos Magos", "Dungeon Master"],
+    "acceptedAliases": [],
+    "rejectedAnswers": ["Vingador", "Tiamat"],
+    "hints": [
+      "O desenho estreou no Brasil em 1985, dentro do programa 'Balão Mágico', da TV Globo.",
+      "Os jovens foram parar no reino depois de andar num brinquedo de parque de diversões.",
+      "No Brasil, o desenho se chama 'Caverna do Dragão'."
+    ],
+    "explanation": "No original, ele se chama Dungeon Master — termo dos jogos de RPG que inspiraram o desenho; o grande vilão da série é o Vingador.",
+    "tags": ["internacional", "anos 80", "desenho"],
+    "source": { "url": "https://pt.wikipedia.org/wiki/Dungeons_%26_Dragons_(série_animada)", "attribution": "Wikipédia — Dungeons & Dragons (série animada)" }
+  },
+  {
+    "id": "gam-027",
+    "category": "games_animacao",
+    "type": "clue",
+    "difficulty": 2,
+    "prompt": "Qual é o nome desse vilão?",
+    "media": { "type": "text", "style": "clue", "text": "Vilão de capuz roxo e rosto cadavérico que tenta, a todo custo, se apoderar dos segredos do Castelo de Grayskull." },
+    "answers": ["Esqueleto", "Skeletor"],
+    "acceptedAliases": [],
+    "rejectedAnswers": ["Hordak", "Mumm-Ra"],
+    "hints": [
+      "Ele vive no planeta Etérnia.",
+      "É o arqui-inimigo de He-Man.",
+      "O nome dele combina com a cara de caveira."
+    ],
+    "explanation": "He-Man, alter ego do Príncipe Adam, defende o Castelo de Grayskull e o planeta Etérnia das forças malignas desse vilão.",
+    "tags": ["internacional", "anos 80", "desenho", "vilão"],
+    "source": { "url": "https://pt.wikipedia.org/wiki/He-Man", "attribution": "Wikipédia — He-Man" }
+  },
+  {
+    "id": "gam-028",
+    "category": "games_animacao",
+    "type": "quote",
+    "difficulty": 2,
+    "prompt": "De qual desenho animado é essa resposta clássica?",
+    "media": { "type": "text", "style": "quote", "text": "A mesma coisa que fazemos todas as noites… Tentar conquistar o mundo!" },
+    "answers": ["Pinky e o Cérebro", "Pinky and the Brain"],
+    "acceptedAliases": [],
+    "rejectedAnswers": ["Animaniacs"],
+    "hints": [
+      "Os protagonistas são dois ratos brancos de laboratório.",
+      "Eles começaram como um quadro de 'Animaniacs'.",
+      "A frase responde à pergunta: 'O que você quer fazer esta noite?'"
+    ],
+    "explanation": "Os ratos usam os Laboratórios Acme como base; o criador Tom Ruegger disse que eles foram inspirados em dois produtores de 'Tiny Toon Adventures'.",
+    "tags": ["internacional", "anos 90", "desenho"],
+    "source": { "url": "https://pt.wikipedia.org/wiki/Pinky_and_the_Brain", "attribution": "Wikipédia — Pinky and the Brain" }
+  },
+  {
+    "id": "gam-029",
+    "category": "games_animacao",
+    "type": "clue",
+    "difficulty": 2,
+    "prompt": "Qual é o nome desse bichinho?",
+    "media": { "type": "text", "style": "clue", "text": "Animal de estimação semiaquático, verde-azulado, de dois irmãos que inventam mil coisas nas férias; em segredo, é um agente que enfrenta o cientista do mal Dr. Heinz Doofenshmirtz." },
+    "answers": ["Perry", "Perry, o Ornitorrinco", "Agente P"],
+    "acceptedAliases": [],
+    "rejectedAnswers": ["Phineas", "Ferb"],
+    "hints": [
+      "O desenho é do Disney Channel.",
+      "Os donos se chamam Phineas e Ferb.",
+      "Quando entra em missão, ele coloca um chapéu."
+    ],
+    "explanation": "Nas missões ele é o 'Agente P', e quase todo episódio tem um sub-enredo com ele enfrentando o Dr. Doofenshmirtz.",
+    "tags": ["internacional", "anos 2000", "desenho", "disney"],
+    "source": { "url": "https://pt.wikipedia.org/wiki/Phineas_e_Ferb", "attribution": "Wikipédia — Phineas e Ferb" }
+  },
+  {
+    "id": "gam-030",
+    "category": "games_animacao",
+    "type": "clue",
+    "difficulty": 2,
+    "prompt": "Como é conhecido esse item?",
+    "media": { "type": "text", "style": "clue", "text": "Item temido em Mario Kart: quando usado, voa direto até o competidor que está em 1º lugar e o atinge em cheio." },
+    "answers": ["Casco Azul", "Blue Shell", "Spiny Shell"],
+    "acceptedAliases": [],
+    "rejectedAnswers": ["Casco Vermelho", "Casco Verde", "Red Shell", "Green Shell"],
+    "hints": [
+      "Estreou em 'Mario Kart 64' (1996).",
+      "Costuma aparecer para quem está nas últimas posições.",
+      "Tem espinhos e é da cor do céu."
+    ],
+    "explanation": "Oficialmente chamado de Spiny Shell, o item funciona como mecanismo de 'equilíbrio', dando chance a quem está lá atrás.",
+    "tags": ["internacional", "anos 90", "nintendo", "mario kart"],
+    "source": { "url": "https://en.wikipedia.org/wiki/Blue_shell", "attribution": "Wikipédia (inglês) — Blue shell" }
+  },
+  {
+    "id": "gam-031",
+    "category": "games_animacao",
+    "type": "clue",
+    "difficulty": 2,
+    "prompt": "Qual é o nome desse pirata?",
+    "media": { "type": "text", "style": "clue", "text": "Pirata de chapéu de palha cujo corpo ganhou as propriedades da borracha depois que ele comeu a Gomu-Gomu no Mi; sonha em ser o Rei dos Piratas." },
+    "answers": ["Luffy", "Monkey D. Luffy"],
+    "acceptedAliases": [],
+    "rejectedAnswers": ["Zoro", "Ace", "Shanks"],
+    "hints": [
+      "É o protagonista do mangá de Eiichiro Oda.",
+      "Em seu bando estão Zoro, Nami e Sanji.",
+      "O anime se chama 'One Piece'."
+    ],
+    "explanation": "A Gomu-Gomu no Mi é uma das Akuma no Mi, as frutas amaldiçoadas do universo de One Piece.",
+    "tags": ["internacional", "anos 90", "anime", "one piece"],
+    "source": { "url": "https://pt.wikipedia.org/wiki/Monkey_D._Luffy", "attribution": "Wikipédia — Monkey D. Luffy" }
+  },
+  {
+    "id": "gam-032",
+    "category": "games_animacao",
+    "type": "emoji",
+    "difficulty": 3,
+    "prompt": "Os emojis mostram o começo de qual famoso código secreto dos videogames?",
+    "media": { "type": "emoji", "text": "⬆️⬆️⬇️⬇️⬅️➡️" },
+    "answers": ["Código Konami", "Konami Code"],
+    "acceptedAliases": ["Konami"],
+    "rejectedAnswers": [],
+    "hints": [
+      "Foi usado pela primeira vez em 'Gradius' (1986), no Nintendinho.",
+      "A sequência continua com ← → ← → B A.",
+      "Leva o nome da empresa japonesa que o criou."
+    ],
+    "explanation": "O código original foi criado para o controle do NES; muitos jogadores incluem um Start no final, mas ele não faz parte do código.",
+    "tags": ["internacional", "anos 80", "código secreto"],
+    "source": { "url": "https://pt.wikipedia.org/wiki/Código_Konami", "attribution": "Wikipédia — Código Konami" }
+  },
+  {
+    "id": "gam-033",
+    "category": "games_animacao",
+    "type": "clue",
+    "difficulty": 3,
+    "prompt": "Qual é o nome desse personagem?",
+    "media": { "type": "text", "style": "clue", "text": "Herói de orelhas enormes, antigo mascote da Sega, cujo jogo 'Miracle World' vinha na memória dos Master System II e III vendidos no Brasil." },
+    "answers": ["Alex Kidd"],
+    "acceptedAliases": [],
+    "rejectedAnswers": ["Sonic", "Wonder Boy"],
+    "hints": [
+      "Era o mascote da Sega antes do ouriço azul.",
+      "Ele derrota inimigos com socos.",
+      "Alguns chefes o desafiam no jokenpô (pedra, papel e tesoura)."
+    ],
+    "explanation": "Na era 16 bits, a Sega trocou o personagem, visto como infantil demais, pelo Sonic.",
+    "tags": ["internacional", "anos 80", "sega"],
+    "source": { "url": "https://pt.wikipedia.org/wiki/Alex_Kidd", "attribution": "Wikipédia — Alex Kidd" }
+  },
+  {
+    "id": "gam-034",
+    "category": "games_animacao",
+    "type": "clue",
+    "difficulty": 3,
+    "prompt": "Qual empresa de videogames fez esse enterro?",
+    "media": { "type": "text", "style": "clue", "text": "Em 1983, milhões de cartuchos encalhados — entre eles o fracassado jogo de 'E.T.' — foram enterrados num aterro no deserto do Novo México." },
+    "answers": ["Atari"],
+    "acceptedAliases": [],
+    "rejectedAnswers": ["Activision", "Nintendo", "Sega"],
+    "hints": [
+      "Durante anos, o episódio foi tratado como lenda urbana.",
+      "A empresa lançou o 'Pong' em 1972.",
+      "Seu console mais famoso é o 2600."
+    ],
+    "explanation": "Além de 'E.T.', considerado um dos piores jogos da história, acredita-se que o aterro recebeu muitas cópias do Pac-Man para o 2600.",
+    "tags": ["internacional", "anos 80", "curiosidade"],
+    "source": { "url": "https://pt.wikipedia.org/wiki/Enterro_de_jogos_eletrônicos_da_Atari", "attribution": "Wikipédia — Enterro de jogos eletrônicos da Atari" }
+  },
+  {
+    "id": "gam-035",
+    "category": "games_animacao",
+    "type": "clue",
+    "difficulty": 3,
+    "prompt": "Qual é o nome desse console 'genérico'?",
+    "media": { "type": "text", "style": "clue", "text": "Videogame genérico com visual imitando o PSOne da Sony, mas que por dentro era um clone do Nintendinho e rodava jogos de 8 bits." },
+    "answers": ["Polystation"],
+    "acceptedAliases": [],
+    "rejectedAnswers": ["PlayStation"],
+    "hints": [
+      "É um 'Famiclone', classificado como shanzhai (imitação).",
+      "Foi vendido também como PS-Kid, Game Player e Play and Power.",
+      "O nome soa quase igual ao do console que ele imita."
+    ],
+    "explanation": "Versões mais recentes chegaram a imitar o PlayStation 3, às vezes com o nome Funstation.",
+    "tags": ["internacional", "console", "pirataria"],
+    "source": { "url": "https://pt.wikipedia.org/wiki/Polystation", "attribution": "Wikipédia — Polystation" }
+  },
+  {
+    "id": "gam-036",
+    "category": "games_animacao",
+    "type": "clue",
+    "difficulty": 3,
+    "prompt": "Qual é o nome dessa modificação?",
+    "media": { "type": "text", "style": "clue", "text": "Série de modificações brasileira de um jogo de futebol, nascida em 2007 numa locadora, que trocava os times originais por clubes brasileiros." },
+    "answers": ["Bomba Patch"],
+    "acceptedAliases": [],
+    "rejectedAnswers": ["Winning Eleven", "PES"],
+    "hints": [
+      "O jogo modificado era o Pro Evolution Soccer.",
+      "Foi criada por Allan Jefferson.",
+      "O nome foi inspirado num doce de chocolate."
+    ],
+    "explanation": "Allan criou o mod para um campeonato do PES 6 em sua locadora; o nome veio das 'bombas' de chocolate.",
+    "tags": ["brasil", "anos 2000", "futebol", "mod"],
+    "source": { "url": "https://pt.wikipedia.org/wiki/Bomba_Patch", "attribution": "Wikipédia — Bomba Patch" }
+  },
+  {
+    "id": "gam-037",
+    "category": "games_animacao",
+    "type": "clue",
+    "difficulty": 3,
+    "prompt": "Qual é o nome desse jogo?",
+    "media": { "type": "text", "style": "clue", "text": "Fliperama de 1981 da Nintendo: Jumpman sobe plataformas e desvia de barris para resgatar uma donzela chamada Lady das garras de um macaco gigante." },
+    "answers": ["Donkey Kong"],
+    "acceptedAliases": [],
+    "rejectedAnswers": ["Donkey Kong Country", "Mario Bros."],
+    "hints": [
+      "É um dos primeiros jogos de plataforma da história.",
+      "Jumpman é hoje conhecido como Mario.",
+      "O jogo leva o nome do vilão."
+    ],
+    "explanation": "Foi a estreia do futuro Mario; a donzela Lady passou depois a se chamar Pauline.",
+    "tags": ["internacional", "anos 80", "nintendo", "fliperama"],
+    "source": { "url": "https://pt.wikipedia.org/wiki/Donkey_Kong_(jogo_eletrônico)", "attribution": "Wikipédia — Donkey Kong (jogo eletrônico)" }
+  },
+  {
+    "id": "gam-038",
+    "category": "games_animacao",
+    "type": "quote",
+    "difficulty": 3,
+    "prompt": "De qual jogo vem essa frase, que virou meme?",
+    "media": { "type": "text", "style": "quote", "text": "The cake is a lie." },
+    "answers": ["Portal"],
+    "acceptedAliases": [],
+    "rejectedAnswers": ["Portal 2", "Half-Life"],
+    "hints": [
+      "O jogo foi lançado pela Valve em 2007.",
+      "A vilã é uma inteligência artificial chamada GLaDOS.",
+      "A protagonista, Chell, usa uma arma que abre passagens nas paredes."
+    ],
+    "explanation": "A frase aparece pichada nas paredes como um aviso de que GLaDOS mentia sobre a recompensa prometida ao jogador.",
+    "tags": ["internacional", "anos 2000", "valve"],
+    "source": { "url": "https://en.wikipedia.org/wiki/The_cake_is_a_lie", "attribution": "Wikipédia (inglês) — The cake is a lie" }
+  },
+  {
+    "id": "gam-039",
+    "category": "games_animacao",
+    "type": "quote",
+    "difficulty": 3,
+    "prompt": "De qual jogo vem essa fala dos guardas, que virou meme?",
+    "media": { "type": "text", "style": "quote", "text": "…then I took an arrow in the knee." },
+    "answers": ["Skyrim", "The Elder Scrolls V: Skyrim", "The Elder Scrolls V"],
+    "acceptedAliases": ["TES V", "TES 5"],
+    "rejectedAnswers": ["Oblivion", "Morrowind"],
+    "hints": [
+      "É um RPG de mundo aberto da Bethesda.",
+      "A fala é dita pelos guardas da cidade de Whiterun.",
+      "Foi lançado em 2011, num mundo de dragões e nórdicos."
+    ],
+    "explanation": "A fala foi escrita por Emil Pagliarulo e gravada por Paul Ganus; de tão repetida pelos guardas, virou piada fora do jogo.",
+    "tags": ["internacional", "anos 2010", "rpg"],
+    "source": { "url": "https://en.wikipedia.org/wiki/Arrow_in_the_knee", "attribution": "Wikipédia (inglês) — Arrow in the knee" }
+  },
+  {
+    "id": "gam-040",
+    "category": "games_animacao",
+    "type": "clue",
+    "difficulty": 3,
+    "prompt": "Qual é o nome desse personagem?",
+    "media": { "type": "text", "style": "clue", "text": "Num vídeo de World of Warcraft de 2005, um grupo planeja meticulosamente um ataque, mas um jogador que estava ausente volta e se lança sozinho no combate gritando o próprio nome." },
+    "answers": ["Leeroy Jenkins", "Leeroy", "Leroy Jenkins", "Leroy"],
+    "acceptedAliases": [],
+    "rejectedAnswers": [],
+    "hints": [
+      "Ele estava longe do computador, preparando um prato de frango.",
+      "O personagem foi criado pelo jogador Ben Schulz.",
+      "A Blizzard o transformou em carta do Hearthstone."
+    ],
+    "explanation": "O grito de guerra virou meme, e a Blizzard homenageou o personagem como NPC em World of Warcraft e como carta em Hearthstone.",
+    "tags": ["internacional", "anos 2000", "world of warcraft"],
+    "source": { "url": "https://pt.wikipedia.org/wiki/Leeroy_Jenkins", "attribution": "Wikipédia — Leeroy Jenkins" }
+  },
+  {
+    "id": "gam-041",
+    "category": "games_animacao",
+    "type": "clue",
+    "difficulty": 3,
+    "prompt": "Qual é o nome dessa série animada?",
+    "media": { "type": "text", "style": "clue", "text": "Primeira animação original do Cartoon Network feita no Brasil, criada por Juliano Enrico e estreada em 2014; o protagonista é um garoto cujo nome ninguém conhece." },
+    "answers": ["Irmão do Jorel"],
+    "acceptedAliases": [],
+    "rejectedAnswers": ["Jorel"],
+    "hints": [
+      "Venceu um concurso de projetos (pitching) do Cartoon Network em 2009.",
+      "É produzida pelo Copa Studio.",
+      "O protagonista é conhecido só pelo parentesco com o irmão mais velho popular."
+    ],
+    "explanation": "Baseada nos quadrinhos de Juliano Enrico, foi também a primeira animação original do Cartoon Network feita na América Latina.",
+    "tags": ["brasil", "anos 2010", "desenho", "cartoon network"],
+    "source": { "url": "https://pt.wikipedia.org/wiki/Irmão_do_Jorel", "attribution": "Wikipédia — Irmão do Jorel" }
+  },
+  {
+    "id": "gam-042",
+    "category": "games_animacao",
+    "type": "clue",
+    "difficulty": 3,
+    "prompt": "Qual era esse ingrediente?",
+    "media": { "type": "text", "style": "clue", "text": "Para criar três garotinhas perfeitas, um professor misturou açúcar, tempero e tudo o que há de bom — mas acabou derrubando, por acidente, um ingrediente a mais na poção." },
+    "answers": ["Elemento X", "Chemical X"],
+    "acceptedAliases": [],
+    "rejectedAnswers": [],
+    "hints": [
+      "As garotas são Florzinha, Lindinha e Docinho.",
+      "O cientista é o Professor Utônio.",
+      "Foi esse ingrediente que deu superpoderes a elas."
+    ],
+    "explanation": "Em 'As Meninas Superpoderosas', o acidente com o ingrediente criou as três heroínas, que dividem o tempo entre brincadeiras e salvar a cidade.",
+    "tags": ["internacional", "anos 90", "desenho", "cartoon network"],
+    "source": { "url": "https://pt.wikipedia.org/wiki/The_Powerpuff_Girls", "attribution": "Wikipédia — The Powerpuff Girls" }
+  },
+  {
+    "id": "gam-043",
+    "category": "games_animacao",
+    "type": "clue",
+    "difficulty": 4,
+    "prompt": "Qual é o nome desse fantasma?",
+    "media": { "type": "text", "style": "clue", "text": "No Pac-Man original (1980), cada fantasma tem um comportamento diferente: o vermelho é o que persegue o jogador diretamente." },
+    "answers": ["Blinky", "Shadow", "Oikake"],
+    "acceptedAliases": [],
+    "rejectedAnswers": ["Pinky", "Inky", "Clyde"],
+    "hints": [
+      "Os apelidos dos quatro fantasmas, em inglês, rimam entre si.",
+      "Numa cena entre as fases, ele rasga a fantasia num prego.",
+      "Os outros três são Pinky, Inky e Clyde."
+    ],
+    "explanation": "No Japão ele se chama Oikake ('perseguidor'); nos EUA, recebeu o nome 'Shadow' e o apelido Blinky.",
+    "tags": ["internacional", "anos 80", "fliperama"],
+    "source": { "url": "https://en.wikipedia.org/wiki/Ghosts_(Pac-Man)", "attribution": "Wikipédia (inglês) — Ghosts (Pac-Man)" }
+  },
+  {
+    "id": "gam-044",
+    "category": "games_animacao",
+    "type": "clue",
+    "difficulty": 4,
+    "prompt": "Qual é o nome do porquinho de estimação do Cascão?",
+    "media": { "type": "text", "style": "clue", "text": "Na Turma da Mônica, o Cascão tem um porquinho de estimação que é praticamente um 'clone' do dono: odeia água e tem medo de chuva." },
+    "answers": ["Chovinista"],
+    "acceptedAliases": [],
+    "rejectedAnswers": [],
+    "hints": [
+      "O dono é corintiano fanático e foge do banho.",
+      "O porquinho aparece nas revistas do Cascão, que circulam desde 1982.",
+      "O nome rima com 'ativista'."
+    ],
+    "explanation": "Cascão foi criado por Mauricio de Sousa em 1961, inspirado num menino de Mogi das Cruzes que tinha esse apelido por viver sujo.",
+    "tags": ["brasil", "turma da mônica", "quadrinhos"],
+    "source": { "url": "https://pt.wikipedia.org/wiki/Cascão", "attribution": "Wikipédia — Cascão" }
+  },
+  {
+    "id": "gam-045",
+    "category": "games_animacao",
+    "type": "clue",
+    "difficulty": 4,
+    "prompt": "Qual é o nome desse Pokémon bugado?",
+    "media": { "type": "text", "style": "clue", "text": "Glitch famoso de Pokémon Red e Blue: surfando pela margem leste da Ilha Cinnabar, aparecia um 'Pokémon' corrompido que multiplicava o sexto item da mochila." },
+    "answers": ["MissingNo.", "Missing No", "Missing Number"],
+    "acceptedAliases": [],
+    "rejectedAnswers": [],
+    "hints": [
+      "Para ativá-lo, era preciso ver antes o tutorial de captura de Pokémon e depois voar até a ilha.",
+      "A Nintendo documentou o glitch na revista Nintendo Power de maio de 1999.",
+      "O nome é uma abreviação de 'número desconhecido' em inglês."
+    ],
+    "explanation": "A Game Freak usa o MissingNo. como tratador de exceção: ele aparece quando o jogo tenta acessar uma espécie de Pokémon que não existe.",
+    "tags": ["internacional", "anos 90", "pokémon", "glitch"],
+    "source": { "url": "https://pt.wikipedia.org/wiki/MissingNo.", "attribution": "Wikipédia — MissingNo." }
+  },
+  {
+    "id": "gam-046",
+    "category": "games_animacao",
+    "type": "quote",
+    "difficulty": 4,
+    "prompt": "De qual jogo vem essa frase mal traduzida, que virou meme?",
+    "media": { "type": "text", "style": "quote", "text": "All your base are belong to us." },
+    "answers": ["Zero Wing"],
+    "acceptedAliases": [],
+    "rejectedAnswers": [],
+    "hints": [
+      "É um jogo de nave (shoot 'em up) lançado nos fliperamas em 1989.",
+      "A frase aparece na abertura da versão europeia para Mega Drive, de 1991.",
+      "Quem diz a frase é o misterioso vilão CATS."
+    ],
+    "explanation": "A tradução capenga do japonês virou GIF e remix popularíssimos em fóruns no começo dos anos 2000.",
+    "tags": ["internacional", "anos 80", "tradução"],
+    "source": { "url": "https://en.wikipedia.org/wiki/All_your_base_are_belong_to_us", "attribution": "Wikipédia (inglês) — All your base are belong to us" }
+  },
+  {
+    "id": "gam-047",
+    "category": "games_animacao",
+    "type": "clue",
+    "difficulty": 4,
+    "prompt": "Qual é o nome desse personagem?",
+    "media": { "type": "text", "style": "clue", "text": "Cavaleiro extraordinariamente simpático num mundo hostil, famoso pelo gesto de braços erguidos para 'louvar o Sol' — 'Praise the Sun!'." },
+    "answers": ["Solaire", "Solaire of Astora", "Solaire de Astora"],
+    "acceptedAliases": [],
+    "rejectedAnswers": [],
+    "hints": [
+      "Ele aparece em 'Dark Souls' (2011).",
+      "Ajuda o jogador em várias lutas como aliado invocado.",
+      "Sua armadura exibe um grande sol."
+    ],
+    "explanation": "O gesto 'Praise the Sun' virou meme entre os fãs da série Souls, conhecida pela dificuldade e pelo clima sombrio.",
+    "tags": ["internacional", "anos 2010", "dark souls"],
+    "source": { "url": "https://en.wikipedia.org/wiki/Solaire_of_Astora", "attribution": "Wikipédia (inglês) — Solaire of Astora" }
+  },
+  {
+    "id": "gam-048",
+    "category": "games_animacao",
+    "type": "quote",
+    "difficulty": 4,
+    "prompt": "De qual jogo de naves da Nintendo vem esse conselho, que virou meme?",
+    "media": { "type": "text", "style": "quote", "text": "Do a barrel roll!" },
+    "answers": ["Star Fox 64", "Star Fox", "Lylat Wars"],
+    "acceptedAliases": [],
+    "rejectedAnswers": ["Star Wars"],
+    "hints": [
+      "Foi lançado para o Nintendo 64.",
+      "Quem dá o conselho é o coelho Peppy Hare.",
+      "Em 2011, o Google criou um easter egg: buscar a frase faz a tela girar."
+    ],
+    "explanation": "A manobra que gira a nave (e rebate tiros) ficou tão famosa que o Google a homenageou em 2011.",
+    "tags": ["internacional", "anos 90", "nintendo"],
+    "source": { "url": "https://en.wikipedia.org/wiki/List_of_Star_Fox_characters", "attribution": "Wikipédia (inglês) — List of Star Fox characters" }
+  }
+]

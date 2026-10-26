@@ -1,0 +1,1570 @@
+[
+  {
+    "id": "cin-001",
+    "category": "cinema_tv",
+    "type": "quote",
+    "difficulty": 1,
+    "prompt": "Qual personagem diz esta frase?",
+    "media": {
+      "type": "text",
+      "style": "quote",
+      "text": "Ao infinito e além!"
+    },
+    "answers": [
+      "Buzz Lightyear"
+    ],
+    "acceptedAliases": [
+      "Buzz"
+    ],
+    "rejectedAnswers": [],
+    "hints": [
+      "É um brinquedo.",
+      "Patrulheiro espacial de uniforme branco, verde e roxo, com asas retráteis.",
+      "Melhor amigo (e rival) do caubói Woody."
+    ],
+    "explanation": "É o bordão do patrulheiro espacial de Toy Story (1995), o primeiro longa-metragem feito inteiramente em computação gráfica.",
+    "tags": [
+      "internacional",
+      "anos 90",
+      "pixar",
+      "animação"
+    ],
+    "source": {
+      "url": "https://pt.wikipedia.org/wiki/Toy_Story",
+      "attribution": "Wikipédia — Toy Story"
+    }
+  },
+  {
+    "id": "cin-002",
+    "category": "cinema_tv",
+    "type": "quote",
+    "difficulty": 1,
+    "prompt": "Qual vilão diz esta frase?",
+    "media": {
+      "type": "text",
+      "style": "quote",
+      "text": "Não... Eu sou seu pai."
+    },
+    "answers": [
+      "Darth Vader",
+      "Anakin Skywalker"
+    ],
+    "acceptedAliases": [
+      "Vader"
+    ],
+    "rejectedAnswers": [],
+    "hints": [
+      "Usa capa preta, capacete e tem uma respiração pesada inconfundível.",
+      "Lorde Sith que empunha um sabre de luz vermelho.",
+      "A revelação é feita a Luke Skywalker em 'O Império Contra-Ataca' (1980)."
+    ],
+    "explanation": "A cena de 'O Império Contra-Ataca' (1980) é tão famosa que muita gente a cita errado como 'Luke, eu sou seu pai'.",
+    "tags": [
+      "internacional",
+      "anos 80",
+      "star wars",
+      "vilão"
+    ],
+    "source": {
+      "url": "https://pt.wikipedia.org/wiki/Darth_Vader",
+      "attribution": "Wikipédia — Darth Vader"
+    }
+  },
+  {
+    "id": "cin-003",
+    "category": "cinema_tv",
+    "type": "quote",
+    "difficulty": 1,
+    "prompt": "De qual filme é esta frase?",
+    "media": {
+      "type": "text",
+      "style": "quote",
+      "text": "Eu sou o rei do mundo!"
+    },
+    "answers": [
+      "Titanic"
+    ],
+    "acceptedAliases": [],
+    "rejectedAnswers": [],
+    "hints": [
+      "Filme de 1997 dirigido por James Cameron.",
+      "O personagem grita a frase de braços abertos na proa de um navio.",
+      "Venceu 11 Oscars, incluindo o de melhor filme."
+    ],
+    "explanation": "O grito de Jack Dawson na proa do navio virou uma das citações mais populares da história do cinema.",
+    "tags": [
+      "internacional",
+      "anos 90",
+      "romance"
+    ],
+    "source": {
+      "url": "https://pt.wikipedia.org/wiki/Titanic_(filme_de_1997)",
+      "attribution": "Wikipédia — Titanic (filme de 1997)"
+    }
+  },
+  {
+    "id": "cin-004",
+    "category": "cinema_tv",
+    "type": "quote",
+    "difficulty": 1,
+    "prompt": "Qual apresentador eternizou este bordão?",
+    "media": {
+      "type": "text",
+      "style": "quote",
+      "text": "Ô loco, meu!"
+    },
+    "answers": [
+      "Faustão",
+      "Fausto Silva"
+    ],
+    "acceptedAliases": [],
+    "rejectedAnswers": [],
+    "hints": [
+      "Comandou as tardes de domingo da Globo por mais de 30 anos.",
+      "Seu programa tinha as 'Videocassetadas' e a 'Dança dos Famosos'.",
+      "Começou a carreira como jornalista esportivo no rádio."
+    ],
+    "explanation": "O 'Domingão' ficou no ar na Globo de 1989 a 2021, sempre recheado de bordões como 'Ô loco, meu!' e 'Errou!'.",
+    "tags": [
+      "brasil",
+      "apresentador",
+      "bordão"
+    ],
+    "source": {
+      "url": "https://pt.wikipedia.org/wiki/Faustão",
+      "attribution": "Wikipédia — Faustão"
+    }
+  },
+  {
+    "id": "cin-005",
+    "category": "cinema_tv",
+    "type": "quote",
+    "difficulty": 1,
+    "prompt": "Qual personagem eternizou esta frase?",
+    "media": {
+      "type": "text",
+      "style": "quote",
+      "text": "Pede pra sair!"
+    },
+    "answers": [
+      "Capitão Nascimento",
+      "Roberto Nascimento"
+    ],
+    "acceptedAliases": [
+      "Nascimento"
+    ],
+    "rejectedAnswers": [],
+    "hints": [
+      "Personagem de um filme policial brasileiro de 2007.",
+      "Comandante do BOPE, sempre de farda preta.",
+      "Protagonista de 'Tropa de Elite'."
+    ],
+    "explanation": "O grito do capitão do BOPE durante o treinamento de novos policiais virou bordão nacional; o filme de José Padilha vazou para o mercado pirata meses antes da estreia nos cinemas.",
+    "tags": [
+      "brasil",
+      "anos 2000",
+      "filme nacional",
+      "policial"
+    ],
+    "source": {
+      "url": "https://pt.wikipedia.org/wiki/Tropa_de_Elite_(filme)",
+      "attribution": "Wikipédia — Tropa de Elite (filme)"
+    }
+  },
+  {
+    "id": "cin-006",
+    "category": "cinema_tv",
+    "type": "emoji",
+    "difficulty": 1,
+    "prompt": "Qual filme da Disney estes emojis representam?",
+    "media": {
+      "type": "emoji",
+      "text": "🦁👑🌅"
+    },
+    "answers": [
+      "O Rei Leão",
+      "The Lion King"
+    ],
+    "acceptedAliases": [],
+    "rejectedAnswers": [],
+    "hints": [
+      "Animação de 1994 ambientada na savana africana.",
+      "Tem o suricato Timão e o javali Pumba.",
+      "Simba é o herdeiro de Mufasa."
+    ],
+    "explanation": "Lançado em 1994, ganhou os Oscars de melhor trilha sonora e melhor canção original e uma nova versão em computação gráfica em 2019.",
+    "tags": [
+      "internacional",
+      "anos 90",
+      "disney",
+      "animação"
+    ],
+    "source": {
+      "url": "https://pt.wikipedia.org/wiki/O_Rei_Leão",
+      "attribution": "Wikipédia — O Rei Leão"
+    }
+  },
+  {
+    "id": "cin-007",
+    "category": "cinema_tv",
+    "type": "emoji",
+    "difficulty": 1,
+    "prompt": "Qual animação da Pixar estes emojis representam?",
+    "media": {
+      "type": "emoji",
+      "text": "🔍🐠🌊"
+    },
+    "answers": [
+      "Procurando Nemo",
+      "Finding Nemo"
+    ],
+    "acceptedAliases": [],
+    "rejectedAnswers": [
+      "Procurando Dory"
+    ],
+    "hints": [
+      "Um pai superprotetor atravessa o oceano.",
+      "Ele conta com a ajuda de Dory, uma peixinha muito esquecida.",
+      "O filho perdido é um peixe-palhaço com uma nadadeira menor."
+    ],
+    "explanation": "Lançado em 2003, ganhou o Oscar de melhor animação e teve a continuação 'Procurando Dory' em 2016.",
+    "tags": [
+      "internacional",
+      "anos 2000",
+      "pixar",
+      "animação"
+    ],
+    "source": {
+      "url": "https://pt.wikipedia.org/wiki/Finding_Nemo",
+      "attribution": "Wikipédia — Procurando Nemo"
+    }
+  },
+  {
+    "id": "cin-008",
+    "category": "cinema_tv",
+    "type": "emoji",
+    "difficulty": 1,
+    "prompt": "Qual filme da DreamWorks estes emojis representam?",
+    "media": {
+      "type": "emoji",
+      "text": "👹🧅🐴👸"
+    },
+    "answers": [
+      "Shrek"
+    ],
+    "acceptedAliases": [],
+    "rejectedAnswers": [],
+    "hints": [
+      "O protagonista é um ogro mal-humorado que vive num pântano.",
+      "Ele explica que ogros são como cebolas: têm camadas.",
+      "Seu parceiro tagarela é o Burro, e a missão é resgatar a princesa Fiona."
+    ],
+    "explanation": "Lançado em 2001, foi o primeiro vencedor da história do Oscar de melhor filme de animação.",
+    "tags": [
+      "internacional",
+      "anos 2000",
+      "dreamworks",
+      "animação"
+    ],
+    "source": {
+      "url": "https://pt.wikipedia.org/wiki/Shrek",
+      "attribution": "Wikipédia — Shrek"
+    }
+  },
+  {
+    "id": "cin-009",
+    "category": "cinema_tv",
+    "type": "clue",
+    "difficulty": 1,
+    "prompt": "Qual apresentadora é descrita aqui?",
+    "media": {
+      "type": "text",
+      "style": "clue",
+      "text": "Loira gaúcha de Santa Rosa, chamada de 'Rainha dos Baixinhos', que chegava ao palco do seu programa infantil na Globo a bordo de uma nave espacial."
+    },
+    "answers": [
+      "Xuxa",
+      "Xuxa Meneghel",
+      "Maria da Graça Meneghel"
+    ],
+    "acceptedAliases": [],
+    "rejectedAnswers": [],
+    "hints": [
+      "Fez enorme sucesso com as crianças nos anos 80 e 90.",
+      "Começou na TV infantil pela extinta TV Manchete.",
+      "Suas assistentes de palco eram as Paquitas."
+    ],
+    "explanation": "O 'Xou da Xuxa' (1986–1992) marcou uma geração e transformou a apresentadora num fenômeno também na América Latina.",
+    "tags": [
+      "brasil",
+      "anos 80",
+      "apresentador",
+      "infantil"
+    ],
+    "source": {
+      "url": "https://pt.wikipedia.org/wiki/Xuxa",
+      "attribution": "Wikipédia — Xuxa"
+    }
+  },
+  {
+    "id": "cin-010",
+    "category": "cinema_tv",
+    "type": "clue",
+    "difficulty": 1,
+    "prompt": "Qual grupo humorístico é descrito aqui?",
+    "media": {
+      "type": "text",
+      "style": "clue",
+      "text": "Quarteto de humor formado por Didi, Dedé, Mussum e Zacarias, sucesso nas noites de domingo da TV e nas bilheterias de cinema dos anos 70 e 80."
+    },
+    "answers": [
+      "Os Trapalhões"
+    ],
+    "acceptedAliases": [],
+    "rejectedAnswers": [],
+    "hints": [
+      "O programa passava na Globo aos domingos.",
+      "Didi era o personagem de Renato Aragão.",
+      "Mussum ficou famoso por terminar as palavras em '-is', como 'cacildis'."
+    ],
+    "explanation": "O grupo esteve na Globo de 1977 a 1995 e também lotou cinemas com dezenas de filmes.",
+    "tags": [
+      "brasil",
+      "anos 80",
+      "humor"
+    ],
+    "source": {
+      "url": "https://pt.wikipedia.org/wiki/Os_Trapalhões",
+      "attribution": "Wikipédia — Os Trapalhões"
+    }
+  },
+  {
+    "id": "cin-011",
+    "category": "cinema_tv",
+    "type": "quote",
+    "difficulty": 1,
+    "prompt": "Qual vilão diz esta frase?",
+    "media": {
+      "type": "text",
+      "style": "quote",
+      "text": "Por que tão sério?"
+    },
+    "answers": [
+      "Coringa",
+      "Joker"
+    ],
+    "acceptedAliases": [],
+    "rejectedAnswers": [
+      "Batman"
+    ],
+    "hints": [
+      "Vilão dos quadrinhos da DC.",
+      "Tem cabelo verde e maquiagem de palhaço borrada.",
+      "É o maior inimigo do Homem-Morcego em Gotham City."
+    ],
+    "explanation": "A frase marcou a versão de Heath Ledger em 'Batman: O Cavaleiro das Trevas' (2008), papel que lhe rendeu o Oscar de melhor ator coadjuvante.",
+    "tags": [
+      "internacional",
+      "anos 2000",
+      "vilão",
+      "super-herói"
+    ],
+    "source": {
+      "url": "https://pt.wikipedia.org/wiki/The_Dark_Knight",
+      "attribution": "Wikipédia — Batman: O Cavaleiro das Trevas"
+    }
+  },
+  {
+    "id": "cin-012",
+    "category": "cinema_tv",
+    "type": "clue",
+    "difficulty": 1,
+    "prompt": "Qual personagem é descrito aqui?",
+    "media": {
+      "type": "text",
+      "style": "clue",
+      "text": "Papagaio fantoche verde, parceiro inseparável de Ana Maria Braga nas manhãs da TV, famoso por provocar a apresentadora e zoar os convidados."
+    },
+    "answers": [
+      "Louro José"
+    ],
+    "acceptedAliases": [
+      "Louro"
+    ],
+    "rejectedAnswers": [],
+    "hints": [
+      "Aparecia no programa 'Mais Você', da Globo.",
+      "Estreou em 1997, no programa 'Note e Anote', da Record.",
+      "Seu nome junta um apelido comum de papagaio a um nome de gente."
+    ],
+    "explanation": "O boneco era manipulado e dublado por Tom Veiga, um ex-coordenador de palco que lhe dava voz e personalidade.",
+    "tags": [
+      "brasil",
+      "anos 2000",
+      "programa matinal",
+      "fantoche"
+    ],
+    "source": {
+      "url": "https://pt.wikipedia.org/wiki/Louro_José",
+      "attribution": "Wikipédia — Louro José"
+    }
+  },
+  {
+    "id": "cin-013",
+    "category": "cinema_tv",
+    "type": "emoji",
+    "difficulty": 1,
+    "prompt": "Qual animação da Disney estes emojis representam?",
+    "media": {
+      "type": "emoji",
+      "text": "❄️👸👸⛄"
+    },
+    "answers": [
+      "Frozen",
+      "Frozen: Uma Aventura Congelante"
+    ],
+    "acceptedAliases": [],
+    "rejectedAnswers": [],
+    "hints": [
+      "Lançada em 2013.",
+      "Duas irmãs princesas do reino de Arendelle.",
+      "Tem um boneco de neve falante chamado Olaf."
+    ],
+    "explanation": "O filme ganhou os Oscars de melhor animação e melhor canção original e virou uma das maiores bilheterias de animação da história.",
+    "tags": [
+      "internacional",
+      "anos 2010",
+      "disney",
+      "animação"
+    ],
+    "source": {
+      "url": "https://pt.wikipedia.org/wiki/Frozen_(2013)",
+      "attribution": "Wikipédia — Frozen (2013)"
+    }
+  },
+  {
+    "id": "cin-014",
+    "category": "cinema_tv",
+    "type": "quote",
+    "difficulty": 1,
+    "prompt": "Qual personagem eternizou esta frase?",
+    "media": {
+      "type": "text",
+      "style": "quote",
+      "text": "Não contavam com minha astúcia!"
+    },
+    "answers": [
+      "Chapolin Colorado",
+      "Chapolin",
+      "El Chapulín Colorado"
+    ],
+    "acceptedAliases": [],
+    "rejectedAnswers": [],
+    "hints": [
+      "Seriado mexicano exibido há décadas pelo SBT.",
+      "Super-herói desastrado, de roupa vermelha e antenas de vinil.",
+      "Sua arma é a 'marreta biônica'."
+    ],
+    "explanation": "Criado e interpretado por Roberto Gómez Bolaños, o herói tinha outros bordões famosos, como 'Sigam-me os bons!' e 'Suspeitei desde o princípio!'.",
+    "tags": [
+      "internacional",
+      "clássicos",
+      "humor",
+      "sbt"
+    ],
+    "source": {
+      "url": "https://pt.wikipedia.org/wiki/El_Chapulín_Colorado",
+      "attribution": "Wikipédia — El Chapulín Colorado"
+    }
+  },
+  {
+    "id": "cin-015",
+    "category": "cinema_tv",
+    "type": "quote",
+    "difficulty": 2,
+    "prompt": "Qual ator eternizou esta frase no cinema?",
+    "media": {
+      "type": "text",
+      "style": "quote",
+      "text": "Hasta la vista, baby."
+    },
+    "answers": [
+      "Arnold Schwarzenegger"
+    ],
+    "acceptedAliases": [
+      "Schwarzenegger",
+      "Arnold"
+    ],
+    "rejectedAnswers": [],
+    "hints": [
+      "Ator nascido na Áustria que começou como fisiculturista.",
+      "Interpretava um ciborgue vindo do futuro.",
+      "A fala é de 'O Exterminador do Futuro 2' (1991)."
+    ],
+    "explanation": "Outro bordão famoso do ator na franquia é 'I'll be back' ('Eu voltarei').",
+    "tags": [
+      "internacional",
+      "anos 90",
+      "ação",
+      "ficção científica"
+    ],
+    "source": {
+      "url": "https://pt.wikipedia.org/wiki/Terminator_2:_Judgment_Day",
+      "attribution": "Wikipédia — O Exterminador do Futuro 2"
+    }
+  },
+  {
+    "id": "cin-016",
+    "category": "cinema_tv",
+    "type": "quote",
+    "difficulty": 2,
+    "prompt": "De qual filme é esta frase?",
+    "media": {
+      "type": "text",
+      "style": "quote",
+      "text": "Vou fazer uma oferta que ele não pode recusar."
+    },
+    "answers": [
+      "O Poderoso Chefão",
+      "The Godfather"
+    ],
+    "acceptedAliases": [],
+    "rejectedAnswers": [
+      "O Poderoso Chefão II",
+      "O Poderoso Chefão 2",
+      "O Poderoso Chefão III",
+      "O Poderoso Chefão 3"
+    ],
+    "hints": [
+      "Clássico de 1972 dirigido por Francis Ford Coppola.",
+      "Conta a história da família mafiosa Corleone.",
+      "Marlon Brando vive Don Vito."
+    ],
+    "explanation": "O Instituto Americano de Cinema elegeu a fala a segunda maior citação da história do cinema americano.",
+    "tags": [
+      "internacional",
+      "clássicos",
+      "máfia"
+    ],
+    "source": {
+      "url": "https://pt.wikipedia.org/wiki/The_Godfather",
+      "attribution": "Wikipédia — O Poderoso Chefão"
+    }
+  },
+  {
+    "id": "cin-017",
+    "category": "cinema_tv",
+    "type": "quote",
+    "difficulty": 2,
+    "prompt": "Qual personagem diz esta frase sempre que duvidam de suas histórias?",
+    "media": {
+      "type": "text",
+      "style": "quote",
+      "text": "Não sei, só sei que foi assim."
+    },
+    "answers": [
+      "Chicó"
+    ],
+    "acceptedAliases": [],
+    "rejectedAnswers": [],
+    "hints": [
+      "Personagem de uma obra de Ariano Suassuna.",
+      "É o amigo medroso e mentiroso de João Grilo.",
+      "No filme de 2000, foi vivido por Selton Mello."
+    ],
+    "explanation": "Em 'O Auto da Compadecida', Chicó encerra assim cada uma de suas histórias inacreditáveis quando alguém pergunta como aquilo foi possível.",
+    "tags": [
+      "brasil",
+      "anos 2000",
+      "filme nacional",
+      "nordeste"
+    ],
+    "source": {
+      "url": "https://pt.wikipedia.org/wiki/O_Auto_da_Compadecida_(filme)",
+      "attribution": "Wikipédia — O Auto da Compadecida (filme)"
+    }
+  },
+  {
+    "id": "cin-018",
+    "category": "cinema_tv",
+    "type": "quote",
+    "difficulty": 2,
+    "prompt": "Qual personagem diz esta frase?",
+    "media": {
+      "type": "text",
+      "style": "quote",
+      "text": "Você é um bruxo, Harry."
+    },
+    "answers": [
+      "Hagrid",
+      "Rúbeo Hagrid",
+      "Rubeus Hagrid"
+    ],
+    "acceptedAliases": [],
+    "rejectedAnswers": [],
+    "hints": [
+      "É meio-gigante e tem uma barba enorme.",
+      "Trabalha como guarda-caça de Hogwarts.",
+      "Leva o garoto para comprar o material escolar no Beco Diagonal."
+    ],
+    "explanation": "A cena está em 'Harry Potter e a Pedra Filosofal' (2001), quando Harry descobre que é bruxo no dia do seu aniversário de 11 anos.",
+    "tags": [
+      "internacional",
+      "anos 2000",
+      "harry potter",
+      "fantasia"
+    ],
+    "source": {
+      "url": "https://pt.wikipedia.org/wiki/Harry_Potter_e_a_Pedra_Filosofal_(filme)",
+      "attribution": "Wikipédia — Harry Potter e a Pedra Filosofal (filme)"
+    }
+  },
+  {
+    "id": "cin-019",
+    "category": "cinema_tv",
+    "type": "quote",
+    "difficulty": 2,
+    "prompt": "De qual série é esta frase?",
+    "media": {
+      "type": "text",
+      "style": "quote",
+      "text": "O inverno está chegando."
+    },
+    "answers": [
+      "Game of Thrones",
+      "A Guerra dos Tronos"
+    ],
+    "acceptedAliases": [
+      "GoT"
+    ],
+    "rejectedAnswers": [],
+    "hints": [
+      "Série da HBO exibida de 2011 a 2019.",
+      "Baseada nos livros de George R. R. Martin.",
+      "É o lema da Casa Stark, de Winterfell."
+    ],
+    "explanation": "'Winter is coming' é o lema da Casa Stark e virou um dos bordões mais citados da TV na década de 2010.",
+    "tags": [
+      "internacional",
+      "anos 2010",
+      "série",
+      "fantasia"
+    ],
+    "source": {
+      "url": "https://pt.wikipedia.org/wiki/Game_of_Thrones",
+      "attribution": "Wikipédia — Game of Thrones"
+    }
+  },
+  {
+    "id": "cin-020",
+    "category": "cinema_tv",
+    "type": "clue",
+    "difficulty": 2,
+    "prompt": "Qual vilã de novela é descrita aqui?",
+    "media": {
+      "type": "text",
+      "style": "clue",
+      "text": "Vilã de 'Senhora do Destino' (2004), vivida por Renata Sorrah; uma cena sua, com cara de confusa, virou meme mundial com fórmulas matemáticas flutuando na tela."
+    },
+    "answers": [
+      "Nazaré Tedesco"
+    ],
+    "acceptedAliases": [
+      "Nazaré"
+    ],
+    "rejectedAnswers": [],
+    "hints": [
+      "Era a grande rival de Maria do Carmo, vivida por Susana Vieira.",
+      "Sequestrou a filha da protagonista ainda bebê.",
+      "Seu primeiro nome é o de uma cidade da Galileia."
+    ],
+    "explanation": "Lá fora, o meme ficou conhecido como 'Math Lady' ou 'Confused Lady' e é usado até hoje para expressar confusão.",
+    "tags": [
+      "brasil",
+      "anos 2000",
+      "novela",
+      "vilão"
+    ],
+    "source": {
+      "url": "https://pt.wikipedia.org/wiki/Senhora_do_Destino",
+      "attribution": "Wikipédia — Senhora do Destino"
+    }
+  },
+  {
+    "id": "cin-021",
+    "category": "cinema_tv",
+    "type": "clue",
+    "difficulty": 2,
+    "prompt": "Qual vilã de novela é descrita aqui?",
+    "media": {
+      "type": "text",
+      "style": "clue",
+      "text": "Milionária esnobe e cruel da novela 'Vale Tudo' (1988), vivida por Beatriz Segall, considerada o maior ícone de vilania da teledramaturgia brasileira."
+    },
+    "answers": [
+      "Odete Roitman"
+    ],
+    "acceptedAliases": [
+      "Odete"
+    ],
+    "rejectedAnswers": [],
+    "hints": [
+      "Comandava o conglomerado de empresas da família do marido.",
+      "O principal negócio do grupo era a companhia aérea TCA.",
+      "Seu primeiro nome começa com O."
+    ],
+    "explanation": "O mistério em torno da personagem parou o país em 1988 e até hoje ela é lembrada em qualquer ranking de vilãs de novela.",
+    "tags": [
+      "brasil",
+      "anos 80",
+      "novela",
+      "vilão"
+    ],
+    "source": {
+      "url": "https://pt.wikipedia.org/wiki/Odete_Roitman",
+      "attribution": "Wikipédia — Odete Roitman"
+    }
+  },
+  {
+    "id": "cin-022",
+    "category": "cinema_tv",
+    "type": "emoji",
+    "difficulty": 2,
+    "prompt": "Qual novela estes emojis representam?",
+    "media": {
+      "type": "emoji",
+      "text": "🛣️🇧🇷"
+    },
+    "answers": [
+      "Avenida Brasil"
+    ],
+    "acceptedAliases": [],
+    "rejectedAnswers": [],
+    "hints": [
+      "Novela das nove da Globo exibida em 2012.",
+      "A rivalidade entre Nina e Carminha parou o país.",
+      "Boa parte da trama se passava no bairro fictício do Divino, no subúrbio carioca."
+    ],
+    "explanation": "Escrita por João Emanuel Carneiro, tornou-se a novela brasileira mais vendida para o exterior, licenciada para mais de 100 países.",
+    "tags": [
+      "brasil",
+      "anos 2010",
+      "novela"
+    ],
+    "source": {
+      "url": "https://pt.wikipedia.org/wiki/Avenida_Brasil_(telenovela)",
+      "attribution": "Wikipédia — Avenida Brasil (telenovela)"
+    }
+  },
+  {
+    "id": "cin-023",
+    "category": "cinema_tv",
+    "type": "emoji",
+    "difficulty": 2,
+    "prompt": "Qual seriado estes emojis representam?",
+    "media": {
+      "type": "emoji",
+      "text": "🛢️🥪👦"
+    },
+    "answers": [
+      "Chaves",
+      "El Chavo del Ocho",
+      "El Chavo"
+    ],
+    "acceptedAliases": [],
+    "rejectedAnswers": [],
+    "hints": [
+      "Seriado mexicano exibido pelo SBT desde os anos 80.",
+      "Se passa numa vila cheia de vizinhos, como Quico e Dona Florinda.",
+      "O protagonista é um menino pobre que adora sanduíche de presunto."
+    ],
+    "explanation": "É um dos programas mais reprisados da história da TV brasileira, e o barril onde o menino se esconde virou símbolo da série.",
+    "tags": [
+      "internacional",
+      "clássicos",
+      "humor",
+      "sbt"
+    ],
+    "source": {
+      "url": "https://pt.wikipedia.org/wiki/Chaves",
+      "attribution": "Wikipédia — Chaves"
+    }
+  },
+  {
+    "id": "cin-024",
+    "category": "cinema_tv",
+    "type": "clue",
+    "difficulty": 2,
+    "prompt": "Qual filme brasileiro é descrito aqui?",
+    "media": {
+      "type": "text",
+      "style": "clue",
+      "text": "Filme de 2002 de Fernando Meirelles e Kátia Lund, narrado pelo jovem fotógrafo Buscapé, que acompanha o crescimento do crime numa comunidade do Rio entre os anos 60 e 80."
+    },
+    "answers": [
+      "Cidade de Deus",
+      "City of God"
+    ],
+    "acceptedAliases": [],
+    "rejectedAnswers": [],
+    "hints": [
+      "Baseado no livro de Paulo Lins.",
+      "Tem os personagens Zé Pequeno e Bené.",
+      "O título é o nome de um conjunto habitacional da Zona Oeste carioca."
+    ],
+    "explanation": "O filme recebeu quatro indicações ao Oscar, incluindo melhor direção e melhor roteiro adaptado.",
+    "tags": [
+      "brasil",
+      "anos 2000",
+      "filme nacional"
+    ],
+    "source": {
+      "url": "https://pt.wikipedia.org/wiki/Cidade_de_Deus_(filme)",
+      "attribution": "Wikipédia — Cidade de Deus (filme)"
+    }
+  },
+  {
+    "id": "cin-025",
+    "category": "cinema_tv",
+    "type": "clue",
+    "difficulty": 2,
+    "prompt": "Qual ator é descrito aqui?",
+    "media": {
+      "type": "text",
+      "style": "clue",
+      "text": "Ator americano que, depois de anos de memes por 'nunca ganhar o Oscar', finalmente levou a estatueta de melhor ator em 2016 por 'O Regresso'."
+    },
+    "answers": [
+      "Leonardo DiCaprio"
+    ],
+    "acceptedAliases": [
+      "DiCaprio",
+      "Leo DiCaprio"
+    ],
+    "rejectedAnswers": [],
+    "hints": [
+      "Ficou famoso ainda jovem, nos anos 90.",
+      "Estrelou 'O Lobo de Wall Street' e 'A Origem'.",
+      "Tem o mesmo primeiro nome de um gênio do Renascimento (e de uma Tartaruga Ninja)."
+    ],
+    "explanation": "Antes da vitória, ele havia sido indicado como ator quatro vezes sem levar o prêmio, o que virou piada recorrente na internet.",
+    "tags": [
+      "internacional",
+      "anos 2010",
+      "ator",
+      "oscar"
+    ],
+    "source": {
+      "url": "https://pt.wikipedia.org/wiki/Leonardo_DiCaprio",
+      "attribution": "Wikipédia — Leonardo DiCaprio"
+    }
+  },
+  {
+    "id": "cin-026",
+    "category": "cinema_tv",
+    "type": "clue",
+    "difficulty": 2,
+    "prompt": "Qual programa de TV é descrito aqui?",
+    "media": {
+      "type": "text",
+      "style": "clue",
+      "text": "Game show de perguntas e respostas do SBT, comandado por Silvio Santos a partir de 1999, em que o participante podia pedir ajuda às 'cartas', às 'placas' ou aos 'universitários'."
+    },
+    "answers": [
+      "Show do Milhão",
+      "Jogo do Milhão"
+    ],
+    "acceptedAliases": [],
+    "rejectedAnswers": [],
+    "hints": [
+      "As perguntas eram de múltipla escolha, com quatro alternativas.",
+      "O apresentador também era o dono da emissora.",
+      "O nome do programa revela o valor do prêmio máximo."
+    ],
+    "explanation": "Sucesso de audiência entre 1999 e 2003, o programa ganhou novas versões em 2009 e 2017.",
+    "tags": [
+      "brasil",
+      "anos 2000",
+      "sbt",
+      "game show"
+    ],
+    "source": {
+      "url": "https://pt.wikipedia.org/wiki/Show_do_Milhão",
+      "attribution": "Wikipédia — Show do Milhão"
+    }
+  },
+  {
+    "id": "cin-027",
+    "category": "cinema_tv",
+    "type": "emoji",
+    "difficulty": 2,
+    "prompt": "Qual série estes emojis representam?",
+    "media": {
+      "type": "emoji",
+      "text": "🧇🚲🔦👾"
+    },
+    "answers": [
+      "Stranger Things"
+    ],
+    "acceptedAliases": [],
+    "rejectedAnswers": [],
+    "hints": [
+      "Série da Netflix ambientada nos anos 80.",
+      "Um grupo de amigos procura um garoto desaparecido na cidade de Hawkins.",
+      "Uma menina com poderes, chamada Eleven, adora waffles."
+    ],
+    "explanation": "Lançada em 2016, a série dos irmãos Duffer é cheia de homenagens aos filmes de Spielberg e aos livros de Stephen King.",
+    "tags": [
+      "internacional",
+      "anos 2010",
+      "série",
+      "netflix"
+    ],
+    "source": {
+      "url": "https://pt.wikipedia.org/wiki/Stranger_Things",
+      "attribution": "Wikipédia — Stranger Things"
+    }
+  },
+  {
+    "id": "cin-028",
+    "category": "cinema_tv",
+    "type": "clue",
+    "difficulty": 2,
+    "prompt": "Qual série é descrita aqui?",
+    "media": {
+      "type": "text",
+      "style": "clue",
+      "text": "Série sul-coreana da Netflix (2021) em que 456 pessoas endividadas disputam brincadeiras infantis por um prêmio bilionário, vigiadas por guardas de macacão rosa."
+    },
+    "answers": [
+      "Round 6",
+      "Squid Game"
+    ],
+    "acceptedAliases": [],
+    "rejectedAnswers": [],
+    "hints": [
+      "As máscaras dos guardas têm um círculo, um triângulo ou um quadrado.",
+      "Uma das provas é o 'Batatinha frita 1, 2, 3'.",
+      "O título usado no Brasil tem um número."
+    ],
+    "explanation": "Criada por Hwang Dong-hyuk, virou a série mais vista da Netflix no lançamento; o título original significa 'jogo da lula'.",
+    "tags": [
+      "internacional",
+      "anos 2020",
+      "série",
+      "netflix"
+    ],
+    "source": {
+      "url": "https://pt.wikipedia.org/wiki/Squid_Game",
+      "attribution": "Wikipédia — Squid Game (Round 6)"
+    }
+  },
+  {
+    "id": "cin-029",
+    "category": "cinema_tv",
+    "type": "quote",
+    "difficulty": 2,
+    "prompt": "Qual personagem tem este grito de guerra?",
+    "media": {
+      "type": "text",
+      "style": "quote",
+      "text": "Ka-chow!"
+    },
+    "answers": [
+      "Relâmpago McQueen",
+      "Lightning McQueen"
+    ],
+    "acceptedAliases": [
+      "McQueen"
+    ],
+    "rejectedAnswers": [],
+    "hints": [
+      "Personagem de uma animação da Pixar.",
+      "É um carro de corrida vermelho com o número 95.",
+      "Protagonista de 'Carros' (2006)."
+    ],
+    "explanation": "O carro arrogante de 'Carros' aprende a desacelerar na pequena Radiator Springs, ao lado do guincho Mate.",
+    "tags": [
+      "internacional",
+      "anos 2000",
+      "pixar",
+      "animação"
+    ],
+    "source": {
+      "url": "https://pt.wikipedia.org/wiki/Lightning_McQueen",
+      "attribution": "Wikipédia — Lightning McQueen (Relâmpago McQueen)"
+    }
+  },
+  {
+    "id": "cin-030",
+    "category": "cinema_tv",
+    "type": "clue",
+    "difficulty": 2,
+    "prompt": "Qual série é descrita aqui?",
+    "media": {
+      "type": "text",
+      "style": "clue",
+      "text": "Sitcom narrada por um comediante americano sobre sua adolescência no Brooklyn dos anos 80, em que o pai vivia calculando quanto custava cada coisa desperdiçada em casa."
+    },
+    "answers": [
+      "Todo Mundo Odeia o Chris",
+      "Everybody Hates Chris"
+    ],
+    "acceptedAliases": [],
+    "rejectedAnswers": [],
+    "hints": [
+      "Foi reprisada à exaustão pela Record.",
+      "A mãe, Rochelle, vivia lembrando que o marido tinha dois empregos.",
+      "Na escola, o protagonista sofria com o valentão Caruso."
+    ],
+    "explanation": "Exibida originalmente entre 2005 e 2009, a série é inspirada na juventude de Chris Rock, que também é o narrador.",
+    "tags": [
+      "internacional",
+      "anos 2000",
+      "sitcom"
+    ],
+    "source": {
+      "url": "https://pt.wikipedia.org/wiki/Everybody_Hates_Chris",
+      "attribution": "Wikipédia — Everybody Hates Chris (Todo Mundo Odeia o Chris)"
+    }
+  },
+  {
+    "id": "cin-031",
+    "category": "cinema_tv",
+    "type": "quote",
+    "difficulty": 3,
+    "prompt": "De qual filme é esta frase?",
+    "media": {
+      "type": "text",
+      "style": "quote",
+      "text": "Houston, temos um problema."
+    },
+    "answers": [
+      "Apollo 13",
+      "Apollo 13: Do Desastre ao Triunfo"
+    ],
+    "acceptedAliases": [],
+    "rejectedAnswers": [
+      "Apollo 11"
+    ],
+    "hints": [
+      "Filme de 1995 dirigido por Ron Howard.",
+      "Tom Hanks vive um astronauta.",
+      "Baseado numa missão real à Lua, de 1970, que teve de ser abortada."
+    ],
+    "explanation": "Na vida real, os astronautas disseram 'Houston, we've had a problem' ('tivemos um problema'); o filme mudou o tempo verbal e a frase virou expressão popular.",
+    "tags": [
+      "internacional",
+      "anos 90",
+      "espaço"
+    ],
+    "source": {
+      "url": "https://pt.wikipedia.org/wiki/Apollo_13_(filme)",
+      "attribution": "Wikipédia — Apollo 13 (filme)"
+    }
+  },
+  {
+    "id": "cin-032",
+    "category": "cinema_tv",
+    "type": "quote",
+    "difficulty": 3,
+    "prompt": "Qual personagem vivia repetindo esta frase?",
+    "media": {
+      "type": "text",
+      "style": "quote",
+      "text": "Cala a boca, Magda!"
+    },
+    "answers": [
+      "Caco Antibes"
+    ],
+    "acceptedAliases": [
+      "Caco"
+    ],
+    "rejectedAnswers": [],
+    "hints": [
+      "Personagem de um humorístico da Globo gravado com plateia nos anos 90.",
+      "Esnobe e falido, foi morar de favor no apartamento do tio da esposa.",
+      "Interpretado por Miguel Falabella em 'Sai de Baixo'."
+    ],
+    "explanation": "Em 'Sai de Baixo' (1996–2002), o personagem de Miguel Falabella vivia mandando calar a esposa Magda, vivida por Marisa Orth.",
+    "tags": [
+      "brasil",
+      "anos 90",
+      "humor",
+      "sitcom"
+    ],
+    "source": {
+      "url": "https://pt.wikipedia.org/wiki/Caco_Antibes",
+      "attribution": "Wikipédia — Caco Antibes"
+    }
+  },
+  {
+    "id": "cin-033",
+    "category": "cinema_tv",
+    "type": "quote",
+    "difficulty": 3,
+    "prompt": "Qual apresentador se despedia do público com esta frase?",
+    "media": {
+      "type": "text",
+      "style": "quote",
+      "text": "Beijo do Gordo!"
+    },
+    "answers": [
+      "Jô Soares",
+      "José Eugênio Soares"
+    ],
+    "acceptedAliases": [
+      "Jô"
+    ],
+    "rejectedAnswers": [],
+    "hints": [
+      "Humorista, escritor e apresentador de entrevistas tarde da noite.",
+      "Comandou um talk show no SBT e depois outro na Globo.",
+      "Recebia os convidados acompanhado de um sexteto musical."
+    ],
+    "explanation": "Ele apresentou o 'Jô Soares Onze e Meia' no SBT e o 'Programa do Jô' na Globo, até 2016.",
+    "tags": [
+      "brasil",
+      "anos 2000",
+      "talk show",
+      "apresentador"
+    ],
+    "source": {
+      "url": "https://pt.wikipedia.org/wiki/Jô_Soares",
+      "attribution": "Wikipédia — Jô Soares"
+    }
+  },
+  {
+    "id": "cin-034",
+    "category": "cinema_tv",
+    "type": "quote",
+    "difficulty": 3,
+    "prompt": "Qual personagem de novela eternizou este bordão?",
+    "media": {
+      "type": "text",
+      "style": "quote",
+      "text": "Tô certo ou tô errado?"
+    },
+    "answers": [
+      "Sinhozinho Malta"
+    ],
+    "acceptedAliases": [
+      "Sinhozinho"
+    ],
+    "rejectedAnswers": [],
+    "hints": [
+      "Personagem de uma novela da Globo de 1985.",
+      "Fazendeiro poderoso da fictícia cidade de Asa Branca.",
+      "Vivido por Lima Duarte em 'Roque Santeiro'."
+    ],
+    "explanation": "Em 'Roque Santeiro', de Dias Gomes e Aguinaldo Silva, o coronel vivido por Lima Duarte balançava as pulseiras de ouro enquanto soltava o bordão.",
+    "tags": [
+      "brasil",
+      "anos 80",
+      "novela"
+    ],
+    "source": {
+      "url": "https://pt.wikipedia.org/wiki/Roque_Santeiro",
+      "attribution": "Wikipédia — Roque Santeiro"
+    }
+  },
+  {
+    "id": "cin-035",
+    "category": "cinema_tv",
+    "type": "clue",
+    "difficulty": 3,
+    "prompt": "Qual filme brasileiro é descrito aqui?",
+    "media": {
+      "type": "text",
+      "style": "clue",
+      "text": "Filme de Walter Salles (1998) em que uma ex-professora que escreve cartas para analfabetos numa estação de trem do Rio acaba acompanhando um menino na busca pelo pai no Nordeste."
+    },
+    "answers": [
+      "Central do Brasil"
+    ],
+    "acceptedAliases": [],
+    "rejectedAnswers": [],
+    "hints": [
+      "A protagonista se chama Dora.",
+      "O menino se chama Josué.",
+      "Rendeu a Fernanda Montenegro uma indicação ao Oscar de melhor atriz."
+    ],
+    "explanation": "O filme ganhou o Urso de Ouro em Berlim, e Fernanda Montenegro se tornou a primeira brasileira indicada ao Oscar de melhor atriz.",
+    "tags": [
+      "brasil",
+      "anos 90",
+      "filme nacional"
+    ],
+    "source": {
+      "url": "https://pt.wikipedia.org/wiki/Central_do_Brasil_(filme)",
+      "attribution": "Wikipédia — Central do Brasil (filme)"
+    }
+  },
+  {
+    "id": "cin-036",
+    "category": "cinema_tv",
+    "type": "emoji",
+    "difficulty": 3,
+    "prompt": "Qual novela da Globo estes emojis representam?",
+    "media": {
+      "type": "emoji",
+      "text": "🧬👨👨"
+    },
+    "answers": [
+      "O Clone"
+    ],
+    "acceptedAliases": [],
+    "rejectedAnswers": [],
+    "hints": [
+      "Novela de Glória Perez que estreou em 2001.",
+      "Boa parte da história se passa no Marrocos.",
+      "Jade e Lucas vivem um amor proibido."
+    ],
+    "explanation": "A novela misturava a cultura marroquina com o tema da clonagem humana e foi exportada para mais de 100 países.",
+    "tags": [
+      "brasil",
+      "anos 2000",
+      "novela"
+    ],
+    "source": {
+      "url": "https://pt.wikipedia.org/wiki/O_Clone",
+      "attribution": "Wikipédia — O Clone"
+    }
+  },
+  {
+    "id": "cin-037",
+    "category": "cinema_tv",
+    "type": "emoji",
+    "difficulty": 3,
+    "prompt": "Qual novela estes emojis representam?",
+    "media": {
+      "type": "emoji",
+      "text": "🐆👩🐊🌾"
+    },
+    "answers": [
+      "Pantanal"
+    ],
+    "acceptedAliases": [],
+    "rejectedAnswers": [],
+    "hints": [
+      "Novela de Benedito Ruy Barbosa exibida originalmente pela TV Manchete, em 1990.",
+      "Ganhou um remake de sucesso na Globo em 2022.",
+      "Diziam que a personagem Juma Marruá virava onça."
+    ],
+    "explanation": "A versão de 1990 foi um estrondoso sucesso e chegou a superar a audiência da Globo, algo raríssimo na época.",
+    "tags": [
+      "brasil",
+      "anos 90",
+      "novela"
+    ],
+    "source": {
+      "url": "https://pt.wikipedia.org/wiki/Pantanal_(1990)",
+      "attribution": "Wikipédia — Pantanal (1990)"
+    }
+  },
+  {
+    "id": "cin-038",
+    "category": "cinema_tv",
+    "type": "clue",
+    "difficulty": 3,
+    "prompt": "Qual ator brasileiro é descrito aqui?",
+    "media": {
+      "type": "text",
+      "style": "clue",
+      "text": "Ator baiano que interpretou o narcotraficante Pablo Escobar na série 'Narcos', da Netflix, papel que lhe rendeu uma indicação ao Globo de Ouro."
+    },
+    "answers": [
+      "Wagner Moura"
+    ],
+    "acceptedAliases": [],
+    "rejectedAnswers": [],
+    "hints": [
+      "Nasceu em Salvador, em 1976.",
+      "Esteve em 'Carandiru' e 'Deus é Brasileiro', ambos de 2003.",
+      "Também é músico e já foi vocalista de uma banda baiana."
+    ],
+    "explanation": "Para viver Escobar, o ator, que não falava espanhol, passou semanas aprendendo o idioma em Medellín e engordou cerca de 18 quilos.",
+    "tags": [
+      "brasil",
+      "anos 2010",
+      "ator"
+    ],
+    "source": {
+      "url": "https://pt.wikipedia.org/wiki/Wagner_Moura",
+      "attribution": "Wikipédia — Wagner Moura"
+    }
+  },
+  {
+    "id": "cin-039",
+    "category": "cinema_tv",
+    "type": "clue",
+    "difficulty": 3,
+    "prompt": "Qual humorista é descrito aqui?",
+    "media": {
+      "type": "text",
+      "style": "clue",
+      "text": "Humorista cearense de Maranguape que deu vida a mais de 200 personagens e comandou a 'Escolinha do Professor Raimundo' na Globo."
+    },
+    "answers": [
+      "Chico Anysio",
+      "Francisco Anysio de Oliveira Paula Filho"
+    ],
+    "acceptedAliases": [
+      "Anysio"
+    ],
+    "rejectedAnswers": [],
+    "hints": [
+      "Fez carreira no rádio e na TV a partir dos anos 50.",
+      "Um de seus bordões era 'E o salário, ó...'.",
+      "É pai do humorista Bruno Mazzeo."
+    ],
+    "explanation": "Considerado um dos maiores humoristas do país, ele criava, escrevia e interpretava seus próprios tipos cômicos.",
+    "tags": [
+      "brasil",
+      "anos 90",
+      "humor"
+    ],
+    "source": {
+      "url": "https://pt.wikipedia.org/wiki/Chico_Anysio",
+      "attribution": "Wikipédia — Chico Anysio"
+    }
+  },
+  {
+    "id": "cin-040",
+    "category": "cinema_tv",
+    "type": "clue",
+    "difficulty": 3,
+    "prompt": "Qual ator brasileiro é descrito aqui?",
+    "media": {
+      "type": "text",
+      "style": "clue",
+      "text": "Ator nascido em Petrópolis (RJ) que interpretou o rei persa Xerxes no filme '300' e participou das séries 'Lost' e 'Westworld'."
+    },
+    "answers": [
+      "Rodrigo Santoro"
+    ],
+    "acceptedAliases": [
+      "Santoro"
+    ],
+    "rejectedAnswers": [],
+    "hints": [
+      "Começou em novelas da Globo nos anos 90.",
+      "Protagonizou 'Bicho de Sete Cabeças' (2001).",
+      "Também aparece em 'Simplesmente Amor' (Love Actually)."
+    ],
+    "explanation": "Por 'Bicho de Sete Cabeças', em que vive um jovem internado à força num manicômio, ganhou prêmios de melhor ator em vários festivais.",
+    "tags": [
+      "brasil",
+      "anos 2000",
+      "ator"
+    ],
+    "source": {
+      "url": "https://pt.wikipedia.org/wiki/Rodrigo_Santoro",
+      "attribution": "Wikipédia — Rodrigo Santoro"
+    }
+  },
+  {
+    "id": "cin-041",
+    "category": "cinema_tv",
+    "type": "quote",
+    "difficulty": 4,
+    "prompt": "Qual apresentador eternizou este bordão?",
+    "media": {
+      "type": "text",
+      "style": "quote",
+      "text": "Quem não se comunica, se trumbica!"
+    },
+    "answers": [
+      "Chacrinha",
+      "Abelardo Barbosa",
+      "José Abelardo Barbosa de Medeiros"
+    ],
+    "acceptedAliases": [
+      "Velho Guerreiro"
+    ],
+    "rejectedAnswers": [],
+    "hints": [
+      "Comandou programas de calouros do rádio e da TV entre os anos 50 e 80.",
+      "Usava fantasias espalhafatosas e uma buzina para desclassificar os calouros.",
+      "Jogava bacalhau na plateia e gritava 'Teresinha!'."
+    ],
+    "explanation": "O 'Velho Guerreiro', pernambucano de Surubim, também é autor da frase 'Na televisão, nada se cria, tudo se copia'.",
+    "tags": [
+      "brasil",
+      "clássicos",
+      "apresentador",
+      "bordão"
+    ],
+    "source": {
+      "url": "https://pt.wikipedia.org/wiki/Chacrinha",
+      "attribution": "Wikipédia — Chacrinha"
+    }
+  },
+  {
+    "id": "cin-042",
+    "category": "cinema_tv",
+    "type": "clue",
+    "difficulty": 4,
+    "prompt": "Qual filme brasileiro é descrito aqui?",
+    "media": {
+      "type": "text",
+      "style": "clue",
+      "text": "Drama de Anna Muylaert (2015) em que Regina Casé vive Val, uma empregada doméstica nordestina que trabalha há anos para uma família rica de São Paulo."
+    },
+    "answers": [
+      "Que Horas Ela Volta?",
+      "The Second Mother"
+    ],
+    "acceptedAliases": [],
+    "rejectedAnswers": [],
+    "hints": [
+      "Estreou no Festival de Sundance, nos Estados Unidos.",
+      "A filha de Val, Jéssica, chega a São Paulo para prestar vestibular.",
+      "O título é uma pergunta sobre uma mãe que está longe."
+    ],
+    "explanation": "O filme discute desigualdade e a relação entre patrões e empregados, e foi o escolhido do Brasil para tentar uma vaga no Oscar.",
+    "tags": [
+      "brasil",
+      "anos 2010",
+      "filme nacional"
+    ],
+    "source": {
+      "url": "https://pt.wikipedia.org/wiki/Que_Horas_Ela_Volta%3F",
+      "attribution": "Wikipédia — Que Horas Ela Volta?"
+    }
+  },
+  {
+    "id": "cin-043",
+    "category": "cinema_tv",
+    "type": "clue",
+    "difficulty": 4,
+    "prompt": "Qual filme brasileiro é descrito aqui?",
+    "media": {
+      "type": "text",
+      "style": "clue",
+      "text": "Único filme brasileiro a ganhar a Palma de Ouro em Cannes (1962), sobre um homem simples do interior que carrega uma pesada cruz até uma igreja em Salvador."
+    },
+    "answers": [
+      "O Pagador de Promessas"
+    ],
+    "acceptedAliases": [],
+    "rejectedAnswers": [],
+    "hints": [
+      "Dirigido por Anselmo Duarte.",
+      "Baseado na peça de Dias Gomes.",
+      "O protagonista se chama Zé do Burro."
+    ],
+    "explanation": "Além da Palma de Ouro, o filme foi o primeiro brasileiro indicado ao Oscar de melhor filme estrangeiro.",
+    "tags": [
+      "brasil",
+      "clássicos",
+      "filme nacional"
+    ],
+    "source": {
+      "url": "https://pt.wikipedia.org/wiki/O_Pagador_de_Promessas",
+      "attribution": "Wikipédia — O Pagador de Promessas"
+    }
+  },
+  {
+    "id": "cin-044",
+    "category": "cinema_tv",
+    "type": "clue",
+    "difficulty": 4,
+    "prompt": "Qual ator e cineasta é descrito aqui?",
+    "media": {
+      "type": "text",
+      "style": "clue",
+      "text": "Comediante paulista que, entre 1952 e 1980, produziu e estrelou mais de 30 filmes como o caipira 'Jeca', um dos maiores fenômenos de bilheteria do cinema nacional."
+    },
+    "answers": [
+      "Mazzaropi",
+      "Amácio Mazzaropi"
+    ],
+    "acceptedAliases": [],
+    "rejectedAnswers": [],
+    "hints": [
+      "Seu caipira foi inspirado no Jeca Tatu de Monteiro Lobato.",
+      "Fundou a própria produtora, a PAM Filmes, numa fazenda em Taubaté (SP).",
+      "Era ator, cantor, roteirista, produtor e diretor dos próprios filmes."
+    ],
+    "explanation": "Ele bancava os próprios filmes e lotava cinemas do interior do país, mesmo sendo ignorado por boa parte da crítica da época.",
+    "tags": [
+      "brasil",
+      "clássicos",
+      "filme nacional",
+      "humor"
+    ],
+    "source": {
+      "url": "https://pt.wikipedia.org/wiki/Mazzaropi",
+      "attribution": "Wikipédia — Mazzaropi"
+    }
+  },
+  {
+    "id": "cin-045",
+    "category": "cinema_tv",
+    "type": "quote",
+    "difficulty": 3,
+    "prompt": "Qual personagem eternizou esta frase?",
+    "media": {
+      "type": "text",
+      "style": "quote",
+      "text": "Vamos deixar os entretantos e partir para os finalmentes."
+    },
+    "answers": [
+      "Odorico Paraguaçu"
+    ],
+    "acceptedAliases": [
+      "Odorico"
+    ],
+    "rejectedAnswers": [],
+    "hints": [
+      "Personagem criado pelo dramaturgo Dias Gomes.",
+      "Prefeito demagogo da fictícia Sucupira, na Bahia.",
+      "Protagonista de 'O Bem-Amado', a primeira novela em cores da TV brasileira."
+    ],
+    "explanation": "Vivido por Paulo Gracindo na novela de 1973 e por Marco Nanini no filme de 2010, o prefeito era famoso pelos discursos cheios de palavras inventadas.",
+    "tags": [
+      "brasil",
+      "clássicos",
+      "novela"
+    ],
+    "source": {
+      "url": "https://pt.wikipedia.org/wiki/Odorico_Paraguaçu",
+      "attribution": "Wikipédia — Odorico Paraguaçu"
+    }
+  },
+  {
+    "id": "cin-046",
+    "category": "cinema_tv",
+    "type": "clue",
+    "difficulty": 4,
+    "prompt": "Qual filme brasileiro é descrito aqui?",
+    "media": {
+      "type": "text",
+      "style": "clue",
+      "text": "Filme de 1976, baseado em romance de Jorge Amado e estrelado por Sônia Braga e José Wilker, que foi o recordista de público do cinema nacional por 34 anos."
+    },
+    "answers": [
+      "Dona Flor e Seus Dois Maridos"
+    ],
+    "acceptedAliases": [
+      "Dona Flor"
+    ],
+    "rejectedAnswers": [],
+    "hints": [
+      "A história se passa em Salvador.",
+      "A protagonista é professora de culinária.",
+      "O primeiro marido, o boêmio Vadinho, volta como fantasma para atormentar o segundo casamento."
+    ],
+    "explanation": "Com mais de 10 milhões de espectadores, só foi superado em 2010, por 'Tropa de Elite 2'.",
+    "tags": [
+      "brasil",
+      "clássicos",
+      "filme nacional"
+    ],
+    "source": {
+      "url": "https://pt.wikipedia.org/wiki/Dona_Flor_e_Seus_Dois_Maridos_(filme_de_1976)",
+      "attribution": "Wikipédia — Dona Flor e Seus Dois Maridos (filme de 1976)"
+    }
+  }
+]

@@ -1,0 +1,8 @@
+[
+  { "id": "cinema_tv", "label": "Cinema e TV", "emoji": "🎬" },
+  { "id": "musica", "label": "Música", "emoji": "🎵" },
+  { "id": "memes", "label": "Memes e Internet", "emoji": "😂" },
+  { "id": "esportes", "label": "Futebol e Esportes", "emoji": "⚽" },
+  { "id": "games_animacao", "label": "Games e Animações", "emoji": "🎮" },
+  { "id": "aleatorio", "label": "Conhecimento Aleatório", "emoji": "🎲" }
+]

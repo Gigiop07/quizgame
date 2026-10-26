@@ -1,0 +1,1528 @@
+[
+  {
+    "id": "mem-001",
+    "category": "memes",
+    "type": "quote",
+    "difficulty": 1,
+    "prompt": "Complete o nome que falta na frase do comercial que virou meme em 2012.",
+    "media": {
+      "type": "text",
+      "style": "quote",
+      "text": "Menos ___, que está no Canadá."
+    },
+    "answers": [
+      "Luiza",
+      "Luísa"
+    ],
+    "acceptedAliases": [],
+    "rejectedAnswers": [],
+    "hints": [
+      "A frase vem do comercial de um prédio residencial na Paraíba.",
+      "No anúncio, o pai reúne a família inteira para apresentar o empreendimento… menos uma das filhas.",
+      "Ela voltou ao Brasil em 17 de janeiro de 2012 e gravou um novo comercial."
+    ],
+    "explanation": "O anúncio de Gerardo Rabello foi ao ar em janeiro de 2012, dominou Twitter e Facebook e é considerado o primeiro grande meme daquele ano.",
+    "tags": [
+      "brasil",
+      "anos 2010",
+      "publicidade",
+      "twitter"
+    ],
+    "source": {
+      "url": "https://pt.wikipedia.org/wiki/Luiza_que_está_no_Canadá",
+      "attribution": "Wikipédia — Luiza que está no Canadá"
+    }
+  },
+  {
+    "id": "mem-002",
+    "category": "memes",
+    "type": "emoji",
+    "difficulty": 1,
+    "prompt": "Qual hit viral de 2019 é representado pelos emojis?",
+    "media": {
+      "type": "emoji",
+      "text": "🖊️🔵"
+    },
+    "answers": [
+      "Caneta Azul",
+      "Caneta Azul, Azul Caneta"
+    ],
+    "acceptedAliases": [],
+    "rejectedAnswers": [
+      "Caneta Preta"
+    ],
+    "hints": [
+      "O autor é um cantor maranhense que trabalhava como vigilante.",
+      "Foi regravado por Wesley Safadão, Alok e Simone Mendes.",
+      "O compositor é Manoel Gomes."
+    ],
+    "explanation": "Manoel Gomes escreveu a música inspirado no hábito de perder canetas na escola; ela viralizou no segundo semestre de 2019.",
+    "tags": [
+      "brasil",
+      "anos 2010",
+      "viral"
+    ],
+    "source": {
+      "url": "https://pt.wikipedia.org/wiki/Manoel_Gomes",
+      "attribution": "Wikipédia — Manoel Gomes"
+    }
+  },
+  {
+    "id": "mem-003",
+    "category": "memes",
+    "type": "quote",
+    "difficulty": 1,
+    "prompt": "Complete o comentário que fãs deixam em massa nos perfis de artistas internacionais.",
+    "media": {
+      "type": "text",
+      "style": "quote",
+      "text": "Please, come to ___!"
+    },
+    "answers": [
+      "Brazil",
+      "Brasil"
+    ],
+    "acceptedAliases": [],
+    "rejectedAnswers": [],
+    "hints": [
+      "Virou meme pela insistência (e pela quantidade) dos fãs brasileiros.",
+      "Um dos primeiros registros é de 2008, no Twitter.",
+      "É o nome do nosso país, em inglês."
+    ],
+    "explanation": "Considera-se que o primeiro pedido foi feito em 11 de abril de 2008, no Twitter, para o empresário francês Loïc Le Meur; depois virou o convite padrão a qualquer celebridade.",
+    "tags": [
+      "brasil",
+      "anos 2000",
+      "redes sociais"
+    ],
+    "source": {
+      "url": "https://pt.wikipedia.org/wiki/Please,_come_to_Brazil",
+      "attribution": "Wikipédia — Please, come to Brazil"
+    }
+  },
+  {
+    "id": "mem-004",
+    "category": "memes",
+    "type": "clue",
+    "difficulty": 1,
+    "prompt": "Qual é o nome desse meme?",
+    "media": {
+      "type": "text",
+      "style": "clue",
+      "text": "Foto de banco de imagens: um rapaz que caminha com a namorada vira o pescoço para olhar outra moça, enquanto a namorada o encara indignada."
+    },
+    "answers": [
+      "Namorado Distraído",
+      "Distracted Boyfriend",
+      "Meme do namorado distraído"
+    ],
+    "acceptedAliases": [],
+    "rejectedAnswers": [],
+    "hints": [
+      "A foto é de 2015, de um fotógrafo espanhol.",
+      "Viralizou em agosto de 2017 para representar todo tipo de 'infidelidade'.",
+      "Nas montagens, cada pessoa ganha uma legenda: o rapaz, a namorada e a 'tentação'."
+    ],
+    "explanation": "A foto é de Antonio Guillem (2015) e foi apontada pela mídia como um dos melhores memes de 2017.",
+    "tags": [
+      "internacional",
+      "anos 2010",
+      "foto"
+    ],
+    "source": {
+      "url": "https://pt.wikipedia.org/wiki/Meme_do_namorado_distraído",
+      "attribution": "Wikipédia — Meme do namorado distraído"
+    }
+  },
+  {
+    "id": "mem-005",
+    "category": "memes",
+    "type": "quote",
+    "difficulty": 1,
+    "prompt": "Qual apresentador imortalizou esse bordão?",
+    "media": {
+      "type": "text",
+      "style": "quote",
+      "text": "Quem quer dinheiro?"
+    },
+    "answers": [
+      "Silvio Santos"
+    ],
+    "acceptedAliases": [
+      "Silvio"
+    ],
+    "rejectedAnswers": [],
+    "hints": [
+      "Ele foi dono de uma das maiores emissoras de TV do Brasil.",
+      "O bordão ficou famoso no programa 'Topa Tudo por Dinheiro'.",
+      "Seu programa de domingo levava o próprio nome dele."
+    ],
+    "explanation": "O bordão foi imortalizado no 'Topa Tudo por Dinheiro' e voltou ao 'Programa Silvio Santos' em 2008.",
+    "tags": [
+      "brasil",
+      "bordão",
+      "tv"
+    ],
+    "source": {
+      "url": "https://pt.wikipedia.org/wiki/Silvio_Santos",
+      "attribution": "Wikipédia — Silvio Santos"
+    }
+  },
+  {
+    "id": "mem-006",
+    "category": "memes",
+    "type": "emoji",
+    "difficulty": 1,
+    "prompt": "Qual desafio viral de 2014 é representado pelos emojis?",
+    "media": {
+      "type": "emoji",
+      "text": "🪣🧊🥶"
+    },
+    "answers": [
+      "Desafio do Balde de Gelo",
+      "Ice Bucket Challenge",
+      "Desafio do Balde",
+      "Balde de Gelo"
+    ],
+    "acceptedAliases": [],
+    "rejectedAnswers": [],
+    "hints": [
+      "Celebridades e empresários da tecnologia gravaram vídeos e desafiaram amigos.",
+      "Quem era desafiado tinha 24 horas para cumprir.",
+      "O objetivo era conscientizar sobre a ELA (esclerose lateral amiotrófica) e arrecadar doações."
+    ],
+    "explanation": "Cofundado por Pat Quinn e Pete Frates, o desafio viralizou entre julho e agosto de 2014 para promover a pesquisa sobre a ELA.",
+    "tags": [
+      "internacional",
+      "anos 2010",
+      "desafio"
+    ],
+    "source": {
+      "url": "https://pt.wikipedia.org/wiki/Desafio_do_Balde_de_Gelo",
+      "attribution": "Wikipédia — Desafio do Balde de Gelo"
+    }
+  },
+  {
+    "id": "mem-007",
+    "category": "memes",
+    "type": "quote",
+    "difficulty": 1,
+    "prompt": "Complete o nome que falta nesse meme que dominou o Twitter durante a Copa do Mundo de 2010.",
+    "media": {
+      "type": "text",
+      "style": "quote",
+      "text": "Cala boca, ___!"
+    },
+    "answers": [
+      "Galvão",
+      "Galvão Bueno"
+    ],
+    "acceptedAliases": [],
+    "rejectedAnswers": [],
+    "hints": [
+      "Era um recado para um narrador esportivo da TV Globo.",
+      "O meme foi criado por Maurício Cid, do site Não Salvo.",
+      "Estrangeiros ouviram que a frase era uma campanha para salvar um pássaro brasileiro ameaçado de extinção."
+    ],
+    "explanation": "Lançado em 11 de junho de 2010, o meme confundiu os gringos, que chegaram a acreditar que 'Galvão' era uma ave rara a ser salva.",
+    "tags": [
+      "brasil",
+      "anos 2010",
+      "twitter",
+      "futebol"
+    ],
+    "source": {
+      "url": "https://pt.wikipedia.org/wiki/Cala_a_boca,_Galvão",
+      "attribution": "Wikipédia — Cala a boca, Galvão"
+    }
+  },
+  {
+    "id": "mem-008",
+    "category": "memes",
+    "type": "clue",
+    "difficulty": 1,
+    "prompt": "Qual é o nome dessa rede social?",
+    "media": {
+      "type": "text",
+      "style": "clue",
+      "text": "Rede social do Google criada em 2004, famosa por suas 'comunidades' e pelos recados; teve no Brasil a maioria de seus usuários e foi desativada em 2014."
+    },
+    "answers": [
+      "Orkut"
+    ],
+    "acceptedAliases": [],
+    "rejectedAnswers": [],
+    "hints": [
+      "Chegou a ter mais de 30 milhões de usuários brasileiros.",
+      "Acabou ultrapassada pelo Facebook.",
+      "O nome vem do engenheiro turco do Google que a projetou."
+    ],
+    "explanation": "O nome homenageia Orkut Büyükkökten; a partir de 2008, por causa do enorme público brasileiro, a rede passou a ser operada pelo Google Brasil.",
+    "tags": [
+      "internacional",
+      "anos 2000",
+      "redes sociais",
+      "orkut"
+    ],
+    "source": {
+      "url": "https://pt.wikipedia.org/wiki/Orkut",
+      "attribution": "Wikipédia — Orkut"
+    }
+  },
+  {
+    "id": "mem-009",
+    "category": "memes",
+    "type": "quote",
+    "difficulty": 1,
+    "prompt": "Qual estado brasileiro é alvo dessa teoria da conspiração de brincadeira?",
+    "media": {
+      "type": "text",
+      "style": "quote",
+      "text": "O ___ não existe."
+    },
+    "answers": [
+      "Acre"
+    ],
+    "acceptedAliases": [],
+    "rejectedAnswers": [],
+    "hints": [
+      "É um estado da Região Norte.",
+      "Algumas versões da piada dizem que o lugar é habitado por dinossauros.",
+      "Sua capital é Rio Branco."
+    ],
+    "explanation": "A 'conspiração do Acre' é tão popular que já foi citada em reportagens e até estudada em artigos acadêmicos.",
+    "tags": [
+      "brasil",
+      "geografia",
+      "piada"
+    ],
+    "source": {
+      "url": "https://pt.wikipedia.org/wiki/Conspiração_do_Acre",
+      "attribution": "Wikipédia — Conspiração do Acre"
+    }
+  },
+  {
+    "id": "mem-010",
+    "category": "memes",
+    "type": "clue",
+    "difficulty": 1,
+    "prompt": "Qual personagem aparece nesse meme?",
+    "media": {
+      "type": "text",
+      "style": "clue",
+      "text": "Captura de tela de um anime em que um ratinho elétrico amarelo aparece de olhos arregalados e boca aberta, em choque — usada para reagir a consequências totalmente previsíveis."
+    },
+    "answers": [
+      "Pikachu",
+      "Pikachu Surpreso",
+      "Surprised Pikachu"
+    ],
+    "acceptedAliases": [],
+    "rejectedAnswers": [
+      "Raichu",
+      "Pichu"
+    ],
+    "hints": [
+      "É o Pokémon mais famoso de todos.",
+      "Acompanha o Ash no anime.",
+      "Seu grito característico repete o próprio nome."
+    ],
+    "explanation": "O 'Surprised Pikachu' é usado para mostrar choque — ou, ironicamente, a falta dele — diante de algo óbvio.",
+    "tags": [
+      "internacional",
+      "anos 2010",
+      "anime",
+      "pokémon"
+    ],
+    "source": {
+      "url": "https://en.wikipedia.org/wiki/List_of_Internet_phenomena",
+      "attribution": "Wikipédia (inglês) — List of Internet phenomena"
+    }
+  },
+  {
+    "id": "mem-011",
+    "category": "memes",
+    "type": "clue",
+    "difficulty": 1,
+    "prompt": "Qual personagem aparece nesse meme?",
+    "media": {
+      "type": "text",
+      "style": "clue",
+      "text": "Imagem de um personagem amarelo de desenho animado usada para repetir, com deboche, o que alguém disse — sempre escrito aLtErNaNdO mAiÚsCuLaS e MiNúScUlAs."
+    },
+    "answers": [
+      "Bob Esponja",
+      "SpongeBob",
+      "Bob Esponja Calça Quadrada",
+      "SpongeBob SquarePants"
+    ],
+    "acceptedAliases": [],
+    "rejectedAnswers": [
+      "Patrick",
+      "Lula Molusco"
+    ],
+    "hints": [
+      "Ele mora no fundo do mar.",
+      "Trabalha como cozinheiro numa lanchonete.",
+      "Sua casa é um abacaxi."
+    ],
+    "explanation": "O meme ficou tão associado ao texto com maiúsculas e minúsculas alternadas que esse estilo ganhou o apelido de 'spongecase'.",
+    "tags": [
+      "internacional",
+      "anos 2010",
+      "desenho"
+    ],
+    "source": {
+      "url": "https://en.wikipedia.org/wiki/Alternating_caps",
+      "attribution": "Wikipédia (inglês) — Alternating caps"
+    }
+  },
+  {
+    "id": "mem-012",
+    "category": "memes",
+    "type": "clue",
+    "difficulty": 1,
+    "prompt": "Sobre qual ator são essas piadas?",
+    "media": {
+      "type": "text",
+      "style": "clue",
+      "text": "Piadas em forma de 'fatos' absurdos sobre um astro de artes marciais: seus chutes giratórios resolvem tudo e ele é durão em níveis sobre-humanos."
+    },
+    "answers": [
+      "Chuck Norris"
+    ],
+    "acceptedAliases": [],
+    "rejectedAnswers": [
+      "Bruce Lee",
+      "Jean-Claude Van Damme"
+    ],
+    "hints": [
+      "As piadas se espalharam por fóruns e redes sociais e ganharam versões em vários países.",
+      "Ele é famoso pela barba e pelo chute giratório.",
+      "Estrelou a série 'Walker, Texas Ranger'."
+    ],
+    "explanation": "Os 'fatos' sobre o ator são considerados um dos primeiros memes de grande escala da internet e seguem o formato de exagero das piadas de 'yo mama'.",
+    "tags": [
+      "internacional",
+      "anos 2000",
+      "cinema"
+    ],
+    "source": {
+      "url": "https://pt.wikipedia.org/wiki/Fatos_sobre_Chuck_Norris",
+      "attribution": "Wikipédia — Fatos sobre Chuck Norris"
+    }
+  },
+  {
+    "id": "mem-013",
+    "category": "memes",
+    "type": "clue",
+    "difficulty": 1,
+    "prompt": "Que peça de roupa era essa?",
+    "media": {
+      "type": "text",
+      "style": "clue",
+      "text": "Em 2015, a foto de uma peça de roupa dividiu a internet: uns juravam que ela era azul e preta; outros, branca e dourada."
+    },
+    "answers": [
+      "Vestido",
+      "The Dress"
+    ],
+    "acceptedAliases": [],
+    "rejectedAnswers": [
+      "Saia",
+      "Blusa"
+    ],
+    "hints": [
+      "A foto foi postada originalmente no Facebook.",
+      "Em uma semana, mais de dez milhões de tweets falaram dela.",
+      "A loja que a vendia era a britânica Roman Originals."
+    ],
+    "explanation": "A peça era, na verdade, azul e preta; a iluminação da foto fez muita gente enxergá-la branca e dourada, e o caso virou tema de estudos sobre percepção de cores.",
+    "tags": [
+      "internacional",
+      "anos 2010",
+      "ilusão"
+    ],
+    "source": {
+      "url": "https://en.wikipedia.org/wiki/The_dress",
+      "attribution": "Wikipédia (inglês) — The dress"
+    }
+  },
+  {
+    "id": "mem-014",
+    "category": "memes",
+    "type": "quote",
+    "difficulty": 2,
+    "prompt": "Qual cantor tornou esse bordão famoso em 2014?",
+    "media": {
+      "type": "text",
+      "style": "quote",
+      "text": "Sabe de nada, inocente!"
+    },
+    "answers": [
+      "Compadre Washington"
+    ],
+    "acceptedAliases": [
+      "Washington"
+    ],
+    "rejectedAnswers": [
+      "Beto Jamaica"
+    ],
+    "hints": [
+      "Ele é um dos vocalistas de um famoso grupo de pagode baiano dos anos 90.",
+      "O bordão nasceu num comercial do site de vendas Bom Negócio.",
+      "O grupo dele é o É o Tchan!."
+    ],
+    "explanation": "O bordão surgiu num comercial do Bom Negócio em 2014 e fez tanto sucesso que virou música do É o Tchan!.",
+    "tags": [
+      "brasil",
+      "anos 2010",
+      "bordão",
+      "publicidade"
+    ],
+    "source": {
+      "url": "https://pt.wikipedia.org/wiki/É_o_Tchan!",
+      "attribution": "Wikipédia — É o Tchan!"
+    }
+  },
+  {
+    "id": "mem-015",
+    "category": "memes",
+    "type": "quote",
+    "difficulty": 2,
+    "prompt": "Qual trapalhão popularizou esse jeito de falar?",
+    "media": {
+      "type": "text",
+      "style": "quote",
+      "text": "Cacildis! Só no forévis!"
+    },
+    "answers": [
+      "Mussum"
+    ],
+    "acceptedAliases": [],
+    "rejectedAnswers": [
+      "Didi",
+      "Dedé",
+      "Zacarias"
+    ],
+    "hints": [
+      "Ele fazia parte de um famoso quarteto humorístico da TV.",
+      "Antes da TV, foi sambista do grupo Os Originais do Samba.",
+      "Chamava cerveja e cachaça de 'mé'."
+    ],
+    "explanation": "Ele acrescentava '-is' ou '-évis' às palavras ('forévis', 'cacíldis'); 'Só no Forévis' virou até título de um álbum dos Raimundos, em 1999.",
+    "tags": [
+      "brasil",
+      "anos 80",
+      "bordão",
+      "trapalhões"
+    ],
+    "source": {
+      "url": "https://pt.wikipedia.org/wiki/Mussum",
+      "attribution": "Wikipédia — Mussum"
+    }
+  },
+  {
+    "id": "mem-016",
+    "category": "memes",
+    "type": "quote",
+    "difficulty": 2,
+    "prompt": "Complete o nome que falta nessa frase que virou um clássico dos memes brasileiros.",
+    "media": {
+      "type": "text",
+      "style": "quote",
+      "text": "Senta lá, ___!"
+    },
+    "answers": [
+      "Cláudia"
+    ],
+    "acceptedAliases": [],
+    "rejectedAnswers": [
+      "Cláudio"
+    ],
+    "hints": [
+      "A frase foi dita em 1984, num programa infantil da TV Manchete.",
+      "Quem disse foi a apresentadora Xuxa, para uma menina de 5 anos.",
+      "Curiosidade: a menina, na verdade, se chamava Erica."
+    ],
+    "explanation": "Xuxa disse a frase no 'Clube da Criança', da TV Manchete, em 1984, para a pequena Erica Oliveira — e o momento virou um dos memes brasileiros mais famosos.",
+    "tags": [
+      "brasil",
+      "anos 80",
+      "tv",
+      "bordão"
+    ],
+    "source": {
+      "url": "https://pt.wikipedia.org/wiki/Senta_lá,_Cláudia",
+      "attribution": "Wikipédia — Senta lá, Cláudia"
+    }
+  },
+  {
+    "id": "mem-017",
+    "category": "memes",
+    "type": "quote",
+    "difficulty": 2,
+    "prompt": "Complete o nome da comunidade mais popular da rede social que reinou no Brasil nos anos 2000.",
+    "media": {
+      "type": "text",
+      "style": "quote",
+      "text": "Eu odeio ___"
+    },
+    "answers": [
+      "acordar cedo"
+    ],
+    "acceptedAliases": [],
+    "rejectedAnswers": [],
+    "hints": [
+      "Foi criada em 2004 por João Paulo Mascarenhas.",
+      "Chegou a ter mais de 6 milhões de membros.",
+      "Tem tudo a ver com o despertador tocando de manhã."
+    ],
+    "explanation": "'Eu Odeio Acordar Cedo' foi a maior comunidade do Orkut, com mais de 6,1 milhões de membros até o fim da rede, em 30 de setembro de 2014.",
+    "tags": [
+      "brasil",
+      "anos 2000",
+      "orkut"
+    ],
+    "source": {
+      "url": "https://pt.wikipedia.org/wiki/Eu_Odeio_Acordar_Cedo",
+      "attribution": "Wikipédia — Eu Odeio Acordar Cedo"
+    }
+  },
+  {
+    "id": "mem-018",
+    "category": "memes",
+    "type": "clue",
+    "difficulty": 2,
+    "prompt": "Quem é ela?",
+    "media": {
+      "type": "text",
+      "style": "clue",
+      "text": "Dançarina e cantora carioca que viralizou no fim de 2012 com um vídeo de inscrição para o Big Brother Brasil 2013 — sem nunca ter participado do programa."
+    },
+    "answers": [
+      "Inês Brasil"
+    ],
+    "acceptedAliases": [],
+    "rejectedAnswers": [],
+    "hints": [
+      "Desde então, ela emplaca um novo viral sempre que atualiza as redes sociais.",
+      "Em 2015, lançou o álbum 'Make Love'.",
+      "Nasceu no Rio de Janeiro, em 1969."
+    ],
+    "explanation": "Mesmo sem entrar no BBB, ela virou meme e passou a fazer cerca de vinte shows por mês pelo país.",
+    "tags": [
+      "brasil",
+      "anos 2010",
+      "bbb",
+      "youtube"
+    ],
+    "source": {
+      "url": "https://pt.wikipedia.org/wiki/Inês_Brasil",
+      "attribution": "Wikipédia — Inês Brasil"
+    }
+  },
+  {
+    "id": "mem-019",
+    "category": "memes",
+    "type": "clue",
+    "difficulty": 2,
+    "prompt": "Quem é esse youtuber?",
+    "media": {
+      "type": "text",
+      "style": "clue",
+      "text": "Youtuber carioca que estourou em 2010 com a série de vídeos 'Não Faz Sentido', em que criticava celebridades e modismos com muita ironia."
+    },
+    "answers": [
+      "Felipe Neto"
+    ],
+    "acceptedAliases": [],
+    "rejectedAnswers": [
+      "Luccas Neto"
+    ],
+    "hints": [
+      "Foi o primeiro youtuber brasileiro a conquistar 1 milhão de inscritos.",
+      "Em 2019, era o youtuber solo com mais inscritos do Brasil.",
+      "O irmão dele, Luccas, também é youtuber."
+    ],
+    "explanation": "'Não Faz Sentido' estreou em abril de 2010 e rendeu livro e peça de teatro; a partir de 2016 o canal mudou de estilo.",
+    "tags": [
+      "brasil",
+      "anos 2010",
+      "youtube"
+    ],
+    "source": {
+      "url": "https://pt.wikipedia.org/wiki/Felipe_Neto",
+      "attribution": "Wikipédia — Felipe Neto"
+    }
+  },
+  {
+    "id": "mem-020",
+    "category": "memes",
+    "type": "clue",
+    "difficulty": 2,
+    "prompt": "Qual é o nome desse programa?",
+    "media": {
+      "type": "text",
+      "style": "clue",
+      "text": "Mensageiro instantâneo da Microsoft, lançado em 1999, que reinou nos computadores brasileiros nos anos 2000 com status, emoticons e 'winks' — até ser substituído pelo Skype em 2013."
+    },
+    "answers": [
+      "MSN",
+      "MSN Messenger",
+      "Windows Live Messenger"
+    ],
+    "acceptedAliases": [],
+    "rejectedAnswers": [
+      "ICQ",
+      "Skype"
+    ],
+    "hints": [
+      "Para conversar, era preciso adicionar os amigos pelo e-mail deles.",
+      "Tinha um botão de 'chamar a atenção' que fazia a janela de conversa tremer.",
+      "O apelido popular era a sigla do portal da Microsoft."
+    ],
+    "explanation": "Lançado como MSN Messenger Service em julho de 1999, foi rebatizado de Windows Live Messenger em 2005 — mas no Brasil todo mundo continuou chamando de MSN.",
+    "tags": [
+      "internacional",
+      "anos 2000",
+      "internet"
+    ],
+    "source": {
+      "url": "https://pt.wikipedia.org/wiki/Windows_Live_Messenger",
+      "attribution": "Wikipédia — Windows Live Messenger"
+    }
+  },
+  {
+    "id": "mem-021",
+    "category": "memes",
+    "type": "clue",
+    "difficulty": 2,
+    "prompt": "Qual é o nome desse meme (a palavra do jeito que ela falou)?",
+    "media": {
+      "type": "text",
+      "style": "clue",
+      "text": "Numa entrevista à TV em 2004, uma nutricionista gaguejou ao dizer o nome de um lanche; o trecho se espalhou pelo Orkut em 2005 e virou um dos primeiros memes do Brasil."
+    },
+    "answers": [
+      "Sanduíche-iche",
+      "Sanduicheiche"
+    ],
+    "acceptedAliases": [],
+    "rejectedAnswers": [
+      "Sanduíche"
+    ],
+    "hints": [
+      "O vídeo também foi exibido no 'Pânico na TV'.",
+      "A entrevista foi para a TV Globo Nordeste, em Pernambuco.",
+      "A nutricionista se chama Ruth Lemos."
+    ],
+    "explanation": "Ruth Lemos não gostou da repercussão no início, mas aproveitou a visibilidade e chegou a se candidatar a deputada estadual.",
+    "tags": [
+      "brasil",
+      "anos 2000",
+      "tv",
+      "orkut"
+    ],
+    "source": {
+      "url": "https://pt.wikipedia.org/wiki/Sanduíche-iche",
+      "attribution": "Wikipédia — Sanduíche-iche"
+    }
+  },
+  {
+    "id": "mem-022",
+    "category": "memes",
+    "type": "clue",
+    "difficulty": 2,
+    "prompt": "Qual é o nome dessa pegadinha da internet?",
+    "media": {
+      "type": "text",
+      "style": "clue",
+      "text": "Pegadinha em que um link disfarçado leva, de surpresa, ao clipe de um hit pop britânico de 1987 — em vez do conteúdo prometido."
+    },
+    "answers": [
+      "Rickroll",
+      "Rick Roll",
+      "Rickrolling"
+    ],
+    "acceptedAliases": [],
+    "rejectedAnswers": [],
+    "hints": [
+      "Nasceu no 4chan em 2007, inspirada numa pegadinha anterior com um pato.",
+      "A música é 'Never Gonna Give You Up'.",
+      "O nome junta o primeiro nome do cantor com a palavra inglesa 'roll'."
+    ],
+    "explanation": "O rickroll derivou do 'duckroll' do 4chan, atingiu o auge em 2008 e acabou revitalizando a carreira de Rick Astley.",
+    "tags": [
+      "internacional",
+      "anos 2000",
+      "pegadinha",
+      "youtube"
+    ],
+    "source": {
+      "url": "https://pt.wikipedia.org/wiki/Rickrolling",
+      "attribution": "Wikipédia — Rickrolling"
+    }
+  },
+  {
+    "id": "mem-023",
+    "category": "memes",
+    "type": "emoji",
+    "difficulty": 2,
+    "prompt": "Qual vídeo viral de 2011 é representado pelos emojis?",
+    "media": {
+      "type": "emoji",
+      "text": "🐱🍞🌈🌌"
+    },
+    "answers": [
+      "Nyan Cat"
+    ],
+    "acceptedAliases": [],
+    "rejectedAnswers": [],
+    "hints": [
+      "É uma animação em pixel art que roda em loop.",
+      "O corpo do bichinho é um Pop-Tart, um biscoito recheado.",
+      "O nome imita o miado de um gato em japonês."
+    ],
+    "explanation": "O vídeo uniu uma música pop japonesa a um gato voando pelo espaço com rastro de arco-íris e foi um dos cinco mais vistos do YouTube em 2011.",
+    "tags": [
+      "internacional",
+      "anos 2010",
+      "gato",
+      "youtube"
+    ],
+    "source": {
+      "url": "https://pt.wikipedia.org/wiki/Nyan_Cat",
+      "attribution": "Wikipédia — Nyan Cat"
+    }
+  },
+  {
+    "id": "mem-024",
+    "category": "memes",
+    "type": "clue",
+    "difficulty": 2,
+    "prompt": "Qual é o nome desse meme?",
+    "media": {
+      "type": "text",
+      "style": "clue",
+      "text": "Foto de uma cadela da raça shiba inu olhando de lado, cercada de frases coloridas em Comic Sans escritas num inglês propositalmente quebrado."
+    },
+    "answers": [
+      "Doge"
+    ],
+    "acceptedAliases": [],
+    "rejectedAnswers": [
+      "Dogecoin"
+    ],
+    "hints": [
+      "O site Know Your Meme o elegeu o 'top meme' de 2013.",
+      "Inspirou uma criptomoeda lançada em dezembro de 2013.",
+      "O nome é uma grafia 'errada' de uma palavra inglesa para cachorro."
+    ],
+    "explanation": "A foto original, de 2010, é da shiba inu japonesa Kabosu; o meme também deu origem à criptomoeda Dogecoin.",
+    "tags": [
+      "internacional",
+      "anos 2010",
+      "cachorro"
+    ],
+    "source": {
+      "url": "https://pt.wikipedia.org/wiki/Doge_(meme)",
+      "attribution": "Wikipédia — Doge (meme)"
+    }
+  },
+  {
+    "id": "mem-025",
+    "category": "memes",
+    "type": "clue",
+    "difficulty": 2,
+    "prompt": "Por qual apelido essa gata ficou famosa?",
+    "media": {
+      "type": "text",
+      "style": "clue",
+      "text": "Gata americana com cara permanente de mau humor (causada por nanismo felino) que virou estrela da internet depois de uma foto postada no Reddit em 2012."
+    },
+    "answers": [
+      "Grumpy Cat",
+      "Gata Rabugenta"
+    ],
+    "acceptedAliases": [],
+    "rejectedAnswers": [
+      "Garfield"
+    ],
+    "hints": [
+      "Ela participou de programas como o 'Good Morning America'.",
+      "Seus memes traziam frases cínicas e negativas.",
+      "O nome verdadeiro dela era Tardar Sauce."
+    ],
+    "explanation": "A primeira foto foi postada em 22 de setembro de 2012 pelo irmão da dona dela; o apelido significa 'gata rabugenta'.",
+    "tags": [
+      "internacional",
+      "anos 2010",
+      "gato"
+    ],
+    "source": {
+      "url": "https://pt.wikipedia.org/wiki/Grumpy_Cat",
+      "attribution": "Wikipédia — Grumpy Cat"
+    }
+  },
+  {
+    "id": "mem-026",
+    "category": "memes",
+    "type": "emoji",
+    "difficulty": 2,
+    "prompt": "Qual frase (em inglês) dá nome ao meme representado pelos emojis?",
+    "media": {
+      "type": "emoji",
+      "text": "🐶☕🔥"
+    },
+    "answers": [
+      "This is fine",
+      "Está tudo bem",
+      "Tá tudo bem"
+    ],
+    "acceptedAliases": [],
+    "rejectedAnswers": [],
+    "hints": [
+      "Vem de uma tirinha de 2013 chamada 'On Fire'.",
+      "O autor é o quadrinista KC Green, do webcomic 'Gunshow'.",
+      "O personagem segue calmíssimo mesmo enquanto derrete."
+    ],
+    "explanation": "Na tirinha, um cachorro toma chá tranquilamente numa sala em chamas — virou o símbolo de quem finge normalidade no meio do caos.",
+    "tags": [
+      "internacional",
+      "anos 2010",
+      "quadrinhos"
+    ],
+    "source": {
+      "url": "https://en.wikipedia.org/wiki/Gunshow_(webcomic)",
+      "attribution": "Wikipédia (inglês) — Gunshow (webcomic)"
+    }
+  },
+  {
+    "id": "mem-027",
+    "category": "memes",
+    "type": "clue",
+    "difficulty": 2,
+    "prompt": "Qual é o nome desse meme?",
+    "media": {
+      "type": "text",
+      "style": "clue",
+      "text": "Rosto em preto e branco com um sorriso enorme e malicioso, desenhado no MS Paint em 2008 e usado para simbolizar quem provoca os outros na internet só por diversão."
+    },
+    "answers": [
+      "Trollface",
+      "Troll Face"
+    ],
+    "acceptedAliases": [
+      "Troll"
+    ],
+    "rejectedAnswers": [],
+    "hints": [
+      "É uma das carinhas mais antigas e conhecidas dos 'rage comics'.",
+      "Foi desenhado por Carlos Ramirez, então um universitário de 18 anos."
+    ],
+    "explanation": "O desenho foi publicado em 19 de setembro de 2008 no DeviantArt, numa tirinha sobre a falta de sentido de provocar os outros na internet.",
+    "tags": [
+      "internacional",
+      "anos 2000",
+      "rage comics"
+    ],
+    "source": {
+      "url": "https://pt.wikipedia.org/wiki/Trollface",
+      "attribution": "Wikipédia — Trollface"
+    }
+  },
+  {
+    "id": "mem-028",
+    "category": "memes",
+    "type": "emoji",
+    "difficulty": 2,
+    "prompt": "Por qual apelido ficou conhecido o chef que virou meme com o gesto representado?",
+    "media": {
+      "type": "emoji",
+      "text": "🧂🥩💪"
+    },
+    "answers": [
+      "Salt Bae",
+      "Nusret Gökçe",
+      "Nusret"
+    ],
+    "acceptedAliases": [],
+    "rejectedAnswers": [],
+    "hints": [
+      "Ele é um açougueiro e chef turco.",
+      "Virou meme em janeiro de 2017 por seu jeito teatral de preparar e temperar carne.",
+      "O tempero escorre pelo antebraço dele até cair na carne."
+    ],
+    "explanation": "Nusret Gökçe fundou a rede de churrascarias de luxo Nusr-Et — 'et' significa 'carne' em turco.",
+    "tags": [
+      "internacional",
+      "anos 2010",
+      "comida"
+    ],
+    "source": {
+      "url": "https://pt.wikipedia.org/wiki/Salt_Bae",
+      "attribution": "Wikipédia — Salt Bae"
+    }
+  },
+  {
+    "id": "mem-029",
+    "category": "memes",
+    "type": "clue",
+    "difficulty": 2,
+    "prompt": "Qual é o nome desse meme de 2013?",
+    "media": {
+      "type": "text",
+      "style": "clue",
+      "text": "Vídeos de uns 30 segundos: alguém de capacete ou máscara dança sozinho enquanto os outros ignoram; quando a batida 'cai', todo mundo aparece dançando loucamente, fantasiado."
+    },
+    "answers": [
+      "Harlem Shake"
+    ],
+    "acceptedAliases": [],
+    "rejectedAnswers": [],
+    "hints": [
+      "Viralizou em fevereiro de 2013.",
+      "A música é do produtor americano Baauer."
+    ],
+    "explanation": "A faixa de Baauer tem 15 segundos de introdução antes do 'drop' do grave — exatamente o momento em que todos começam a dançar.",
+    "tags": [
+      "internacional",
+      "anos 2010",
+      "dança",
+      "youtube"
+    ],
+    "source": {
+      "url": "https://pt.wikipedia.org/wiki/Harlem_Shake_(meme)",
+      "attribution": "Wikipédia — Harlem Shake (meme)"
+    }
+  },
+  {
+    "id": "mem-030",
+    "category": "memes",
+    "type": "quote",
+    "difficulty": 3,
+    "prompt": "Qual socialite carioca ficou famosa por esse bordão?",
+    "media": {
+      "type": "text",
+      "style": "quote",
+      "text": "Ai, que loucura!"
+    },
+    "answers": [
+      "Narcisa Tamborindeguy",
+      "Narcisa"
+    ],
+    "acceptedAliases": [],
+    "rejectedAnswers": [],
+    "hints": [
+      "Ela é socialite, advogada, escritora e personalidade da TV.",
+      "É conhecida pela exuberância e pelo estilo de vida luxuoso no Rio de Janeiro."
+    ],
+    "explanation": "A socialite virou meme pelas frases de efeito e pelo jeito exuberante; 'Ai, que loucura!' é a mais lembrada.",
+    "tags": [
+      "brasil",
+      "bordão",
+      "tv"
+    ],
+    "source": {
+      "url": "https://pt.wikipedia.org/wiki/Narcisa",
+      "attribution": "Wikipédia — Narcisa"
+    }
+  },
+  {
+    "id": "mem-031",
+    "category": "memes",
+    "type": "quote",
+    "difficulty": 3,
+    "prompt": "Complete o título da nota jornalística de 2011 que virou meme pela banalidade.",
+    "media": {
+      "type": "text",
+      "style": "quote",
+      "text": "Caetano Veloso passeia pelo Leblon e ___"
+    },
+    "answers": [
+      "estaciona o carro",
+      "estaciona"
+    ],
+    "acceptedAliases": [],
+    "rejectedAnswers": [],
+    "hints": [
+      "A nota foi publicada pelo site Terra em 10 de março de 2011.",
+      "O meme zomba de notícias sobre acontecimentos totalmente corriqueiros.",
+      "É algo que todo motorista faz ao chegar ao destino."
+    ],
+    "explanation": "A matéria, da jornalista Elisangela Roxo, só virou meme um ano depois de publicada, graças aos fãs do cantor — e segue viralizando até hoje.",
+    "tags": [
+      "brasil",
+      "anos 2010",
+      "jornalismo"
+    ],
+    "source": {
+      "url": "https://pt.wikipedia.org/wiki/Caetano_Veloso_passeia_pelo_Leblon_e_estaciona_o_carro",
+      "attribution": "Wikipédia — Caetano Veloso passeia pelo Leblon e estaciona o carro"
+    }
+  },
+  {
+    "id": "mem-032",
+    "category": "memes",
+    "type": "clue",
+    "difficulty": 3,
+    "prompt": "Quem é esse apresentador?",
+    "media": {
+      "type": "text",
+      "style": "clue",
+      "text": "Apresentador e humorista que lançou o disco 'Vem Fazer Glu-Glu' e criou a 'Porta dos Desesperados', em que crianças escolhiam entre portas com prêmios ou monstros."
+    },
+    "answers": [
+      "Sérgio Mallandro",
+      "Mallandro",
+      "Serginho Mallandro"
+    ],
+    "acceptedAliases": [],
+    "rejectedAnswers": [],
+    "hints": [
+      "Ele ficou famoso no SBT nos anos 80.",
+      "É conhecido pelas famosas pegadinhas.",
+      "Apresentou o programa infantil 'Oradukapeta' (1987–1990)."
+    ],
+    "explanation": "O disco 'Vem Fazer Glu-Glu' (1982) vendeu 1 milhão de cópias, e a 'Porta dos Desesperados' era uma paródia da 'Porta da Esperança'.",
+    "tags": [
+      "brasil",
+      "anos 80",
+      "tv"
+    ],
+    "source": {
+      "url": "https://pt.wikipedia.org/wiki/Sérgio_Mallandro",
+      "attribution": "Wikipédia — Sérgio Mallandro"
+    }
+  },
+  {
+    "id": "mem-033",
+    "category": "memes",
+    "type": "clue",
+    "difficulty": 3,
+    "prompt": "Quem é ela?",
+    "media": {
+      "type": "text",
+      "style": "clue",
+      "text": "Cantora brasileira conhecida como 'Rainha do Bumbum' que, nos anos 2010, virou fonte inesgotável de GIFs de reação — Katy Perry chegou a dizer que ela 'é a internet'."
+    },
+    "answers": [
+      "Gretchen"
+    ],
+    "acceptedAliases": [],
+    "rejectedAnswers": [],
+    "hints": [
+      "Ela fez sucesso nos anos 80 com músicas dançantes.",
+      "Em 2017, apareceu no lyric video de 'Swish Swish', de Katy Perry.",
+      "Um de seus hits é 'Conga, Conga, Conga'."
+    ],
+    "explanation": "Com cerca de 15 milhões de discos vendidos, ela ganhou uma nova geração de fãs graças aos memes e virou ícone da cultura pop na internet.",
+    "tags": [
+      "brasil",
+      "anos 2010",
+      "gif"
+    ],
+    "source": {
+      "url": "https://en.wikipedia.org/wiki/Gretchen_(singer)",
+      "attribution": "Wikipédia (inglês) — Gretchen (singer)"
+    }
+  },
+  {
+    "id": "mem-034",
+    "category": "memes",
+    "type": "clue",
+    "difficulty": 3,
+    "prompt": "Quem é esse humorista?",
+    "media": {
+      "type": "text",
+      "style": "clue",
+      "text": "Humorista piauiense que, em outubro de 2016, passou a ter o canal com mais inscritos do YouTube no Brasil."
+    },
+    "answers": [
+      "Whindersson Nunes",
+      "Whindersson"
+    ],
+    "acceptedAliases": [],
+    "rejectedAnswers": [],
+    "hints": [
+      "Ele nasceu em Palmeira do Piauí, em 1995.",
+      "Posta vídeos de humor no YouTube desde 2011.",
+      "Em 2018, perdeu o posto de maior canal do país para o KondZilla."
+    ],
+    "explanation": "Ele liderou o YouTube brasileiro até fevereiro de 2018; além de humorista, também é cantor e já se aventurou no boxe.",
+    "tags": [
+      "brasil",
+      "anos 2010",
+      "youtube"
+    ],
+    "source": {
+      "url": "https://pt.wikipedia.org/wiki/Whindersson_Nunes",
+      "attribution": "Wikipédia — Whindersson Nunes"
+    }
+  },
+  {
+    "id": "mem-035",
+    "category": "memes",
+    "type": "clue",
+    "difficulty": 3,
+    "prompt": "Qual é o nome desse aplicativo?",
+    "media": {
+      "type": "text",
+      "style": "clue",
+      "text": "Aplicativo de vídeos em loop de até 6 segundos, comprado pelo Twitter em 2012 antes mesmo do lançamento; revelou vários humoristas e teve o fim dos envios anunciado em 2016."
+    },
+    "answers": [
+      "Vine"
+    ],
+    "acceptedAliases": [],
+    "rejectedAnswers": [
+      "Vimeo",
+      "Line"
+    ],
+    "hints": [
+      "Os vídeos eram compartilhados também no Facebook e no Twitter.",
+      "Em dezembro de 2015, tinha mais de 200 milhões de usuários ativos.",
+      "É considerado um precursor do TikTok."
+    ],
+    "explanation": "O app foi lançado em janeiro de 2013; em outubro de 2016 o Twitter anunciou que desativaria os envios de vídeos.",
+    "tags": [
+      "internacional",
+      "anos 2010",
+      "aplicativo"
+    ],
+    "source": {
+      "url": "https://en.wikipedia.org/wiki/Vine_(service)",
+      "attribution": "Wikipédia (inglês) — Vine (service)"
+    }
+  },
+  {
+    "id": "mem-036",
+    "category": "memes",
+    "type": "clue",
+    "difficulty": 3,
+    "prompt": "Qual é o nome desse grupo?",
+    "media": {
+      "type": "text",
+      "style": "clue",
+      "text": "'Trenzinho da alegria' de Ribeirão Preto (SP) cujos dançarinos fantasiados de Fofão, Capitão América, Mickey e Popeye viralizaram dançando 'Vem Dançar o Mestiço'."
+    },
+    "answers": [
+      "Carreta Furacão"
+    ],
+    "acceptedAliases": [],
+    "rejectedAnswers": [],
+    "hints": [
+      "Os vídeos começaram a se espalhar pela internet a partir de 2010.",
+      "Goku também já entrou no elenco das apresentações.",
+      "O nome junta um veículo com um fenômeno da natureza."
+    ],
+    "explanation": "O sucesso inspirou trenzinhos parecidos pelo país inteiro; a empresa chegou a manter cinco carretas, cada uma com sua equipe.",
+    "tags": [
+      "brasil",
+      "anos 2010",
+      "dança"
+    ],
+    "source": {
+      "url": "https://pt.wikipedia.org/wiki/Carreta_Furacão",
+      "attribution": "Wikipédia — Carreta Furacão"
+    }
+  },
+  {
+    "id": "mem-037",
+    "category": "memes",
+    "type": "clue",
+    "difficulty": 3,
+    "prompt": "Qual palavra (escrita errada de propósito) dá nome ao meme?",
+    "media": {
+      "type": "text",
+      "style": "clue",
+      "text": "Uma cabeça careca em 3D, lisinha, colada sobre um homem de terno de braços cruzados diante de um gráfico subindo; a legenda é uma palavra inglesa propositalmente errada."
+    },
+    "answers": [
+      "Stonks"
+    ],
+    "acceptedAliases": [],
+    "rejectedAnswers": [
+      "Stocks"
+    ],
+    "hints": [
+      "O personagem careca é conhecido como 'Meme Man'.",
+      "A imagem foi publicada em 5 de junho de 2017.",
+      "A palavra correta seria a inglesa para 'ações' da bolsa de valores."
+    ],
+    "explanation": "O meme voltou com tudo em 2021, durante a febre das ações da GameStop impulsionada pelo fórum r/wallstreetbets.",
+    "tags": [
+      "internacional",
+      "anos 2010",
+      "economia"
+    ],
+    "source": {
+      "url": "https://en.wikipedia.org/wiki/Meme_Man",
+      "attribution": "Wikipédia (inglês) — Meme Man"
+    }
+  },
+  {
+    "id": "mem-038",
+    "category": "memes",
+    "type": "clue",
+    "difficulty": 3,
+    "prompt": "Que animais aparecem atrás dele no vídeo?",
+    "media": {
+      "type": "text",
+      "style": "clue",
+      "text": "No primeiro vídeo publicado no YouTube, em 23 de abril de 2005, o cofundador Jawed Karim aparece no Zoológico de San Diego comentando sobre os animais atrás dele."
+    },
+    "answers": [
+      "Elefantes",
+      "Elefante"
+    ],
+    "acceptedAliases": [],
+    "rejectedAnswers": [],
+    "hints": [
+      "O vídeo se chama 'Me at the zoo' e tem só 19 segundos.",
+      "Ele comenta o comprimento de uma parte do corpo desses animais.",
+      "São os maiores animais terrestres do planeta."
+    ],
+    "explanation": "Karim fala das trombas compridas dos elefantes; o vídeo foi gravado por Yakov Lapitsky, seu amigo do ensino médio.",
+    "tags": [
+      "internacional",
+      "anos 2000",
+      "youtube"
+    ],
+    "source": {
+      "url": "https://pt.wikipedia.org/wiki/Me_at_the_zoo",
+      "attribution": "Wikipédia — Me at the zoo"
+    }
+  },
+  {
+    "id": "mem-039",
+    "category": "memes",
+    "type": "clue",
+    "difficulty": 3,
+    "prompt": "Qual era o nome da câmera?",
+    "media": {
+      "type": "text",
+      "style": "clue",
+      "text": "Câmera digital 'multifuncional' anunciada à exaustão na TV nos anos 2000; o garoto-propaganda, Juarez, virou meme com bordões como 'Vamos falar de coisa boa'."
+    },
+    "answers": [
+      "Tekpix"
+    ],
+    "acceptedAliases": [],
+    "rejectedAnswers": [],
+    "hints": [
+      "Era uma linha de produtos da empresa brasileira Tecnomania.",
+      "O anúncio dizia que era a câmera mais vendida do Brasil — o que nunca foi comprovado.",
+      "Saiu de linha em 2013, com a popularização dos smartphones."
+    ],
+    "explanation": "As câmeras começaram a ser vendidas no início dos anos 2000; a marca chegou a lançar até um tablet Android.",
+    "tags": [
+      "brasil",
+      "anos 2000",
+      "publicidade"
+    ],
+    "source": {
+      "url": "https://pt.wikipedia.org/wiki/Tekpix",
+      "attribution": "Wikipédia — Tekpix"
+    }
+  },
+  {
+    "id": "mem-040",
+    "category": "memes",
+    "type": "clue",
+    "difficulty": 4,
+    "prompt": "Por qual nome esse meme (e esse senhor) ficou conhecido na internet?",
+    "media": {
+      "type": "text",
+      "style": "clue",
+      "text": "Senhor húngaro de cabelos e barba grisalhos que posou para fotos de banco de imagens com um sorriso que parece esconder um sofrimento interno."
+    },
+    "answers": [
+      "Hide the Pain Harold",
+      "Harold"
+    ],
+    "acceptedAliases": [],
+    "rejectedAnswers": [],
+    "hints": [
+      "Ele é engenheiro eletricista aposentado.",
+      "Virou meme em 2011, depois que suas fotos de banco de imagens se espalharam.",
+      "Foi descoberto por um fotógrafo após postar fotos de férias na Turquia."
+    ],
+    "explanation": "O modelo é András Arató; depois de revelar sua identidade, ele seguiu trabalhando com fotos e publicidade.",
+    "tags": [
+      "internacional",
+      "anos 2010",
+      "foto"
+    ],
+    "source": {
+      "url": "https://en.wikipedia.org/wiki/Hide_the_Pain_Harold",
+      "attribution": "Wikipédia (inglês) — Hide the Pain Harold"
+    }
+  },
+  {
+    "id": "mem-041",
+    "category": "memes",
+    "type": "clue",
+    "difficulty": 4,
+    "prompt": "Qual nome a outra parte das pessoas ouvia?",
+    "media": {
+      "type": "text",
+      "style": "clue",
+      "text": "Em maio de 2018, um áudio curtinho dividiu a internet: parte das pessoas ouvia claramente a palavra 'Laurel'…"
+    },
+    "answers": [
+      "Yanny",
+      "Yanni"
+    ],
+    "acceptedAliases": [],
+    "rejectedAnswers": [
+      "Laurel"
+    ],
+    "hints": [
+      "É uma ilusão auditiva.",
+      "Numa enquete no Twitter, 47% disseram ouvir essa outra palavra.",
+      "Quem presta mais atenção às frequências agudas tende a ouvi-la."
+    ],
+    "explanation": "As duas palavras estão presentes nas frequências da gravação; numa enquete com mais de 500 mil pessoas, 53% ouviram 'Laurel'.",
+    "tags": [
+      "internacional",
+      "anos 2010",
+      "ilusão"
+    ],
+    "source": {
+      "url": "https://en.wikipedia.org/wiki/Yanny_or_Laurel",
+      "attribution": "Wikipédia (inglês) — Yanny or Laurel"
+    }
+  },
+  {
+    "id": "mem-042",
+    "category": "memes",
+    "type": "clue",
+    "difficulty": 4,
+    "prompt": "Quem é esse artista?",
+    "media": {
+      "type": "text",
+      "style": "clue",
+      "text": "Cantor, compositor e youtuber de Guarabira (PB) que virou fenômeno da internet a partir de 2008 com músicas como 'Vale Nada Vale Tudo' e 'What is the Brother'."
+    },
+    "answers": [
+      "Ednaldo Pereira"
+    ],
+    "acceptedAliases": [],
+    "rejectedAnswers": [],
+    "hints": [
+      "Além de artista, ele também trabalhou como gari.",
+      "Virou estrela das montagens do 'YouTube Poop BR'.",
+      "Nasceu em 12 de junho de 1973."
+    ],
+    "explanation": "Suas aparições na TV e na internet o transformaram em lenda dos memes brasileiros, presença constante no YouTube Poop BR.",
+    "tags": [
+      "brasil",
+      "anos 2000",
+      "youtube"
+    ],
+    "source": {
+      "url": "https://pt.wikipedia.org/wiki/Ednaldo_Pereira",
+      "attribution": "Wikipédia — Ednaldo Pereira"
+    }
+  },
+  {
+    "id": "mem-043",
+    "category": "memes",
+    "type": "clue",
+    "difficulty": 4,
+    "prompt": "Qual é o nome do gato desse meme?",
+    "media": {
+      "type": "text",
+      "style": "clue",
+      "text": "Montagem: à esquerda, uma mulher loira chorando e apontando o dedo, numa cena de reality show; à direita, um gato branco sentado à mesa diante de um prato de salada, com cara de desdém."
+    },
+    "answers": [
+      "Smudge"
+    ],
+    "acceptedAliases": [],
+    "rejectedAnswers": [],
+    "hints": [
+      "O meme é conhecido como 'Woman yelling at a cat' (mulher gritando com gato).",
+      "O gato mora em Ottawa, no Canadá.",
+      "O nome dele significa 'mancha' ou 'borrão' em inglês."
+    ],
+    "explanation": "A cena da esquerda é de 'The Real Housewives of Beverly Hills'; a foto do gato foi postada no Tumblr em 2018 e a montagem viralizou em maio de 2019.",
+    "tags": [
+      "internacional",
+      "anos 2010",
+      "gato"
+    ],
+    "source": {
+      "url": "https://en.wikipedia.org/wiki/Woman_yelling_at_a_cat",
+      "attribution": "Wikipédia (inglês) — Woman yelling at a cat"
+    }
+  },
+  {
+    "id": "mem-044",
+    "category": "memes",
+    "type": "clue",
+    "difficulty": 4,
+    "prompt": "Por qual nome esse vídeo ficou conhecido?",
+    "media": {
+      "type": "text",
+      "style": "clue",
+      "text": "Em dezembro de 2004, um jovem americano se filmou na webcam dublando, cheio de caras e bocas, a música 'Dragostea din tei', do grupo O-Zone — e virou um dos primeiros virais da internet."
+    },
+    "answers": [
+      "Numa Numa",
+      "Numa Numa Dance"
+    ],
+    "acceptedAliases": [],
+    "rejectedAnswers": [],
+    "hints": [
+      "O vídeo foi postado originalmente no site Newgrounds.",
+      "O jovem é Gary Brolsma.",
+      "O nome vem de palavras romenas repetidas no refrão da música."
+    ],
+    "explanation": "O vídeo de Gary Brolsma é considerado um dos virais mais importantes da web e inspirou muita gente a criar canais no YouTube.",
+    "tags": [
+      "internacional",
+      "anos 2000",
+      "viral"
+    ],
+    "source": {
+      "url": "https://pt.wikipedia.org/wiki/Numa_Numa",
+      "attribution": "Wikipédia — Numa Numa"
+    }
+  },
+  {
+    "id": "mem-045",
+    "category": "memes",
+    "type": "clue",
+    "difficulty": 4,
+    "prompt": "Qual é o nome (em inglês) desse vídeo viral?",
+    "media": {
+      "type": "text",
+      "style": "clue",
+      "text": "Vídeo de cinco segundos em que um bichinho vira a cabeça bruscamente para a câmera, com zoom e trilha sonora de suspense."
+    },
+    "answers": [
+      "Dramatic Chipmunk",
+      "Esquilo Dramático"
+    ],
+    "acceptedAliases": [],
+    "rejectedAnswers": [],
+    "hints": [
+      "Ficou conhecido no YouTube e no CollegeHumor em junho de 2007.",
+      "Apesar do nome, o bicho é na verdade um cão-da-pradaria.",
+      "O nome junta um adjetivo de novela com um pequeno roedor listrado."
+    ],
+    "explanation": "O nome erra a espécie: o animal é um cão-da-pradaria, não um 'chipmunk' (tâmia, um esquilo listrado).",
+    "tags": [
+      "internacional",
+      "anos 2000",
+      "youtube"
+    ],
+    "source": {
+      "url": "https://en.wikipedia.org/wiki/Dramatic_Chipmunk",
+      "attribution": "Wikipédia (inglês) — Dramatic Chipmunk"
+    }
+  }
+]

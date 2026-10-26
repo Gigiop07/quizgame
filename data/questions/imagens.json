@@ -1,0 +1,2278 @@
+[
+  {
+    "id": "img-001",
+    "category": "esportes",
+    "type": "image",
+    "difficulty": 1,
+    "prompt": "Quem é este jogador?",
+    "media": {
+      "type": "image",
+      "commons": "File:Pele con brasil (cropped).jpg",
+      "alt": "Fotografia antiga de um jogador de futebol sorrindo, com camisa amarela e um estádio ao fundo",
+      "fallbackText": "Jogador brasileiro, tricampeão mundial e ídolo do Santos.",
+      "file": "img-001.jpg",
+      "credit": {
+        "author": "Unknown author",
+        "license": "Public domain",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Pele_con_brasil_(cropped).jpg"
+      }
+    },
+    "answers": [
+      "Pelé",
+      "Edson Arantes do Nascimento"
+    ],
+    "acceptedAliases": [
+      "Rei Pelé"
+    ],
+    "rejectedAnswers": [],
+    "hints": [
+      "Ídolo eterno do Santos.",
+      "Tricampeão mundial com a seleção brasileira (1958, 1962 e 1970).",
+      "Diz-se que marcou mais de mil gols na carreira."
+    ],
+    "explanation": "Edson Arantes do Nascimento (1940–2022) é o único jogador a vencer três Copas do Mundo.",
+    "tags": [
+      "brasil",
+      "clássicos",
+      "futebol"
+    ],
+    "source": {
+      "url": "https://pt.wikipedia.org/wiki/Pel%C3%A9",
+      "attribution": "Wikipédia — Pelé"
+    }
+  },
+  {
+    "id": "img-002",
+    "category": "esportes",
+    "type": "image",
+    "difficulty": 1,
+    "prompt": "Quem é este jogador?",
+    "media": {
+      "type": "image",
+      "commons": "File:Neymar Junior Brazil V Morocco 13 June 2026-40.jpg",
+      "alt": "Fotografia de um jogador de futebol de boné branco e camisa azul e verde",
+      "fallbackText": "Atacante brasileiro revelado pelo Santos, com passagens por Barcelona e PSG.",
+      "file": "img-002.jpg",
+      "credit": {
+        "author": "Bryan Berlin",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Neymar_Junior_Brazil_V_Morocco_13_June_2026-40.jpg"
+      }
+    },
+    "answers": [
+      "Neymar",
+      "Neymar Jr",
+      "Neymar da Silva Santos Júnior"
+    ],
+    "acceptedAliases": [
+      "Ney"
+    ],
+    "rejectedAnswers": [],
+    "hints": [
+      "Revelado pelo Santos, foi campeão da Champions League pelo Barcelona.",
+      "Protagonizou a transferência mais cara da história do futebol, para o PSG, em 2017.",
+      "Em 2023, passou Pelé como maior artilheiro da seleção brasileira."
+    ],
+    "explanation": "Neymar da Silva Santos Júnior se tornou o maior artilheiro da história da seleção brasileira em 2023.",
+    "tags": [
+      "brasil",
+      "anos 2010",
+      "futebol"
+    ],
+    "source": {
+      "url": "https://pt.wikipedia.org/wiki/Neymar",
+      "attribution": "Wikipédia — Neymar"
+    }
+  },
+  {
+    "id": "img-003",
+    "category": "esportes",
+    "type": "image",
+    "difficulty": 1,
+    "prompt": "Quem é este jogador?",
+    "media": {
+      "type": "image",
+      "commons": "File:2019 - Press conferences - Day 1 ENX 6950 (49019873887) (cropped).jpg",
+      "alt": "Fotografia de um homem de boina escura em uma entrevista coletiva",
+      "fallbackText": "Craque gaúcho famoso pelos dribles e pelo sorriso, campeão do mundo em 2002.",
+      "file": "img-003.jpg",
+      "credit": {
+        "author": "Web Summit",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:2019_-_Press_conferences_-_Day_1_ENX_6950_(49019873887)_(cropped).jpg"
+      }
+    },
+    "answers": [
+      "Ronaldinho",
+      "Ronaldinho Gaúcho",
+      "Ronaldo de Assis Moreira"
+    ],
+    "acceptedAliases": [
+      "R10",
+      "Bruxo"
+    ],
+    "rejectedAnswers": [
+      "Ronaldo"
+    ],
+    "hints": [
+      "Campeão do mundo com a seleção brasileira em 2002.",
+      "Eleito o melhor jogador do mundo pela FIFA em 2004 e 2005.",
+      "Brilhou no Barcelona e foi campeão da Libertadores pelo Atlético Mineiro."
+    ],
+    "explanation": "Em 2005, Ronaldo de Assis Moreira foi aplaudido de pé pela torcida do Real Madrid, rival do Barcelona, no Santiago Bernabéu.",
+    "tags": [
+      "brasil",
+      "anos 2000",
+      "futebol"
+    ],
+    "source": {
+      "url": "https://pt.wikipedia.org/wiki/Ronaldinho_Ga%C3%BAcho",
+      "attribution": "Wikipédia — Ronaldinho Gaúcho"
+    }
+  },
+  {
+    "id": "img-004",
+    "category": "esportes",
+    "type": "image",
+    "difficulty": 1,
+    "prompt": "Quem é este jogador?",
+    "media": {
+      "type": "image",
+      "commons": "File:2026 Lionel Messi (cropped).jpg",
+      "alt": "Fotografia de um homem de barba, de terno e gravata azul",
+      "fallbackText": "Atacante argentino, ídolo do Barcelona e campeão da Copa de 2022.",
+      "file": "img-004.jpg",
+      "credit": {
+        "author": "The White House",
+        "license": "Public domain",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:2026_Lionel_Messi_(cropped).jpg"
+      }
+    },
+    "answers": [
+      "Lionel Messi",
+      "Messi",
+      "Leo Messi",
+      "Lionel Andrés Messi"
+    ],
+    "acceptedAliases": [
+      "La Pulga",
+      "Pulga"
+    ],
+    "rejectedAnswers": [],
+    "hints": [
+      "Atacante argentino, ídolo do Barcelona.",
+      "Campeão da Copa do Mundo de 2022, no Catar.",
+      "É o recordista de Bolas de Ouro."
+    ],
+    "explanation": "Lionel Messi é o maior vencedor da Bola de Ouro, com oito prêmios.",
+    "tags": [
+      "internacional",
+      "anos 2010",
+      "futebol"
+    ],
+    "source": {
+      "url": "https://pt.wikipedia.org/wiki/Lionel_Messi",
+      "attribution": "Wikipédia — Lionel Messi"
+    }
+  },
+  {
+    "id": "img-005",
+    "category": "esportes",
+    "type": "image",
+    "difficulty": 2,
+    "prompt": "Quem é este piloto?",
+    "media": {
+      "type": "image",
+      "commons": "File:Ayrton Senna in the paddock before the 1993 British Grand Prix (33686752075) (cropped).jpg",
+      "alt": "Fotografia de um piloto de macacão vermelho e boné verde",
+      "fallbackText": "Piloto brasileiro de Fórmula 1, tricampeão mundial pela McLaren.",
+      "file": "img-005.jpg",
+      "credit": {
+        "author": "Martin Lee from London, UK",
+        "license": "CC BY-SA 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ayrton_Senna_in_the_paddock_before_the_1993_British_Grand_Prix_(33686752075)_(cropped).jpg"
+      }
+    },
+    "answers": [
+      "Ayrton Senna",
+      "Senna",
+      "Ayrton Senna da Silva"
+    ],
+    "acceptedAliases": [],
+    "rejectedAnswers": [],
+    "hints": [
+      "Piloto de Fórmula 1.",
+      "Tricampeão mundial pela McLaren (1988, 1990 e 1991).",
+      "Morreu em um acidente no GP de San Marino, em Ímola, em 1994."
+    ],
+    "explanation": "Ayrton Senna venceu 41 corridas na Fórmula 1 e era imbatível na chuva.",
+    "tags": [
+      "brasil",
+      "anos 90",
+      "fórmula 1"
+    ],
+    "source": {
+      "url": "https://pt.wikipedia.org/wiki/Ayrton_Senna",
+      "attribution": "Wikipédia — Ayrton Senna"
+    }
+  },
+  {
+    "id": "img-006",
+    "category": "esportes",
+    "type": "image",
+    "difficulty": 2,
+    "prompt": "Quem é esta jogadora?",
+    "media": {
+      "type": "image",
+      "commons": "File:NC Courage vs Orlando Pride (Jun 2024) 073 (cropped).jpg",
+      "alt": "Fotografia de uma jogadora de futebol com camisa laranja durante uma partida",
+      "fallbackText": "Atacante alagoana, eleita seis vezes a melhor jogadora do mundo.",
+      "file": "img-006.jpg",
+      "credit": {
+        "author": "Hameltion",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:NC_Courage_vs_Orlando_Pride_(Jun_2024)_073_(cropped).jpg"
+      }
+    },
+    "answers": [
+      "Marta",
+      "Marta Vieira da Silva"
+    ],
+    "acceptedAliases": [
+      "Rainha Marta"
+    ],
+    "rejectedAnswers": [],
+    "hints": [
+      "Atacante da seleção brasileira de futebol.",
+      "Eleita seis vezes a melhor jogadora do mundo pela FIFA.",
+      "É a maior artilheira da história das Copas do Mundo, entre homens e mulheres."
+    ],
+    "explanation": "Marta Vieira da Silva marcou 17 gols em Copas do Mundo, recorde absoluto entre homens e mulheres.",
+    "tags": [
+      "brasil",
+      "anos 2000",
+      "futebol"
+    ],
+    "source": {
+      "url": "https://pt.wikipedia.org/wiki/Marta_(futebolista)",
+      "attribution": "Wikipédia — Marta (futebolista)"
+    }
+  },
+  {
+    "id": "img-007",
+    "category": "esportes",
+    "type": "image",
+    "difficulty": 2,
+    "prompt": "Quem é esta atleta?",
+    "media": {
+      "type": "image",
+      "commons": "File:Rebeca Andrade in 2023.jpg",
+      "alt": "Fotografia de uma atleta sorrindo, com agasalho amarelo e uma medalha no peito",
+      "fallbackText": "Ginasta paulista, campeã olímpica no salto e no solo.",
+      "file": "img-007.jpg",
+      "credit": {
+        "author": "Sarah Ladot",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Rebeca_Andrade_in_2023.jpg"
+      }
+    },
+    "answers": [
+      "Rebeca Andrade",
+      "Rebeca Rodrigues de Andrade"
+    ],
+    "acceptedAliases": [
+      "Rebeca"
+    ],
+    "rejectedAnswers": [],
+    "hints": [
+      "Ginasta artística brasileira.",
+      "É a maior medalhista olímpica da história do Brasil.",
+      "Em Paris 2024, foi reverenciada no pódio do solo por Simone Biles e Jordan Chiles."
+    ],
+    "explanation": "Rebeca Andrade soma seis medalhas olímpicas, duas delas de ouro (salto em Tóquio e solo em Paris).",
+    "tags": [
+      "brasil",
+      "anos 2020",
+      "ginástica"
+    ],
+    "source": {
+      "url": "https://pt.wikipedia.org/wiki/Rebeca_Andrade",
+      "attribution": "Wikipédia — Rebeca Andrade"
+    }
+  },
+  {
+    "id": "img-008",
+    "category": "esportes",
+    "type": "image",
+    "difficulty": 2,
+    "prompt": "Quem é este atleta?",
+    "media": {
+      "type": "image",
+      "commons": "File:Usain Bolt by Augustas Didzgalvis (cropped).jpg",
+      "alt": "Fotografia de um atleta com camiseta regata amarela e verde",
+      "fallbackText": "Velocista jamaicano, recordista mundial dos 100 e dos 200 metros.",
+      "file": "img-008.jpg",
+      "credit": {
+        "author": "Augustas Didžgalvis",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Usain_Bolt_by_Augustas_Didzgalvis_(cropped).jpg"
+      }
+    },
+    "answers": [
+      "Usain Bolt",
+      "Bolt",
+      "Usain St. Leo Bolt"
+    ],
+    "acceptedAliases": [],
+    "rejectedAnswers": [],
+    "hints": [
+      "Velocista jamaicano.",
+      "Recordista mundial dos 100 m (9s58) e dos 200 m (19s19).",
+      "Famoso por comemorar apontando para o céu, como quem dispara um raio."
+    ],
+    "explanation": "Usain Bolt ganhou oito ouros olímpicos e encerrou a carreira olímpica no Rio 2016.",
+    "tags": [
+      "internacional",
+      "anos 2010",
+      "atletismo"
+    ],
+    "source": {
+      "url": "https://pt.wikipedia.org/wiki/Usain_Bolt",
+      "attribution": "Wikipédia — Usain Bolt"
+    }
+  },
+  {
+    "id": "img-009",
+    "category": "esportes",
+    "type": "image",
+    "difficulty": 3,
+    "prompt": "Quem é este tenista?",
+    "media": {
+      "type": "image",
+      "commons": "File:Guga Kuerten.jpg",
+      "alt": "Fotografia de um homem de cabelo cacheado, de terno, sorrindo",
+      "fallbackText": "Tenista catarinense, tricampeão de Roland Garros.",
+      "file": "img-009.jpg",
+      "credit": {
+        "author": "Geraldo Magela/Agência Senado",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Guga_Kuerten.jpg"
+      }
+    },
+    "answers": [
+      "Gustavo Kuerten",
+      "Guga",
+      "Guga Kuerten",
+      "Kuerten"
+    ],
+    "acceptedAliases": [],
+    "rejectedAnswers": [],
+    "hints": [
+      "Tenista nascido em Florianópolis.",
+      "Tricampeão de Roland Garros (1997, 2000 e 2001).",
+      "Desenhou um coração no saibro de Paris para comemorar um título."
+    ],
+    "explanation": "Gustavo Kuerten terminou o ano 2000 como número 1 do ranking mundial, ao vencer Andre Agassi na final do Masters de Lisboa.",
+    "tags": [
+      "brasil",
+      "anos 2000",
+      "tênis"
+    ],
+    "source": {
+      "url": "https://pt.wikipedia.org/wiki/Gustavo_Kuerten",
+      "attribution": "Wikipédia — Gustavo Kuerten"
+    }
+  },
+  {
+    "id": "img-010",
+    "category": "esportes",
+    "type": "image",
+    "difficulty": 3,
+    "prompt": "Quem é esta atleta?",
+    "media": {
+      "type": "image",
+      "commons": "File:Guests at the 2026 Met Gala 209 (cropped).jpg",
+      "alt": "Fotografia de uma mulher de cabelo loiro cacheado e vestido prateado em um evento",
+      "fallbackText": "Tenista norte-americana com 23 títulos de Grand Slam em simples.",
+      "reveal": {
+        "type": "blur"
+      },
+      "file": "img-010.jpg",
+      "credit": {
+        "author": "SWinxy",
+        "license": "CC BY 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Guests_at_the_2026_Met_Gala_209_(cropped).jpg"
+      }
+    },
+    "answers": [
+      "Serena Williams",
+      "Serena",
+      "Serena Jameka Williams"
+    ],
+    "acceptedAliases": [],
+    "rejectedAnswers": [
+      "Venus Williams"
+    ],
+    "hints": [
+      "Tenista norte-americana.",
+      "Venceu 23 torneios de Grand Slam em simples.",
+      "Sua irmã mais velha também foi número 1 do mundo."
+    ],
+    "explanation": "Serena Williams ganhou seu último Grand Slam, o Aberto da Austrália de 2017, grávida de oito semanas.",
+    "tags": [
+      "internacional",
+      "anos 2010",
+      "tênis"
+    ],
+    "source": {
+      "url": "https://pt.wikipedia.org/wiki/Serena_Williams",
+      "attribution": "Wikipédia — Serena Williams"
+    }
+  },
+  {
+    "id": "img-011",
+    "category": "esportes",
+    "type": "image",
+    "difficulty": 3,
+    "prompt": "Quem é este ex-jogador?",
+    "media": {
+      "type": "image",
+      "commons": "File:Zico 2012 3.jpg",
+      "alt": "Fotografia de um homem grisalho de camisa clara e braços cruzados, com arquibancadas vermelhas ao fundo",
+      "fallbackText": "Camisa 10 histórico do Flamengo e da seleção nos anos 1980.",
+      "file": "img-011.jpg",
+      "credit": {
+        "author": "Doha Stadium Plus Qatar",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Zico_2012_3.jpg"
+      }
+    },
+    "answers": [
+      "Zico",
+      "Arthur Antunes Coimbra"
+    ],
+    "acceptedAliases": [
+      "Galinho de Quintino",
+      "Galinho"
+    ],
+    "rejectedAnswers": [],
+    "hints": [
+      "Maior ídolo da história do Flamengo.",
+      "Camisa 10 da seleção brasileira nas Copas de 1978, 1982 e 1986.",
+      "Também é ídolo no Japão, onde jogou no Kashima Antlers e treinou a seleção japonesa."
+    ],
+    "explanation": "Arthur Antunes Coimbra, o Zico, liderou o Flamengo no título mundial de 1981.",
+    "tags": [
+      "brasil",
+      "anos 80",
+      "futebol"
+    ],
+    "source": {
+      "url": "https://pt.wikipedia.org/wiki/Zico",
+      "attribution": "Wikipédia — Zico"
+    }
+  },
+  {
+    "id": "img-012",
+    "category": "esportes",
+    "type": "image",
+    "difficulty": 4,
+    "prompt": "Quem é este ex-atleta?",
+    "media": {
+      "type": "image",
+      "commons": "File:Schmidtoscar (cropped).jpg",
+      "alt": "Fotografia de um homem de smoking e gravata-borboleta sorrindo",
+      "fallbackText": "Astro do basquete brasileiro, um dos maiores pontuadores da história.",
+      "file": "img-012.jpg",
+      "credit": {
+        "author": "Sérgio (Savaman) Savarese",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Schmidtoscar_(cropped).jpg"
+      }
+    },
+    "answers": [
+      "Oscar Schmidt",
+      "Oscar Daniel Bezerra Schmidt"
+    ],
+    "acceptedAliases": [
+      "Mão Santa"
+    ],
+    "rejectedAnswers": [],
+    "hints": [
+      "Jogador de basquete.",
+      "Disputou cinco Olimpíadas pela seleção brasileira.",
+      "Foi o cestinha da final do Pan de 1987, quando o Brasil derrotou os Estados Unidos em Indianápolis."
+    ],
+    "explanation": "Oscar Schmidt marcou mais de 49 mil pontos na carreira e entrou para o Hall da Fama do basquete em 2013.",
+    "tags": [
+      "brasil",
+      "anos 80",
+      "basquete"
+    ],
+    "source": {
+      "url": "https://pt.wikipedia.org/wiki/Oscar_Schmidt",
+      "attribution": "Wikipédia — Oscar Schmidt"
+    }
+  },
+  {
+    "id": "img-013",
+    "category": "musica",
+    "type": "image",
+    "difficulty": 1,
+    "prompt": "Quem é esta cantora?",
+    "media": {
+      "type": "image",
+      "commons": "File:Anitta for Attractive Mindset podcast 02.jpg",
+      "alt": "Fotografia de uma mulher de cabelo castanho longo falando em frente a um microfone",
+      "fallbackText": "Cantora carioca de funk e pop com sucesso internacional.",
+      "file": "img-013.jpg",
+      "credit": {
+        "author": "Attractive Mindset",
+        "license": "CC BY 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Anitta_for_Attractive_Mindset_podcast_02.jpg"
+      }
+    },
+    "answers": [
+      "Anitta",
+      "Larissa de Macedo Machado"
+    ],
+    "acceptedAliases": [],
+    "rejectedAnswers": [],
+    "hints": [
+      "Cantora carioca de funk e pop.",
+      "Estourou com “Show das Poderosas”, em 2013.",
+      "Com “Envolver”, foi a primeira artista brasileira a liderar o ranking global do Spotify."
+    ],
+    "explanation": "Larissa de Macedo Machado adotou o nome artístico inspirada na personagem Anita, da minissérie “Presença de Anita”.",
+    "tags": [
+      "brasil",
+      "anos 2010",
+      "funk",
+      "pop"
+    ],
+    "source": {
+      "url": "https://pt.wikipedia.org/wiki/Anitta",
+      "attribution": "Wikipédia — Anitta"
+    }
+  },
+  {
+    "id": "img-014",
+    "category": "musica",
+    "type": "image",
+    "difficulty": 1,
+    "prompt": "Quem é esta cantora?",
+    "media": {
+      "type": "image",
+      "commons": "File:Ivete Sangalo SAM 0058 (54481946217) (cropped).jpg",
+      "alt": "Fotografia de uma mulher de camisa branca e gravata cantando ao microfone",
+      "fallbackText": "Cantora baiana de axé, rainha dos trios elétricos.",
+      "file": "img-014.jpg",
+      "credit": {
+        "author": "Web Summit Rio from Rio de Janeiro, Brazil",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ivete_Sangalo_SAM_0058_(54481946217)_(cropped).jpg"
+      }
+    },
+    "answers": [
+      "Ivete Sangalo",
+      "Ivete",
+      "Ivete Maria Dias de Sangalo"
+    ],
+    "acceptedAliases": [
+      "Veveta"
+    ],
+    "rejectedAnswers": [],
+    "hints": [
+      "Cantora baiana de axé.",
+      "Foi vocalista da Banda Eva.",
+      "Comanda trios elétricos no Carnaval de Salvador há décadas."
+    ],
+    "explanation": "Ivete Sangalo gravou em 2006 um DVD histórico no Maracanã, um dos mais vendidos do país.",
+    "tags": [
+      "brasil",
+      "anos 2000",
+      "axé"
+    ],
+    "source": {
+      "url": "https://pt.wikipedia.org/wiki/Ivete_Sangalo",
+      "attribution": "Wikipédia — Ivete Sangalo"
+    }
+  },
+  {
+    "id": "img-015",
+    "category": "musica",
+    "type": "image",
+    "difficulty": 1,
+    "prompt": "Quem é este cantor?",
+    "media": {
+      "type": "image",
+      "commons": "File:Michael Jackson 1983 (3x4 cropped) (contrast).jpg",
+      "alt": "Fotografia em preto e branco de um homem de jaqueta escura e cabelo cacheado",
+      "fallbackText": "Cantor norte-americano, autor do álbum mais vendido de todos os tempos.",
+      "file": "img-015.jpg",
+      "credit": {
+        "author": "Matthew Rolston; Distributed by Epic Records",
+        "license": "Public domain",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Michael_Jackson_1983_(3x4_cropped)_(contrast).jpg"
+      }
+    },
+    "answers": [
+      "Michael Jackson",
+      "Michael Joseph Jackson"
+    ],
+    "acceptedAliases": [
+      "MJ",
+      "Rei do Pop"
+    ],
+    "rejectedAnswers": [],
+    "hints": [
+      "Cantor e dançarino norte-americano.",
+      "Lançou “Thriller”, o álbum mais vendido de todos os tempos.",
+      "Popularizou o passo de dança moonwalk."
+    ],
+    "explanation": "Michael Jackson gravou parte do clipe de “They Don't Care About Us” no Pelourinho, em Salvador, e no morro Santa Marta, no Rio.",
+    "tags": [
+      "internacional",
+      "anos 80",
+      "pop"
+    ],
+    "source": {
+      "url": "https://pt.wikipedia.org/wiki/Michael_Jackson",
+      "attribution": "Wikipédia — Michael Jackson"
+    }
+  },
+  {
+    "id": "img-016",
+    "category": "musica",
+    "type": "image",
+    "difficulty": 2,
+    "prompt": "Quem é este cantor?",
+    "media": {
+      "type": "image",
+      "commons": "File:Caetano Veloso entrevista Haddad · 23-06-2022 · São Paulo (SP) (52433690124) (cropped).jpg",
+      "alt": "Fotografia de um homem idoso de cabelo grisalho e óculos",
+      "fallbackText": "Cantor e compositor baiano, um dos criadores da Tropicália.",
+      "file": "img-016.jpg",
+      "credit": {
+        "author": "Fora do Eixo",
+        "license": "CC BY-SA 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Caetano_Veloso_entrevista_Haddad_%C2%B7_23-06-2022_%C2%B7_S%C3%A3o_Paulo_(SP)_(52433690124)_(cropped).jpg"
+      }
+    },
+    "answers": [
+      "Caetano Veloso",
+      "Caetano",
+      "Caetano Emanuel Viana Teles Veloso"
+    ],
+    "acceptedAliases": [],
+    "rejectedAnswers": [],
+    "hints": [
+      "Cantor e compositor nascido em Santo Amaro, na Bahia.",
+      "Um dos criadores da Tropicália, ao lado de Gilberto Gil.",
+      "Autor de “Sampa” e “O Leãozinho”, é irmão de Maria Bethânia."
+    ],
+    "explanation": "Caetano Veloso foi exilado em Londres pela ditadura militar entre 1969 e 1972.",
+    "tags": [
+      "brasil",
+      "clássicos",
+      "mpb"
+    ],
+    "source": {
+      "url": "https://pt.wikipedia.org/wiki/Caetano_Veloso",
+      "attribution": "Wikipédia — Caetano Veloso"
+    }
+  },
+  {
+    "id": "img-017",
+    "category": "musica",
+    "type": "image",
+    "difficulty": 2,
+    "prompt": "Quem é este cantor?",
+    "media": {
+      "type": "image",
+      "commons": "File:22.05.2026 - Gilberto Gil (cropped).jpg",
+      "alt": "Fotografia de um homem idoso de barba branca, óculos e terno escuro",
+      "fallbackText": "Cantor e compositor baiano que foi ministro da Cultura.",
+      "file": "img-017.jpg",
+      "credit": {
+        "author": "Ricardo Stuckert / PR",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:22.05.2026_-_Gilberto_Gil_(cropped).jpg"
+      }
+    },
+    "answers": [
+      "Gilberto Gil",
+      "Gilberto Passos Gil Moreira"
+    ],
+    "acceptedAliases": [
+      "Gil"
+    ],
+    "rejectedAnswers": [],
+    "hints": [
+      "Cantor e compositor baiano, um dos criadores da Tropicália.",
+      "Foi ministro da Cultura no primeiro governo Lula.",
+      "Autor de “Aquele Abraço”, “Andar com Fé” e “Drão”."
+    ],
+    "explanation": "Gilberto Gil foi ministro da Cultura de 2003 a 2008 e é membro da Academia Brasileira de Letras.",
+    "tags": [
+      "brasil",
+      "clássicos",
+      "mpb"
+    ],
+    "source": {
+      "url": "https://pt.wikipedia.org/wiki/Gilberto_Gil",
+      "attribution": "Wikipédia — Gilberto Gil"
+    }
+  },
+  {
+    "id": "img-018",
+    "category": "musica",
+    "type": "image",
+    "difficulty": 2,
+    "prompt": "Quem é este cantor?",
+    "media": {
+      "type": "image",
+      "commons": "File:Freddie Mercury at Live Aid (1985).jpg",
+      "alt": "Fotografia em preto e branco de um cantor de regata branca e bigode em um palco",
+      "fallbackText": "Vocalista de uma banda britânica de rock, famoso pela apresentação no Live Aid.",
+      "reveal": {
+        "type": "blur"
+      },
+      "file": "img-018.jpg",
+      "credit": {
+        "author": "Unknown author",
+        "license": "Public domain",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Freddie_Mercury_at_Live_Aid_(1985).jpg"
+      }
+    },
+    "answers": [
+      "Freddie Mercury",
+      "Farrokh Bulsara"
+    ],
+    "acceptedAliases": [
+      "Freddie"
+    ],
+    "rejectedAnswers": [],
+    "hints": [
+      "Vocalista de uma banda britânica de rock.",
+      "Fez uma apresentação histórica no Live Aid, em 1985.",
+      "Cantou “Bohemian Rhapsody” e “We Are the Champions” com o Queen."
+    ],
+    "explanation": "No primeiro Rock in Rio, em 1985, o público cantou “Love of My Life” inteira junto com Freddie Mercury.",
+    "tags": [
+      "internacional",
+      "anos 80",
+      "rock"
+    ],
+    "source": {
+      "url": "https://pt.wikipedia.org/wiki/Freddie_Mercury",
+      "attribution": "Wikipédia — Freddie Mercury"
+    }
+  },
+  {
+    "id": "img-019",
+    "category": "musica",
+    "type": "image",
+    "difficulty": 3,
+    "prompt": "Quem é esta cantora?",
+    "media": {
+      "type": "image",
+      "commons": "File:Elis Regina 1972.tif",
+      "alt": "Fotografia em preto e branco de uma mulher de cabelo curto sorrindo e segurando um microfone",
+      "fallbackText": "Cantora gaúcha, uma das maiores vozes da MPB.",
+      "reveal": {
+        "type": "blur"
+      },
+      "file": "img-019.jpg",
+      "credit": {
+        "author": "Unknown",
+        "license": "Public domain",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Elis_Regina_1972.tif"
+      }
+    },
+    "answers": [
+      "Elis Regina",
+      "Elis",
+      "Elis Regina Carvalho Costa"
+    ],
+    "acceptedAliases": [
+      "Pimentinha"
+    ],
+    "rejectedAnswers": [],
+    "hints": [
+      "Cantora gaúcha, uma das maiores vozes da MPB.",
+      "Gravou “Como Nossos Pais” e “O Bêbado e a Equilibrista”.",
+      "É mãe da cantora Maria Rita."
+    ],
+    "explanation": "Elis Regina (1945–1982) gravou com Tom Jobim, em 1974, o álbum que tem a versão mais famosa de “Águas de Março”.",
+    "tags": [
+      "brasil",
+      "clássicos",
+      "mpb"
+    ],
+    "source": {
+      "url": "https://pt.wikipedia.org/wiki/Elis_Regina",
+      "attribution": "Wikipédia — Elis Regina"
+    }
+  },
+  {
+    "id": "img-020",
+    "category": "musica",
+    "type": "image",
+    "difficulty": 4,
+    "prompt": "Quem é este compositor?",
+    "media": {
+      "type": "image",
+      "commons": "File:Antônio Carlos Jobim (cropped).jpg",
+      "alt": "Fotografia em preto e branco de um homem de cabelo escuro olhando para o lado",
+      "fallbackText": "Compositor e pianista carioca, um dos pais da bossa nova.",
+      "file": "img-020.jpg",
+      "credit": {
+        "author": "Unknown; Restoration by User:PerfectSoundWhatever",
+        "license": "Public domain",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ant%C3%B4nio_Carlos_Jobim_(cropped).jpg"
+      }
+    },
+    "answers": [
+      "Tom Jobim",
+      "Antônio Carlos Jobim",
+      "Jobim"
+    ],
+    "acceptedAliases": [],
+    "rejectedAnswers": [],
+    "hints": [
+      "Compositor e pianista carioca.",
+      "Um dos pais da bossa nova.",
+      "Compôs “Garota de Ipanema” com Vinicius de Moraes."
+    ],
+    "explanation": "O Aeroporto Internacional do Galeão, no Rio de Janeiro, leva o nome de Antônio Carlos Jobim.",
+    "tags": [
+      "brasil",
+      "clássicos",
+      "bossa nova"
+    ],
+    "source": {
+      "url": "https://pt.wikipedia.org/wiki/Tom_Jobim",
+      "attribution": "Wikipédia — Tom Jobim"
+    }
+  },
+  {
+    "id": "img-021",
+    "category": "cinema_tv",
+    "type": "image",
+    "difficulty": 1,
+    "prompt": "Quem é este apresentador?",
+    "media": {
+      "type": "image",
+      "commons": "File:Silvio Santos em maio de 2019.jpg",
+      "alt": "Fotografia de um homem sorridente de terno escuro e gravata vermelha estampada",
+      "fallbackText": "Apresentador de programas de auditório e dono de uma emissora de TV.",
+      "file": "img-021.jpg",
+      "credit": {
+        "author": "Palácio do Planalto",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Silvio_Santos_em_maio_de_2019.jpg"
+      }
+    },
+    "answers": [
+      "Silvio Santos",
+      "Senor Abravanel"
+    ],
+    "acceptedAliases": [
+      "Silvio"
+    ],
+    "rejectedAnswers": [],
+    "hints": [
+      "Apresentador de televisão e empresário.",
+      "Fundou o SBT.",
+      "Famoso por perguntar “Quem quer dinheiro?” e jogar aviõezinhos de dinheiro para a plateia."
+    ],
+    "explanation": "Senor Abravanel (1930–2024) começou como camelô no Rio de Janeiro antes de virar o maior nome da TV brasileira.",
+    "tags": [
+      "brasil",
+      "televisão"
+    ],
+    "source": {
+      "url": "https://pt.wikipedia.org/wiki/Silvio_Santos",
+      "attribution": "Wikipédia — Silvio Santos"
+    }
+  },
+  {
+    "id": "img-022",
+    "category": "cinema_tv",
+    "type": "image",
+    "difficulty": 1,
+    "prompt": "Quem é esta apresentadora?",
+    "media": {
+      "type": "image",
+      "commons": "File:Xuxa no Bar do Gogó em 2024.png",
+      "alt": "Fotografia de uma mulher de cabelo loiro curto e camisa listrada azul",
+      "fallbackText": "Apresentadora e cantora gaúcha, ícone dos programas infantis.",
+      "file": "img-022.jpg",
+      "credit": {
+        "author": "Multishow",
+        "license": "CC BY 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Xuxa_no_Bar_do_Gog%C3%B3_em_2024.png"
+      }
+    },
+    "answers": [
+      "Xuxa",
+      "Xuxa Meneghel",
+      "Maria da Graça Meneghel"
+    ],
+    "acceptedAliases": [
+      "Rainha dos Baixinhos"
+    ],
+    "rejectedAnswers": [],
+    "hints": [
+      "Apresentadora e cantora nascida no Rio Grande do Sul.",
+      "Comandou um programa infantil de enorme sucesso na Globo a partir de 1986.",
+      "Cantou “Ilariê” e “Lua de Cristal”."
+    ],
+    "explanation": "Maria da Graça Meneghel vendeu dezenas de milhões de discos com a série “Xou da Xuxa” e “Só para Baixinhos”.",
+    "tags": [
+      "brasil",
+      "anos 80",
+      "televisão"
+    ],
+    "source": {
+      "url": "https://pt.wikipedia.org/wiki/Xuxa",
+      "attribution": "Wikipédia — Xuxa"
+    }
+  },
+  {
+    "id": "img-023",
+    "category": "cinema_tv",
+    "type": "image",
+    "difficulty": 1,
+    "prompt": "Quem é este apresentador?",
+    "media": {
+      "type": "image",
+      "commons": "File:Faustosilva.jpg",
+      "alt": "Fotografia de um homem de terno risca de giz e gravata vermelha cercado por microfones",
+      "fallbackText": "Apresentador que comandou as tardes de domingo por mais de 30 anos.",
+      "file": "img-023.jpg",
+      "credit": {
+        "author": "Sérgio (Savaman) Savarese",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Faustosilva.jpg"
+      }
+    },
+    "answers": [
+      "Faustão",
+      "Fausto Silva",
+      "Fausto Corrêa da Silva"
+    ],
+    "acceptedAliases": [],
+    "rejectedAnswers": [],
+    "hints": [
+      "Apresentador de televisão.",
+      "Comandou um programa de domingo na Globo de 1989 a 2021.",
+      "Famoso pelos bordões “Ô loco, meu!” e “Errou!”."
+    ],
+    "explanation": "Antes do domingo na Globo, Fausto Silva fez sucesso nos anos 1980 com o irreverente “Perdidos na Noite”.",
+    "tags": [
+      "brasil",
+      "anos 90",
+      "televisão"
+    ],
+    "source": {
+      "url": "https://pt.wikipedia.org/wiki/Faust%C3%A3o",
+      "attribution": "Wikipédia — Faustão"
+    }
+  },
+  {
+    "id": "img-024",
+    "category": "cinema_tv",
+    "type": "image",
+    "difficulty": 2,
+    "prompt": "Quem é esta atriz?",
+    "media": {
+      "type": "image",
+      "commons": "File:Fernanda Montenegro em 2023.png",
+      "alt": "Fotografia de uma senhora de cabelo branco e óculos, com blusa vermelha",
+      "fallbackText": "Atriz carioca considerada a grande dama da dramaturgia brasileira.",
+      "file": "img-024.jpg",
+      "credit": {
+        "author": "Globoplay Novelas",
+        "license": "CC BY 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Fernanda_Montenegro_em_2023.png"
+      }
+    },
+    "answers": [
+      "Fernanda Montenegro",
+      "Arlette Pinheiro Esteves da Silva"
+    ],
+    "acceptedAliases": [],
+    "rejectedAnswers": [
+      "Fernanda Torres"
+    ],
+    "hints": [
+      "Atriz carioca, considerada a grande dama do teatro e da TV brasileira.",
+      "Primeira brasileira indicada ao Oscar de melhor atriz, por “Central do Brasil”.",
+      "É mãe de outra atriz indicada ao Oscar."
+    ],
+    "explanation": "Fernanda Montenegro também foi a primeira brasileira a ganhar um Emmy Internacional de melhor atriz, em 2013.",
+    "tags": [
+      "brasil",
+      "cinema",
+      "novelas"
+    ],
+    "source": {
+      "url": "https://pt.wikipedia.org/wiki/Fernanda_Montenegro",
+      "attribution": "Wikipédia — Fernanda Montenegro"
+    }
+  },
+  {
+    "id": "img-025",
+    "category": "cinema_tv",
+    "type": "image",
+    "difficulty": 2,
+    "prompt": "Quem é este ator?",
+    "media": {
+      "type": "image",
+      "commons": "File:Wagner Moura-6546 (3x4).jpg",
+      "alt": "Fotografia de um homem de barba rala e camisa marrom",
+      "fallbackText": "Ator baiano que interpretou um capitão do BOPE e um narcotraficante colombiano.",
+      "file": "img-025.jpg",
+      "credit": {
+        "author": "Harald Krichel",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Wagner_Moura-6546_(3x4).jpg"
+      }
+    },
+    "answers": [
+      "Wagner Moura",
+      "Wagner Maniçoba de Moura"
+    ],
+    "acceptedAliases": [],
+    "rejectedAnswers": [],
+    "hints": [
+      "Ator baiano.",
+      "Viveu o Capitão Nascimento em “Tropa de Elite”.",
+      "Interpretou Pablo Escobar na série “Narcos”."
+    ],
+    "explanation": "Wagner Moura ganhou o prêmio de melhor ator no Festival de Cannes de 2025 por “O Agente Secreto”.",
+    "tags": [
+      "brasil",
+      "anos 2010",
+      "cinema"
+    ],
+    "source": {
+      "url": "https://pt.wikipedia.org/wiki/Wagner_Moura",
+      "attribution": "Wikipédia — Wagner Moura"
+    }
+  },
+  {
+    "id": "img-026",
+    "category": "cinema_tv",
+    "type": "image",
+    "difficulty": 2,
+    "prompt": "Quem é esta atriz?",
+    "media": {
+      "type": "image",
+      "commons": "File:Fernanda Torres at 82nd Venice International Film Festival-7 (cropped).jpg",
+      "alt": "Fotografia de uma mulher de cabelo castanho na altura dos ombros, sorrindo, com colar dourado",
+      "fallbackText": "Atriz e escritora carioca premiada com o Globo de Ouro.",
+      "file": "img-026.jpg",
+      "credit": {
+        "author": "LucaFazPhoto",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Fernanda_Torres_at_82nd_Venice_International_Film_Festival-7_(cropped).jpg"
+      }
+    },
+    "answers": [
+      "Fernanda Torres",
+      "Fernanda Pinheiro Esteves Torres"
+    ],
+    "acceptedAliases": [],
+    "rejectedAnswers": [
+      "Fernanda Montenegro"
+    ],
+    "hints": [
+      "Atriz e escritora carioca.",
+      "Estrelou a série de comédia “Os Normais”.",
+      "Ganhou o Globo de Ouro de melhor atriz por “Ainda Estou Aqui”."
+    ],
+    "explanation": "Fernanda Torres foi indicada ao Oscar de melhor atriz em 2025, 26 anos depois da indicação de sua mãe, Fernanda Montenegro.",
+    "tags": [
+      "brasil",
+      "anos 2020",
+      "cinema"
+    ],
+    "source": {
+      "url": "https://pt.wikipedia.org/wiki/Fernanda_Torres",
+      "attribution": "Wikipédia — Fernanda Torres"
+    }
+  },
+  {
+    "id": "img-027",
+    "category": "cinema_tv",
+    "type": "image",
+    "difficulty": 3,
+    "prompt": "Quem é este ator?",
+    "media": {
+      "type": "image",
+      "commons": "File:Rodrigo Santoro at Berlinale 2025.jpg",
+      "alt": "Fotografia de um homem de barba grisalha e jaqueta marrom diante de um painel azul",
+      "fallbackText": "Ator brasileiro com carreira em Hollywood, intérprete de um rei persa.",
+      "file": "img-027.jpg",
+      "credit": {
+        "author": "Elena Ternovaja",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Rodrigo_Santoro_at_Berlinale_2025.jpg"
+      }
+    },
+    "answers": [
+      "Rodrigo Santoro",
+      "Rodrigo Junqueira dos Reis Santoro"
+    ],
+    "acceptedAliases": [],
+    "rejectedAnswers": [],
+    "hints": [
+      "Ator brasileiro com carreira em Hollywood.",
+      "Interpretou o rei persa Xerxes em “300”.",
+      "Estrelou “Bicho de Sete Cabeças” e a série “Westworld”."
+    ],
+    "explanation": "Rodrigo Santoro também interpretou Jesus no filme “Ben-Hur” (2016).",
+    "tags": [
+      "brasil",
+      "anos 2000",
+      "cinema"
+    ],
+    "source": {
+      "url": "https://pt.wikipedia.org/wiki/Rodrigo_Santoro",
+      "attribution": "Wikipédia — Rodrigo Santoro"
+    }
+  },
+  {
+    "id": "img-028",
+    "category": "cinema_tv",
+    "type": "image",
+    "difficulty": 4,
+    "prompt": "Quem é este ator?",
+    "media": {
+      "type": "image",
+      "commons": "File:Grande Otelo, sem data.tif",
+      "alt": "Fotografia antiga de um homem de chapéu-coco e gravata-borboleta sorrindo",
+      "fallbackText": "Ator e comediante mineiro, astro das chanchadas.",
+      "file": "img-028.jpg",
+      "credit": {
+        "author": "Unknown",
+        "license": "Public domain",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Grande_Otelo,_sem_data.tif"
+      }
+    },
+    "answers": [
+      "Grande Otelo",
+      "Sebastião Bernardes de Souza Prata"
+    ],
+    "acceptedAliases": [
+      "Otelo"
+    ],
+    "rejectedAnswers": [],
+    "hints": [
+      "Ator e comediante nascido em Uberlândia, Minas Gerais.",
+      "Formou dupla de sucesso com Oscarito nas chanchadas da Atlântida.",
+      "Interpretou o protagonista de “Macunaíma” (1969)."
+    ],
+    "explanation": "Sebastião Bernardes de Souza Prata (1915–1993) atuou em mais de cem filmes.",
+    "tags": [
+      "brasil",
+      "clássicos",
+      "cinema"
+    ],
+    "source": {
+      "url": "https://pt.wikipedia.org/wiki/Grande_Otelo",
+      "attribution": "Wikipédia — Grande Otelo"
+    }
+  },
+  {
+    "id": "img-029",
+    "category": "cinema_tv",
+    "type": "image",
+    "difficulty": 4,
+    "prompt": "Quem é este ator e roteirista?",
+    "media": {
+      "type": "image",
+      "commons": "File:Roberto Gómez Bolaños 2008.jpg",
+      "alt": "Fotografia de um senhor de óculos e camisa branca de gola aberta, olhando para cima",
+      "fallbackText": "Humorista mexicano criador de personagens exibidos há décadas no SBT.",
+      "file": "img-029.jpg",
+      "credit": {
+        "author": "Al Vazquez",
+        "license": "CC BY 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Roberto_G%C3%B3mez_Bola%C3%B1os_2008.jpg"
+      }
+    },
+    "answers": [
+      "Roberto Gómez Bolaños",
+      "Chespirito",
+      "Roberto Bolaños"
+    ],
+    "acceptedAliases": [
+      "Chaves"
+    ],
+    "rejectedAnswers": [],
+    "hints": [
+      "Ator, roteirista e humorista mexicano.",
+      "Seus seriados são exibidos no SBT desde os anos 1980.",
+      "Viveu o garoto que se escondia num barril e o herói atrapalhado de antenas."
+    ],
+    "explanation": "Roberto Gómez Bolaños (1929–2014) criou e interpretou o Chaves e o Chapolin Colorado.",
+    "tags": [
+      "internacional",
+      "clássicos",
+      "humor"
+    ],
+    "source": {
+      "url": "https://pt.wikipedia.org/wiki/Roberto_G%C3%B3mez_Bola%C3%B1os",
+      "attribution": "Wikipédia — Roberto Gómez Bolaños"
+    }
+  },
+  {
+    "id": "img-030",
+    "category": "aleatorio",
+    "type": "image",
+    "difficulty": 1,
+    "prompt": "Que monumento é este?",
+    "media": {
+      "type": "image",
+      "commons": "File:Christ the Redeemer - Cristo Redentor.jpg",
+      "alt": "Fotografia aérea de uma grande estátua de braços abertos no alto de um morro",
+      "fallbackText": "Estátua no alto do Corcovado, uma das sete maravilhas do mundo moderno.",
+      "file": "img-030.jpg",
+      "credit": {
+        "author": "Arne Müseler",
+        "license": "CC BY-SA 3.0 de",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/de/deed.en",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Christ_the_Redeemer_-_Cristo_Redentor.jpg"
+      }
+    },
+    "answers": [
+      "Cristo Redentor"
+    ],
+    "acceptedAliases": [
+      "Cristo"
+    ],
+    "rejectedAnswers": [],
+    "hints": [
+      "Fica no alto do morro do Corcovado.",
+      "Foi inaugurado em 1931.",
+      "Foi eleito uma das sete novas maravilhas do mundo em 2007."
+    ],
+    "explanation": "A estátua tem 30 metros de altura, sem contar o pedestal de 8 metros.",
+    "tags": [
+      "brasil",
+      "pontos turísticos",
+      "rio de janeiro"
+    ],
+    "source": {
+      "url": "https://pt.wikipedia.org/wiki/Cristo_Redentor",
+      "attribution": "Wikipédia — Cristo Redentor"
+    }
+  },
+  {
+    "id": "img-031",
+    "category": "aleatorio",
+    "type": "image",
+    "difficulty": 1,
+    "prompt": "Que monumento é este?",
+    "media": {
+      "type": "image",
+      "commons": "File:Eiffel Tower from Champ-de-Mars, 7 August 2017.jpg",
+      "alt": "Fotografia de uma torre de ferro alta e pontiaguda vista de um jardim",
+      "fallbackText": "Torre de ferro construída para uma exposição universal no século XIX.",
+      "file": "img-031.jpg",
+      "credit": {
+        "author": "Gordon Gartrell",
+        "license": "CC BY-SA 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Eiffel_Tower_from_Champ-de-Mars,_7_August_2017.jpg"
+      }
+    },
+    "answers": [
+      "Torre Eiffel",
+      "Eiffel Tower",
+      "Tour Eiffel"
+    ],
+    "acceptedAliases": [],
+    "rejectedAnswers": [],
+    "hints": [
+      "Fica na Europa.",
+      "Foi construída para a Exposição Universal de 1889.",
+      "É o principal cartão-postal de Paris."
+    ],
+    "explanation": "A torre tem cerca de 330 metros e foi a estrutura mais alta do mundo até 1930.",
+    "tags": [
+      "internacional",
+      "pontos turísticos",
+      "frança"
+    ],
+    "source": {
+      "url": "https://pt.wikipedia.org/wiki/Torre_Eiffel",
+      "attribution": "Wikipédia — Torre Eiffel"
+    }
+  },
+  {
+    "id": "img-032",
+    "category": "aleatorio",
+    "type": "image",
+    "difficulty": 2,
+    "prompt": "Qual é o morro pontudo no centro da foto?",
+    "media": {
+      "type": "image",
+      "commons": "File:Vista do Morro Dona Marta.jpg",
+      "alt": "Vista do alto de uma cidade à beira de uma baía, com um morro arredondado no centro",
+      "fallbackText": "Morro na entrada da Baía de Guanabara, famoso pelo bondinho.",
+      "file": "img-032.jpg",
+      "credit": {
+        "author": "Ccarelo",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Vista_do_Morro_Dona_Marta.jpg"
+      }
+    },
+    "answers": [
+      "Pão de Açúcar",
+      "Morro do Pão de Açúcar",
+      "Sugarloaf Mountain"
+    ],
+    "acceptedAliases": [
+      "Sugarloaf"
+    ],
+    "rejectedAnswers": [],
+    "hints": [
+      "Fica na entrada da Baía de Guanabara.",
+      "Seu bondinho foi inaugurado em 1912.",
+      "Está ao lado do Morro da Urca, no Rio de Janeiro."
+    ],
+    "explanation": "O morro tem 396 metros de altura e o bondinho foi o primeiro teleférico do Brasil.",
+    "tags": [
+      "brasil",
+      "pontos turísticos",
+      "rio de janeiro"
+    ],
+    "source": {
+      "url": "https://pt.wikipedia.org/wiki/Monumento_Natural_dos_Morros_do_P%C3%A3o_de_A%C3%A7%C3%BAcar_e_da_Urca",
+      "attribution": "Wikipédia — Monumento Natural dos Morros do Pão de Açúcar e da Urca"
+    }
+  },
+  {
+    "id": "img-033",
+    "category": "aleatorio",
+    "type": "image",
+    "difficulty": 2,
+    "prompt": "Que construção é esta?",
+    "media": {
+      "type": "image",
+      "commons": "File:Congresso do Brasil.jpg",
+      "alt": "Fotografia de um edifício modernista com duas torres altas e duas cúpulas, uma virada para cima e outra para baixo",
+      "fallbackText": "Edifício de Oscar Niemeyer com duas cúpulas, sede do Poder Legislativo.",
+      "file": "img-033.jpg",
+      "credit": {
+        "author": "P - A - S",
+        "license": "CC BY-SA 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Congresso_do_Brasil.jpg"
+      }
+    },
+    "answers": [
+      "Congresso Nacional",
+      "Palácio do Congresso Nacional",
+      "Congresso Nacional do Brasil"
+    ],
+    "acceptedAliases": [
+      "Congresso"
+    ],
+    "rejectedAnswers": [],
+    "hints": [
+      "Foi projetado por Oscar Niemeyer.",
+      "Fica na Praça dos Três Poderes.",
+      "Suas cúpulas abrigam a Câmara dos Deputados e o Senado Federal."
+    ],
+    "explanation": "A cúpula virada para cima é a da Câmara dos Deputados; a virada para baixo, a do Senado.",
+    "tags": [
+      "brasil",
+      "pontos turísticos",
+      "arquitetura"
+    ],
+    "source": {
+      "url": "https://pt.wikipedia.org/wiki/Pal%C3%A1cio_do_Congresso_Nacional",
+      "attribution": "Wikipédia — Palácio do Congresso Nacional"
+    }
+  },
+  {
+    "id": "img-034",
+    "category": "aleatorio",
+    "type": "image",
+    "difficulty": 2,
+    "prompt": "Que lugar é este?",
+    "media": {
+      "type": "image",
+      "commons": "File:Machu Picchu, Peru (2018).jpg",
+      "alt": "Fotografia de ruínas de pedra em terraços no alto de uma montanha verde",
+      "fallbackText": "Cidade de pedra construída por um império andino no século XV.",
+      "file": "img-034.jpg",
+      "credit": {
+        "author": "Zielonamapa.pl",
+        "license": "CC BY-SA 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Machu_Picchu,_Peru_(2018).jpg"
+      }
+    },
+    "answers": [
+      "Machu Picchu"
+    ],
+    "acceptedAliases": [],
+    "rejectedAnswers": [],
+    "hints": [
+      "Fica na Cordilheira dos Andes.",
+      "Foi construída pelos incas no século XV.",
+      "Fica no Peru, perto de Cusco."
+    ],
+    "explanation": "As ruínas ficaram conhecidas mundialmente em 1911, após a expedição do americano Hiram Bingham.",
+    "tags": [
+      "internacional",
+      "pontos turísticos",
+      "peru"
+    ],
+    "source": {
+      "url": "https://pt.wikipedia.org/wiki/Machu_Picchu",
+      "attribution": "Wikipédia — Machu Picchu"
+    }
+  },
+  {
+    "id": "img-035",
+    "category": "aleatorio",
+    "type": "image",
+    "difficulty": 2,
+    "prompt": "Que construção é esta?",
+    "media": {
+      "type": "image",
+      "commons": "File:Sydney Australia. (21339175489).jpg",
+      "alt": "Fotografia de um edifício branco com telhados em forma de conchas à beira da água",
+      "fallbackText": "Casa de espetáculos com telhado em forma de velas, na Oceania.",
+      "file": "img-035.jpg",
+      "credit": {
+        "author": "Bernard Spragg. NZ from Christchurch, New Zealand",
+        "license": "CC0",
+        "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sydney_Australia._(21339175489).jpg"
+      }
+    },
+    "answers": [
+      "Ópera de Sydney",
+      "Sydney Opera House",
+      "Casa de Ópera de Sydney"
+    ],
+    "acceptedAliases": [],
+    "rejectedAnswers": [],
+    "hints": [
+      "Fica na Oceania.",
+      "Inaugurada em 1973, tem um telhado que lembra velas de barco.",
+      "É o principal cartão-postal da Austrália."
+    ],
+    "explanation": "O projeto do dinamarquês Jørn Utzon é Patrimônio Mundial da UNESCO desde 2007.",
+    "tags": [
+      "internacional",
+      "pontos turísticos",
+      "austrália"
+    ],
+    "source": {
+      "url": "https://pt.wikipedia.org/wiki/%C3%93pera_de_Sydney",
+      "attribution": "Wikipédia — Ópera de Sydney"
+    }
+  },
+  {
+    "id": "img-036",
+    "category": "aleatorio",
+    "type": "image",
+    "difficulty": 3,
+    "prompt": "Que construção é esta?",
+    "media": {
+      "type": "image",
+      "commons": "File:Noite no Teatro Amazonas (cropped).jpg",
+      "alt": "Fotografia noturna de um teatro rosa iluminado, com uma cúpula colorida",
+      "fallbackText": "Teatro construído no auge do ciclo da borracha, na Região Norte.",
+      "reveal": {
+        "type": "zoom",
+        "origin": "40% 26%"
+      },
+      "file": "img-036.jpg",
+      "credit": {
+        "author": "Susan Valentim",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Noite_no_Teatro_Amazonas_(cropped).jpg"
+      }
+    },
+    "answers": [
+      "Teatro Amazonas"
+    ],
+    "acceptedAliases": [],
+    "rejectedAnswers": [],
+    "hints": [
+      "Fica na Região Norte do Brasil.",
+      "Foi inaugurado em 1896, no auge do ciclo da borracha.",
+      "Fica em Manaus e tem uma cúpula com as cores da bandeira do Brasil."
+    ],
+    "explanation": "A cúpula é coberta por cerca de 36 mil peças de cerâmica vindas da Europa.",
+    "tags": [
+      "brasil",
+      "pontos turísticos",
+      "arquitetura"
+    ],
+    "source": {
+      "url": "https://pt.wikipedia.org/wiki/Teatro_Amazonas",
+      "attribution": "Wikipédia — Teatro Amazonas"
+    }
+  },
+  {
+    "id": "img-037",
+    "category": "aleatorio",
+    "type": "image",
+    "difficulty": 1,
+    "prompt": "De que país é esta bandeira?",
+    "media": {
+      "type": "image",
+      "commons": "File:Flag of Japan.svg",
+      "alt": "Bandeira branca com um círculo vermelho no centro",
+      "fallbackText": "Bandeira branca com um disco vermelho que representa o sol.",
+      "file": "img-037.png",
+      "credit": {
+        "author": "Various",
+        "license": "Public domain",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Japan.svg"
+      }
+    },
+    "answers": [
+      "Japão"
+    ],
+    "acceptedAliases": [],
+    "rejectedAnswers": [],
+    "hints": [
+      "País asiático formado por ilhas.",
+      "O nome do país no idioma local significa “origem do sol”.",
+      "Sua capital é Tóquio."
+    ],
+    "explanation": "A bandeira é chamada de Hinomaru, “círculo do sol”.",
+    "tags": [
+      "internacional",
+      "bandeiras"
+    ],
+    "source": {
+      "url": "https://pt.wikipedia.org/wiki/Bandeira_do_Jap%C3%A3o",
+      "attribution": "Wikipédia — Bandeira do Japão"
+    }
+  },
+  {
+    "id": "img-038",
+    "category": "aleatorio",
+    "type": "image",
+    "difficulty": 3,
+    "prompt": "De que país é esta bandeira?",
+    "media": {
+      "type": "image",
+      "commons": "File:Flag of South Korea.svg",
+      "alt": "Bandeira branca com um círculo vermelho e azul no centro e quatro conjuntos de barras pretas nos cantos",
+      "fallbackText": "Bandeira branca com um yin-yang vermelho e azul e trigramas pretos.",
+      "reveal": {
+        "type": "zoom",
+        "origin": "24% 24%"
+      },
+      "file": "img-038.png",
+      "credit": {
+        "author": "Original: Government of the Republic of Korea Vector: Great Brightstar and others",
+        "license": "Public domain",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_South_Korea.svg"
+      }
+    },
+    "answers": [
+      "Coreia do Sul",
+      "República da Coreia"
+    ],
+    "acceptedAliases": [],
+    "rejectedAnswers": [
+      "Coreia do Norte",
+      "Coreia"
+    ],
+    "hints": [
+      "País asiático.",
+      "O círculo central é o taegeuk, símbolo do equilíbrio entre opostos.",
+      "Terra do K-pop e da Samsung."
+    ],
+    "explanation": "As quatro figuras pretas são trigramas que representam o céu, a terra, a água e o fogo.",
+    "tags": [
+      "internacional",
+      "bandeiras"
+    ],
+    "source": {
+      "url": "https://pt.wikipedia.org/wiki/Bandeira_da_Coreia_do_Sul",
+      "attribution": "Wikipédia — Bandeira da Coreia do Sul"
+    }
+  },
+  {
+    "id": "img-039",
+    "category": "aleatorio",
+    "type": "image",
+    "difficulty": 3,
+    "prompt": "De que país é esta bandeira?",
+    "media": {
+      "type": "image",
+      "commons": "File:Flag of Nepal.svg",
+      "alt": "Bandeira vermelha com borda azul formada por dois triângulos sobrepostos, com uma lua e um sol brancos",
+      "fallbackText": "Única bandeira nacional que não é retangular.",
+      "reveal": {
+        "type": "zoom",
+        "origin": "25% 73%"
+      },
+      "file": "img-039.png",
+      "credit": {
+        "author": "Drawn by Pumbaa80, Achim1999",
+        "license": "Public domain",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Nepal.svg"
+      }
+    },
+    "answers": [
+      "Nepal"
+    ],
+    "acceptedAliases": [],
+    "rejectedAnswers": [],
+    "hints": [
+      "País asiático sem saída para o mar.",
+      "É a única bandeira nacional que não é retangular.",
+      "Abriga o Monte Everest, na fronteira com a China."
+    ],
+    "explanation": "Os dois triângulos representam a cordilheira do Himalaia e duas religiões do país, o hinduísmo e o budismo.",
+    "tags": [
+      "internacional",
+      "bandeiras"
+    ],
+    "source": {
+      "url": "https://pt.wikipedia.org/wiki/Bandeira_do_Nepal",
+      "attribution": "Wikipédia — Bandeira do Nepal"
+    }
+  },
+  {
+    "id": "img-040",
+    "category": "aleatorio",
+    "type": "image",
+    "difficulty": 4,
+    "prompt": "De que país é esta bandeira?",
+    "media": {
+      "type": "image",
+      "commons": "File:Flag of Bhutan.svg",
+      "alt": "Bandeira dividida na diagonal em amarelo e laranja, com um dragão branco no centro",
+      "fallbackText": "Bandeira amarela e laranja com um dragão branco.",
+      "reveal": {
+        "type": "zoom",
+        "origin": "68% 25%"
+      },
+      "file": "img-040.png",
+      "credit": {
+        "author": "Vários autores (ver página do arquivo)",
+        "license": "Public domain",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Bhutan.svg"
+      }
+    },
+    "answers": [
+      "Butão",
+      "Reino do Butão"
+    ],
+    "acceptedAliases": [],
+    "rejectedAnswers": [],
+    "hints": [
+      "País asiático encravado no Himalaia.",
+      "O dragão da bandeira é o Druk, o “dragão do trovão”.",
+      "Mede a prosperidade pelo índice de Felicidade Interna Bruta."
+    ],
+    "explanation": "O amarelo representa o poder do rei e o laranja, a tradição budista do país.",
+    "tags": [
+      "internacional",
+      "bandeiras"
+    ],
+    "source": {
+      "url": "https://pt.wikipedia.org/wiki/Bandeira_do_But%C3%A3o",
+      "attribution": "Wikipédia — Bandeira do Butão"
+    }
+  },
+  {
+    "id": "img-041",
+    "category": "aleatorio",
+    "type": "image",
+    "difficulty": 1,
+    "prompt": "Que animal é este?",
+    "media": {
+      "type": "image",
+      "commons": "File:Hydrochoeris hydrochaeris in Brazil in Petrópolis, Rio de Janeiro, Brazil 09.jpg",
+      "alt": "Fotografia de um animal de pelo marrom deitado na grama",
+      "fallbackText": "Mamífero semiaquático, o maior roedor do mundo.",
+      "file": "img-041.jpg",
+      "credit": {
+        "author": "Wilfredor",
+        "license": "CC0",
+        "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Hydrochoeris_hydrochaeris_in_Brazil_in_Petr%C3%B3polis,_Rio_de_Janeiro,_Brazil_09.jpg"
+      }
+    },
+    "answers": [
+      "Capivara",
+      "Capybara"
+    ],
+    "acceptedAliases": [],
+    "rejectedAnswers": [],
+    "hints": [
+      "Mamífero semiaquático da América do Sul.",
+      "É o maior roedor do mundo.",
+      "Virou meme na internet e é presença comum nos parques de Curitiba."
+    ],
+    "explanation": "A capivara pode passar de 60 quilos e vive em grupos perto de rios e lagos.",
+    "tags": [
+      "brasil",
+      "animais"
+    ],
+    "source": {
+      "url": "https://pt.wikipedia.org/wiki/Capivara",
+      "attribution": "Wikipédia — Capivara"
+    }
+  },
+  {
+    "id": "img-042",
+    "category": "aleatorio",
+    "type": "image",
+    "difficulty": 2,
+    "prompt": "Que animal é este?",
+    "media": {
+      "type": "image",
+      "commons": "File:Myresluger2.jpg",
+      "alt": "Fotografia de um animal de focinho muito comprido farejando o chão",
+      "fallbackText": "Mamífero do Cerrado com focinho longo e língua comprida.",
+      "file": "img-042.jpg",
+      "credit": {
+        "author": "Malene Thyssen",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Myresluger2.jpg"
+      }
+    },
+    "answers": [
+      "Tamanduá-bandeira"
+    ],
+    "acceptedAliases": [
+      "Tamanduá"
+    ],
+    "rejectedAnswers": [
+      "Tamanduá-mirim"
+    ],
+    "hints": [
+      "Mamífero do Cerrado e do Pantanal.",
+      "Tem língua comprida e se alimenta de formigas e cupins.",
+      "Tem uma faixa preta na diagonal do corpo e uma cauda enorme e peluda."
+    ],
+    "explanation": "Ele não tem dentes e pode comer até 30 mil formigas e cupins por dia.",
+    "tags": [
+      "brasil",
+      "animais"
+    ],
+    "source": {
+      "url": "https://pt.wikipedia.org/wiki/Tamandu%C3%A1-bandeira",
+      "attribution": "Wikipédia — Tamanduá-bandeira"
+    }
+  },
+  {
+    "id": "img-043",
+    "category": "aleatorio",
+    "type": "image",
+    "difficulty": 2,
+    "prompt": "Que animal é este?",
+    "media": {
+      "type": "image",
+      "commons": "File:Leontopithecus rosalia - Copenhagen Zoo - DSC09082.JPG",
+      "alt": "Fotografia de um pequeno primata de pelo alaranjado sobre um galho",
+      "fallbackText": "Pequeno primata alaranjado da Mata Atlântica, ameaçado de extinção.",
+      "reveal": {
+        "type": "zoom",
+        "origin": "64% 21%"
+      },
+      "file": "img-043.jpg",
+      "credit": {
+        "author": "Daderot",
+        "license": "CC0",
+        "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Leontopithecus_rosalia_-_Copenhagen_Zoo_-_DSC09082.JPG"
+      }
+    },
+    "answers": [
+      "Mico-leão-dourado"
+    ],
+    "acceptedAliases": [
+      "Mico-leão"
+    ],
+    "rejectedAnswers": [
+      "Mico-leão-preto",
+      "Mico-leão-da-cara-dourada"
+    ],
+    "hints": [
+      "Primata pequeno da Mata Atlântica.",
+      "Espécie ameaçada que virou símbolo da conservação no Brasil.",
+      "Estampa a nota de 20 reais."
+    ],
+    "explanation": "Graças a programas de reintrodução, a população na natureza saiu de cerca de 200 indivíduos nos anos 1970 para alguns milhares.",
+    "tags": [
+      "brasil",
+      "animais"
+    ],
+    "source": {
+      "url": "https://pt.wikipedia.org/wiki/Mico-le%C3%A3o-dourado",
+      "attribution": "Wikipédia — Mico-leão-dourado"
+    }
+  },
+  {
+    "id": "img-044",
+    "category": "aleatorio",
+    "type": "image",
+    "difficulty": 3,
+    "prompt": "Que animal é este?",
+    "media": {
+      "type": "image",
+      "commons": "File:Boto cor-de-rosa - Pink dolphin (46314897644).jpg",
+      "alt": "Fotografia de um animal aquático de pele rosada e focinho longo com a cabeça fora da água",
+      "fallbackText": "Mamífero aquático rosado dos rios da Amazônia, personagem de lendas.",
+      "reveal": {
+        "type": "zoom",
+        "origin": "38% 45%"
+      },
+      "file": "img-044.jpg",
+      "credit": {
+        "author": "Just a Brazilian man from Brazil",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Boto_cor-de-rosa_-_Pink_dolphin_(46314897644).jpg"
+      }
+    },
+    "answers": [
+      "Boto-cor-de-rosa",
+      "Boto-rosa",
+      "Boto-vermelho",
+      "Boto-do-amazonas",
+      "Golfinho-rosa"
+    ],
+    "acceptedAliases": [
+      "Boto"
+    ],
+    "rejectedAnswers": [
+      "Boto-cinza",
+      "Tucuxi"
+    ],
+    "hints": [
+      "Mamífero aquático de água doce.",
+      "Vive nos rios da Amazônia.",
+      "Segundo a lenda, vira um homem sedutor nas noites de festa."
+    ],
+    "explanation": "É o maior golfinho de rio do mundo e sua cor rosada fica mais forte com a idade.",
+    "tags": [
+      "brasil",
+      "animais",
+      "folclore"
+    ],
+    "source": {
+      "url": "https://pt.wikipedia.org/wiki/Boto-cor-de-rosa",
+      "attribution": "Wikipédia — Boto-cor-de-rosa"
+    }
+  },
+  {
+    "id": "img-045",
+    "category": "aleatorio",
+    "type": "image",
+    "difficulty": 4,
+    "prompt": "Que animal é este?",
+    "media": {
+      "type": "image",
+      "commons": "File:Southern Three Banded Armadillo 001-2.jpg",
+      "alt": "Fotografia de um pequeno animal com carapaça de placas amareladas",
+      "fallbackText": "Mamífero com carapaça que se enrola quando ameaçado.",
+      "file": "img-045.jpg",
+      "credit": {
+        "author": "Southern_Three_Banded_Armadillo_001.jpg : Ltshears derivative work: M AURILBERT",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Southern_Three_Banded_Armadillo_001-2.jpg"
+      }
+    },
+    "answers": [
+      "Tatu-bola"
+    ],
+    "acceptedAliases": [],
+    "rejectedAnswers": [
+      "Tatu-galinha",
+      "Tatu-peba",
+      "Tatu-canastra"
+    ],
+    "hints": [
+      "Mamífero de áreas secas do Brasil, como a Caatinga e o Cerrado.",
+      "Quando ameaçado, enrola-se e vira uma esfera fechada.",
+      "Inspirou o Fuleco, mascote da Copa do Mundo de 2014."
+    ],
+    "explanation": "É o único tatu capaz de se fechar completamente dentro da própria carapaça.",
+    "tags": [
+      "brasil",
+      "animais"
+    ],
+    "source": {
+      "url": "https://pt.wikipedia.org/wiki/Tatu-bola",
+      "attribution": "Wikipédia — Tatu-bola"
+    }
+  },
+  {
+    "id": "img-046",
+    "category": "games_animacao",
+    "type": "image",
+    "difficulty": 1,
+    "prompt": "Qual é este console?",
+    "media": {
+      "type": "image",
+      "commons": "File:Sony-PlayStation-5501-Console-BL.jpg",
+      "alt": "Fotografia de um console de videogame cinza com tampa circular, visto por trás",
+      "fallbackText": "Console de 32 bits de 1994 que usava jogos em CD.",
+      "file": "img-046.jpg",
+      "credit": {
+        "author": "Evan-Amos",
+        "license": "Public domain",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sony-PlayStation-5501-Console-BL.jpg"
+      }
+    },
+    "answers": [
+      "PlayStation",
+      "PlayStation 1",
+      "Sony PlayStation"
+    ],
+    "acceptedAliases": [
+      "PS1",
+      "PSX",
+      "PSOne"
+    ],
+    "rejectedAnswers": [
+      "PlayStation 2",
+      "PS2"
+    ],
+    "hints": [
+      "Console de 32 bits lançado em 1994.",
+      "Usava jogos em CD e cartões de memória.",
+      "Casa de “Crash Bandicoot” e “Winning Eleven”."
+    ],
+    "explanation": "O console nasceu de uma parceria frustrada entre Sony e Nintendo para um leitor de CD do Super Nintendo.",
+    "tags": [
+      "internacional",
+      "anos 90",
+      "consoles"
+    ],
+    "source": {
+      "url": "https://pt.wikipedia.org/wiki/PlayStation_(console)",
+      "attribution": "Wikipédia — PlayStation (console)"
+    }
+  },
+  {
+    "id": "img-047",
+    "category": "games_animacao",
+    "type": "image",
+    "difficulty": 1,
+    "prompt": "Qual é este console?",
+    "media": {
+      "type": "image",
+      "commons": "File:Nintendo-Switch-wJoyCons-BlRd-Standing-FL.jpg",
+      "alt": "Fotografia de um console portátil com tela e controles laterais azul e vermelho",
+      "fallbackText": "Console híbrido de 2017, para jogar na TV ou na mão.",
+      "file": "img-047.jpg",
+      "credit": {
+        "author": "Evan-Amos",
+        "license": "Public domain",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Nintendo-Switch-wJoyCons-BlRd-Standing-FL.jpg"
+      }
+    },
+    "answers": [
+      "Nintendo Switch",
+      "Switch"
+    ],
+    "acceptedAliases": [],
+    "rejectedAnswers": [
+      "Nintendo Switch 2",
+      "Switch 2",
+      "Switch Lite"
+    ],
+    "hints": [
+      "Console híbrido: funciona na TV ou como portátil.",
+      "Foi lançado em 2017.",
+      "Seus controles destacáveis se chamam Joy-Con."
+    ],
+    "explanation": "Com mais de 150 milhões de unidades, está entre os consoles mais vendidos da história.",
+    "tags": [
+      "internacional",
+      "anos 2010",
+      "consoles"
+    ],
+    "source": {
+      "url": "https://pt.wikipedia.org/wiki/Nintendo_Switch",
+      "attribution": "Wikipédia — Nintendo Switch"
+    }
+  },
+  {
+    "id": "img-048",
+    "category": "games_animacao",
+    "type": "image",
+    "difficulty": 2,
+    "prompt": "Qual é este console?",
+    "media": {
+      "type": "image",
+      "commons": "File:Nintendo-Super-NES-Console-BL.jpg",
+      "alt": "Fotografia de um console de videogame cinza-claro com botões roxos, visto por trás",
+      "fallbackText": "Console de 16 bits dos anos 1990, casa de um famoso encanador.",
+      "reveal": {
+        "type": "zoom",
+        "origin": "30% 32%"
+      },
+      "file": "img-048.jpg",
+      "credit": {
+        "author": "Evan-Amos",
+        "license": "Public domain",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Nintendo-Super-NES-Console-BL.jpg"
+      }
+    },
+    "answers": [
+      "Super Nintendo",
+      "SNES",
+      "Super NES",
+      "Super Nintendo Entertainment System"
+    ],
+    "acceptedAliases": [
+      "Super Famicom"
+    ],
+    "rejectedAnswers": [
+      "Nintendo 64",
+      "Nintendinho"
+    ],
+    "hints": [
+      "Console de 16 bits.",
+      "No Brasil, foi distribuído oficialmente pela Playtronic.",
+      "Casa de “Super Mario World” e “Donkey Kong Country”."
+    ],
+    "explanation": "Este é o modelo norte-americano, o mesmo vendido no Brasil; no Japão e na Europa o console tinha formato arredondado.",
+    "tags": [
+      "internacional",
+      "anos 90",
+      "consoles"
+    ],
+    "source": {
+      "url": "https://pt.wikipedia.org/wiki/Super_Nintendo_Entertainment_System",
+      "attribution": "Wikipédia — Super Nintendo Entertainment System"
+    }
+  },
+  {
+    "id": "img-049",
+    "category": "games_animacao",
+    "type": "image",
+    "difficulty": 2,
+    "prompt": "Qual é este console?",
+    "media": {
+      "type": "image",
+      "commons": "File:Sega-Mega-Drive-EU-Mk1-wController-FL.jpg",
+      "alt": "Fotografia de um console de videogame preto com um controle de três botões",
+      "fallbackText": "Console de 16 bits fabricado no Brasil pela Tectoy.",
+      "reveal": {
+        "type": "zoom",
+        "origin": "66% 35%"
+      },
+      "file": "img-049.jpg",
+      "credit": {
+        "author": "Evan-Amos",
+        "license": "Public domain",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sega-Mega-Drive-EU-Mk1-wController-FL.jpg"
+      }
+    },
+    "answers": [
+      "Mega Drive",
+      "Sega Mega Drive",
+      "Sega Genesis",
+      "Genesis"
+    ],
+    "acceptedAliases": [],
+    "rejectedAnswers": [
+      "Master System",
+      "Mega CD"
+    ],
+    "hints": [
+      "Console de 16 bits.",
+      "No Brasil, foi fabricado pela Tectoy.",
+      "Casa do porco-espinho azul mais rápido dos games."
+    ],
+    "explanation": "Graças à Tectoy, o console foi vendido oficialmente no Brasil por décadas, muito depois de sair de linha no resto do mundo.",
+    "tags": [
+      "internacional",
+      "anos 90",
+      "consoles"
+    ],
+    "source": {
+      "url": "https://pt.wikipedia.org/wiki/Mega_Drive",
+      "attribution": "Wikipédia — Mega Drive"
+    }
+  },
+  {
+    "id": "img-050",
+    "category": "games_animacao",
+    "type": "image",
+    "difficulty": 3,
+    "prompt": "Qual é este console?",
+    "media": {
+      "type": "image",
+      "commons": "File:Nintendo-64-Console-BL.jpg",
+      "alt": "Fotografia de um console de videogame cinza-escuro com formato arredondado, visto por trás",
+      "fallbackText": "Console de cartuchos lançado em 1996, com controle de três pegadores.",
+      "reveal": {
+        "type": "zoom",
+        "origin": "47% 35%"
+      },
+      "file": "img-050.jpg",
+      "credit": {
+        "author": "Evan-Amos",
+        "license": "Public domain",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Nintendo-64-Console-BL.jpg"
+      }
+    },
+    "answers": [
+      "Nintendo 64",
+      "N64"
+    ],
+    "acceptedAliases": [],
+    "rejectedAnswers": [
+      "GameCube",
+      "Super Nintendo"
+    ],
+    "hints": [
+      "Console lançado em 1996.",
+      "Seu controle tinha três pegadores e um direcional analógico no centro.",
+      "Casa de “The Legend of Zelda: Ocarina of Time” e “GoldenEye 007”."
+    ],
+    "explanation": "Foi um dos últimos grandes consoles a usar cartuchos em vez de discos.",
+    "tags": [
+      "internacional",
+      "anos 90",
+      "consoles"
+    ],
+    "source": {
+      "url": "https://pt.wikipedia.org/wiki/Nintendo_64",
+      "attribution": "Wikipédia — Nintendo 64"
+    }
+  },
+  {
+    "id": "img-051",
+    "category": "games_animacao",
+    "type": "image",
+    "difficulty": 3,
+    "prompt": "Qual é este console? (marca e modelo)",
+    "media": {
+      "type": "image",
+      "commons": "File:Atari-2600-Wood-4Sw-Set.jpg",
+      "alt": "Fotografia de um console preto com frente imitando madeira e um joystick",
+      "fallbackText": "Console de cartuchos de 1977 com joystick de um botão.",
+      "file": "img-051.jpg",
+      "credit": {
+        "author": "Evan-Amos",
+        "license": "Public domain",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Atari-2600-Wood-4Sw-Set.jpg"
+      }
+    },
+    "answers": [
+      "Atari 2600"
+    ],
+    "acceptedAliases": [
+      "2600"
+    ],
+    "rejectedAnswers": [
+      "Atari 5200",
+      "Atari 7800"
+    ],
+    "hints": [
+      "Console lançado em 1977.",
+      "O controle era um joystick com um único botão.",
+      "No Brasil, foi lançado oficialmente pela Polyvox."
+    ],
+    "explanation": "Este é o modelo de quatro chaves, lançado em 1980, com a famosa frente imitando madeira.",
+    "tags": [
+      "internacional",
+      "clássicos",
+      "consoles"
+    ],
+    "source": {
+      "url": "https://pt.wikipedia.org/wiki/Atari_2600",
+      "attribution": "Wikipédia — Atari 2600"
+    }
+  },
+  {
+    "id": "img-052",
+    "category": "games_animacao",
+    "type": "image",
+    "difficulty": 4,
+    "prompt": "Qual é este console?",
+    "media": {
+      "type": "image",
+      "commons": "File:Nintendo-Entertainment-System-NES-Console-BR.jpg",
+      "alt": "Fotografia de um console cinza-claro em formato de caixa, com uma faixa preta, visto por trás",
+      "fallbackText": "Console de 8 bits lançado nos Estados Unidos em 1985.",
+      "file": "img-052.jpg",
+      "credit": {
+        "author": "Evan-Amos",
+        "license": "Public domain",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Nintendo-Entertainment-System-NES-Console-BR.jpg"
+      }
+    },
+    "answers": [
+      "Nintendo Entertainment System",
+      "NES",
+      "Nintendinho"
+    ],
+    "acceptedAliases": [
+      "Famicom"
+    ],
+    "rejectedAnswers": [
+      "Super Nintendo",
+      "SNES"
+    ],
+    "hints": [
+      "Console de 8 bits.",
+      "Foi lançado nos Estados Unidos em 1985.",
+      "Casa do primeiro “Super Mario Bros.”."
+    ],
+    "explanation": "No Brasil, o console ficou conhecido como “Nintendinho” e teve muitos clones, como o Phantom System e o Dynavision.",
+    "tags": [
+      "internacional",
+      "anos 80",
+      "consoles"
+    ],
+    "source": {
+      "url": "https://pt.wikipedia.org/wiki/Nintendo_Entertainment_System",
+      "attribution": "Wikipédia — Nintendo Entertainment System"
+    }
+  }
+]

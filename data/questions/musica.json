@@ -1,0 +1,665 @@
+[
+  {
+    "id": "mus-001",
+    "category": "musica",
+    "type": "clue",
+    "difficulty": 1,
+    "prompt": "Qual cantor é descrito aqui?",
+    "media": { "type": "text", "style": "clue", "text": "Cantor capixaba de Cachoeiro de Itapemirim, líder da Jovem Guarda nos anos 60, chamado de 'O Rei' e dono de um especial de fim de ano na Globo há décadas." },
+    "answers": ["Roberto Carlos", "Roberto Carlos Braga"],
+    "acceptedAliases": ["RC"],
+    "rejectedAnswers": [],
+    "hints": [
+      "Costuma distribuir rosas ao público no fim dos shows.",
+      "Fez uma parceria histórica de composição com Erasmo Carlos.",
+      "Gravou 'Detalhes', 'Emoções' e 'Como É Grande o Meu Amor por Você'."
+    ],
+    "explanation": "É considerado o artista de maior sucesso comercial da história da música brasileira.",
+    "tags": ["brasil", "clássicos", "jovem guarda", "romântico"],
+    "source": { "url": "https://pt.wikipedia.org/wiki/Roberto_Carlos", "attribution": "Wikipédia — Roberto Carlos" }
+  },
+  {
+    "id": "mus-002",
+    "category": "musica",
+    "type": "clue",
+    "difficulty": 1,
+    "prompt": "Qual cantora é descrita aqui?",
+    "media": { "type": "text", "style": "clue", "text": "Cantora carioca que estourou com o funk 'Show das Poderosas' (2013) e, em 2022, levou 'Envolver' ao topo da parada global do Spotify." },
+    "answers": ["Anitta", "Larissa de Macedo Machado"],
+    "acceptedAliases": [],
+    "rejectedAnswers": [],
+    "hints": [
+      "Seu nome artístico foi inspirado numa minissérie da Globo.",
+      "Gravou o clipe de 'Vai Malandra' no Morro do Vidigal.",
+      "Mistura pop, funk e reggaeton e canta em português, espanhol e inglês."
+    ],
+    "explanation": "Com 'Envolver', ela se tornou a primeira artista brasileira com uma música solo no 1.º lugar do ranking global do Spotify.",
+    "tags": ["brasil", "anos 2010", "funk", "pop"],
+    "source": { "url": "https://pt.wikipedia.org/wiki/Anitta", "attribution": "Wikipédia — Anitta" }
+  },
+  {
+    "id": "mus-003",
+    "category": "musica",
+    "type": "clue",
+    "difficulty": 1,
+    "prompt": "Qual cantora é descrita aqui?",
+    "media": { "type": "text", "style": "clue", "text": "Cantora baiana de Juazeiro que foi vocalista da Banda Eva nos anos 90 e virou, em carreira solo, um dos maiores nomes do axé e do carnaval de Salvador." },
+    "answers": ["Ivete Sangalo", "Ivete Maria Dias de Sangalo"],
+    "acceptedAliases": ["Ivete", "Veveta"],
+    "rejectedAnswers": [],
+    "hints": [
+      "Comanda trios elétricos lotados há décadas.",
+      "Gravou um DVD histórico no Maracanã e outro no Madison Square Garden.",
+      "Também já foi apresentadora e jurada de programas de TV."
+    ],
+    "explanation": "Em 2007, foi reconhecida como a maior vendedora de DVDs do mundo, graças ao sucesso do show no Maracanã.",
+    "tags": ["brasil", "anos 2000", "axé"],
+    "source": { "url": "https://pt.wikipedia.org/wiki/Ivete_Sangalo", "attribution": "Wikipédia — Ivete Sangalo" }
+  },
+  {
+    "id": "mus-004",
+    "category": "musica",
+    "type": "clue",
+    "difficulty": 1,
+    "prompt": "Qual dupla é descrita aqui?",
+    "media": { "type": "text", "style": "clue", "text": "Dupla de irmãos, filhos de um famoso cantor sertanejo, que dominou o pop adolescente no fim dos anos 90 e chegou a ter um seriado próprio na Globo." },
+    "answers": ["Sandy & Junior", "Sandy e Junior"],
+    "acceptedAliases": [],
+    "rejectedAnswers": [],
+    "hints": [
+      "Começaram ainda crianças, cantando em programas de TV.",
+      "O pai faz dupla com o irmão Chitãozinho.",
+      "Ela tem a voz principal; ele toca bateria, guitarra e violão."
+    ],
+    "explanation": "Depois de anos separados, os irmãos voltaram aos palcos em 2019 com a turnê de reencontro 'Nossa História'.",
+    "tags": ["brasil", "anos 90", "pop"],
+    "source": { "url": "https://pt.wikipedia.org/wiki/Sandy_%26_Junior", "attribution": "Wikipédia — Sandy & Junior" }
+  },
+  {
+    "id": "mus-005",
+    "category": "musica",
+    "type": "clue",
+    "difficulty": 1,
+    "prompt": "Qual música é descrita aqui?",
+    "media": { "type": "text", "style": "clue", "text": "Balada romântica gravada por Chitãozinho & Xororó em 1990, considerada a música mais cantada nos karaokês do Brasil e presença garantida em memes e fins de festa." },
+    "answers": ["Evidências"],
+    "acceptedAliases": [],
+    "rejectedAnswers": [],
+    "hints": [
+      "Composta por José Augusto e Paulo Sérgio Valle.",
+      "Faz parte do álbum 'Cowboy do Asfalto'.",
+      "O título é uma palavra que significa 'sinais claros' ou 'provas'."
+    ],
+    "explanation": "Composta em 1989, foi a segunda música mais tocada nas rádios em 1990 e até hoje é tratada como um 'hino' informal do Brasil.",
+    "tags": ["brasil", "anos 90", "sertanejo"],
+    "source": { "url": "https://pt.wikipedia.org/wiki/Evidências_(canção)", "attribution": "Wikipédia — Evidências (canção)" }
+  },
+  {
+    "id": "mus-006",
+    "category": "musica",
+    "type": "clue",
+    "difficulty": 1,
+    "prompt": "Qual cantor é descrito aqui?",
+    "media": { "type": "text", "style": "clue", "text": "O 'Rei do Pop' gravou em 1996 um videoclipe no Pelourinho, em Salvador, e no morro Santa Marta, no Rio, com direção de Spike Lee." },
+    "answers": ["Michael Jackson"],
+    "acceptedAliases": ["MJ"],
+    "rejectedAnswers": [],
+    "hints": [
+      "Ficou famoso ainda criança, num grupo formado com os irmãos.",
+      "Popularizou o passo 'moonwalk'.",
+      "Usava uma luva branca brilhante em uma só mão."
+    ],
+    "explanation": "O clipe de 'They Don't Care About Us' tem a participação dos tambores do Olodum e mostrou o Pelourinho para o mundo.",
+    "tags": ["internacional", "anos 90", "pop"],
+    "source": { "url": "https://pt.wikipedia.org/wiki/Michael_Jackson", "attribution": "Wikipédia — Michael Jackson" }
+  },
+  {
+    "id": "mus-007",
+    "category": "musica",
+    "type": "emoji",
+    "difficulty": 1,
+    "prompt": "Qual banda estes emojis representam?",
+    "media": { "type": "emoji", "text": "🪲🪲🪲🪲 🎸" },
+    "answers": ["The Beatles"],
+    "acceptedAliases": [],
+    "rejectedAnswers": [],
+    "hints": [
+      "Banda britânica que explodiu nos anos 60.",
+      "Vinha de Liverpool.",
+      "John, Paul, George e Ringo."
+    ],
+    "explanation": "O nome brinca com 'beetles' (besouros) e 'beat'; é o grupo musical que mais vendeu discos na história.",
+    "tags": ["internacional", "clássicos", "rock"],
+    "source": { "url": "https://pt.wikipedia.org/wiki/The_Beatles", "attribution": "Wikipédia — The Beatles" }
+  },
+  {
+    "id": "mus-008",
+    "category": "musica",
+    "type": "emoji",
+    "difficulty": 1,
+    "prompt": "Qual música viral estes emojis representam?",
+    "media": { "type": "emoji", "text": "👶🦈🎶" },
+    "answers": ["Baby Shark", "Baby Shark Dance"],
+    "acceptedAliases": [],
+    "rejectedAnswers": [],
+    "hints": [
+      "Música infantil com coreografia feita com as mãos.",
+      "Lançada pela empresa sul-coreana Pinkfong.",
+      "Fala de uma família inteira de animais marinhos."
+    ],
+    "explanation": "Em novembro de 2020, o vídeo 'Baby Shark Dance' se tornou o mais visto da história do YouTube.",
+    "tags": ["internacional", "anos 2010", "infantil", "viral"],
+    "source": { "url": "https://pt.wikipedia.org/wiki/Baby_Shark", "attribution": "Wikipédia — Baby Shark" }
+  },
+  {
+    "id": "mus-009",
+    "category": "musica",
+    "type": "clue",
+    "difficulty": 1,
+    "prompt": "Qual música é descrita aqui?",
+    "media": { "type": "text", "style": "clue", "text": "Hit sul-coreano de 2012 cujo clipe foi o primeiro vídeo do YouTube a passar de 1 bilhão de visualizações, famoso pela dança que imita alguém cavalgando." },
+    "answers": ["Gangnam Style"],
+    "acceptedAliases": [],
+    "rejectedAnswers": [],
+    "hints": [
+      "Cantada pelo rapper PSY.",
+      "O título cita um bairro nobre de Seul."
+    ],
+    "explanation": "O vídeo bateu a marca de 1 bilhão de views em 21 de dezembro de 2012 e levou o K-pop a um público global.",
+    "tags": ["internacional", "anos 2010", "k-pop", "viral"],
+    "source": { "url": "https://pt.wikipedia.org/wiki/Gangnam_Style", "attribution": "Wikipédia — Gangnam Style" }
+  },
+  {
+    "id": "mus-010",
+    "category": "musica",
+    "type": "clue",
+    "difficulty": 1,
+    "prompt": "Qual cantora é descrita aqui?",
+    "media": { "type": "text", "style": "clue", "text": "Cantora colombiana de Barranquilla que gravou 'Waka Waka', a música-tema da Copa do Mundo de 2010, na África do Sul." },
+    "answers": ["Shakira", "Shakira Isabel Mebarak Ripoll"],
+    "acceptedAliases": [],
+    "rejectedAnswers": [],
+    "hints": [
+      "Famosa pelo rebolado e pela dança do ventre.",
+      "Gravou 'Hips Don't Lie' e 'Whenever, Wherever'.",
+      "Seus dois primeiros discos só saíram na Colômbia e não fizeram sucesso."
+    ],
+    "explanation": "'Waka Waka' virou a música de Copa do Mundo mais vendida de todos os tempos.",
+    "tags": ["internacional", "anos 2010", "pop", "copa do mundo"],
+    "source": { "url": "https://pt.wikipedia.org/wiki/Shakira", "attribution": "Wikipédia — Shakira" }
+  },
+  {
+    "id": "mus-011",
+    "category": "musica",
+    "type": "clue",
+    "difficulty": 2,
+    "prompt": "Qual música é descrita aqui?",
+    "media": { "type": "text", "style": "clue", "text": "Bossa nova de 1962 de Tom Jobim e Vinicius de Moraes, inspirada numa jovem de 17 anos que os compositores viam passar a caminho da praia." },
+    "answers": ["Garota de Ipanema", "The Girl from Ipanema"],
+    "acceptedAliases": [],
+    "rejectedAnswers": [],
+    "hints": [
+      "Os compositores a viam passar do bar Veloso, no Rio.",
+      "A versão em inglês com Astrud Gilberto e Stan Getz ganhou o Grammy de gravação do ano.",
+      "O título cita um bairro da Zona Sul carioca."
+    ],
+    "explanation": "A musa era Helô Pinheiro, e a canção é considerada uma das mais gravadas e executadas da história.",
+    "tags": ["brasil", "clássicos", "bossa nova"],
+    "source": { "url": "https://pt.wikipedia.org/wiki/Garota_de_Ipanema", "attribution": "Wikipédia — Garota de Ipanema" }
+  },
+  {
+    "id": "mus-012",
+    "category": "musica",
+    "type": "clue",
+    "difficulty": 2,
+    "prompt": "Qual banda é descrita aqui?",
+    "media": { "type": "text", "style": "clue", "text": "Banda de rock formada em Brasília em 1982, liderada por Renato Russo, com Dado Villa-Lobos na guitarra e Marcelo Bonfá na bateria." },
+    "answers": ["Legião Urbana"],
+    "acceptedAliases": [],
+    "rejectedAnswers": [],
+    "hints": [
+      "Fez parte da geração do rock de Brasília dos anos 80.",
+      "Gravou 'Faroeste Caboclo', uma música de 9 minutos e sem refrão.",
+      "Também gravou 'Pais e Filhos' e 'Tempo Perdido'."
+    ],
+    "explanation": "Mesmo décadas depois do fim, a banda segue entre as mais ouvidas e vendidas do rock nacional.",
+    "tags": ["brasil", "anos 80", "rock"],
+    "source": { "url": "https://pt.wikipedia.org/wiki/Legião_Urbana", "attribution": "Wikipédia — Legião Urbana" }
+  },
+  {
+    "id": "mus-013",
+    "category": "musica",
+    "type": "clue",
+    "difficulty": 2,
+    "prompt": "Qual cantor é descrito aqui?",
+    "media": { "type": "text", "style": "clue", "text": "Baiano de Salvador chamado de 'Pai do Rock Brasileiro' e de 'Maluco Beleza', autor de 'Metamorfose Ambulante' e 'Gita'." },
+    "answers": ["Raul Seixas", "Raul Santos Seixas"],
+    "acceptedAliases": ["Raulzito"],
+    "rejectedAnswers": [],
+    "hints": [
+      "Na adolescência, fundou um fã-clube de Elvis Presley com um amigo.",
+      "Compôs vários sucessos em parceria com o escritor Paulo Coelho.",
+      "Em qualquer show de rock no Brasil, alguém grita 'Toca...!' em sua homenagem."
+    ],
+    "explanation": "O pedido 'Toca Raul!' virou piada e homenagem obrigatória em shows de todos os estilos pelo país.",
+    "tags": ["brasil", "clássicos", "rock"],
+    "source": { "url": "https://pt.wikipedia.org/wiki/Raul_Seixas", "attribution": "Wikipédia — Raul Seixas" }
+  },
+  {
+    "id": "mus-014",
+    "category": "musica",
+    "type": "clue",
+    "difficulty": 2,
+    "prompt": "Qual cantor é descrito aqui?",
+    "media": { "type": "text", "style": "clue", "text": "Sanfoneiro pernambucano de Exu, chamado de 'Rei do Baião', que se apresentava com chapéu de couro de vaqueiro e levou a música nordestina para todo o Brasil." },
+    "answers": ["Luiz Gonzaga", "Luiz Gonzaga do Nascimento"],
+    "acceptedAliases": ["Gonzagão", "Gonzaga"],
+    "rejectedAnswers": ["Gonzaguinha"],
+    "hints": [
+      "Definiu o trio básico do baião: sanfona, zabumba e triângulo.",
+      "Compôs 'Asa Branca' em parceria com Humberto Teixeira.",
+      "O Dia Nacional do Forró, 13 de dezembro, é a data do seu nascimento."
+    ],
+    "explanation": "'Asa Branca' (1947) virou uma espécie de hino do sertão nordestino.",
+    "tags": ["brasil", "clássicos", "forró", "baião"],
+    "source": { "url": "https://pt.wikipedia.org/wiki/Luiz_Gonzaga", "attribution": "Wikipédia — Luiz Gonzaga" }
+  },
+  {
+    "id": "mus-015",
+    "category": "musica",
+    "type": "clue",
+    "difficulty": 2,
+    "prompt": "Qual banda é descrita aqui?",
+    "media": { "type": "text", "style": "clue", "text": "Banda de rock cômico de Guarulhos (SP) que estourou em 1995 com um único álbum cheio de paródias, figurinos malucos e presença constante nos programas de auditório." },
+    "answers": ["Mamonas Assassinas"],
+    "acceptedAliases": ["Mamonas"],
+    "rejectedAnswers": [],
+    "hints": [
+      "O vocalista Dinho se apresentava fantasiado.",
+      "Gravaram 'Vira-Vira' e 'Pelados em Santos'.",
+      "Antes da fama, o grupo se chamava Utopia."
+    ],
+    "explanation": "O único álbum de estúdio da banda vendeu mais de 3 milhões de cópias e ganhou disco de diamante.",
+    "tags": ["brasil", "anos 90", "rock", "humor"],
+    "source": { "url": "https://pt.wikipedia.org/wiki/Mamonas_Assassinas", "attribution": "Wikipédia — Mamonas Assassinas" }
+  },
+  {
+    "id": "mus-016",
+    "category": "musica",
+    "type": "emoji",
+    "difficulty": 2,
+    "prompt": "Qual música da Xuxa estes emojis representam?",
+    "media": { "type": "emoji", "text": "🌙💎" },
+    "answers": ["Lua de Cristal"],
+    "acceptedAliases": [],
+    "rejectedAnswers": [],
+    "hints": [
+      "Lançada em 1990.",
+      "Também é o nome de um filme estrelado pela apresentadora.",
+      "Composta por Michael Sullivan e Paulo Massadas."
+    ],
+    "explanation": "Tema do filme homônimo de 1990, também fez sucesso em espanhol como 'Luna de Cristal'.",
+    "tags": ["brasil", "anos 90", "infantil", "pop"],
+    "source": { "url": "https://pt.wikipedia.org/wiki/Lua_de_Cristal_(canção)", "attribution": "Wikipédia — Lua de Cristal (canção)" }
+  },
+  {
+    "id": "mus-017",
+    "category": "musica",
+    "type": "clue",
+    "difficulty": 2,
+    "prompt": "Qual música é descrita aqui?",
+    "media": { "type": "text", "style": "clue", "text": "Hit sertanejo de 2011 que levou Michel Teló às paradas da Europa depois que Cristiano Ronaldo dançou sua coreografia ao comemorar um gol." },
+    "answers": ["Ai Se Eu Te Pego"],
+    "acceptedAliases": [],
+    "rejectedAnswers": [],
+    "hints": [
+      "Composta por Sharon Acioly e Antônio Dyggs.",
+      "Antes do sucesso nacional, versões dela já tocavam no Nordeste.",
+      "Neymar também comemorou gols dançando a música."
+    ],
+    "explanation": "O clipe passou de 1 bilhão de visualizações no YouTube, um recorde para uma música brasileira na época.",
+    "tags": ["brasil", "anos 2010", "sertanejo", "viral"],
+    "source": { "url": "https://pt.wikipedia.org/wiki/Ai,_Se_Eu_Te_Pego", "attribution": "Wikipédia — Ai, Se Eu Te Pego" }
+  },
+  {
+    "id": "mus-018",
+    "category": "musica",
+    "type": "clue",
+    "difficulty": 2,
+    "prompt": "Qual música é descrita aqui?",
+    "media": { "type": "text", "style": "clue", "text": "Música de quase seis minutos lançada pelo Queen em 1975, que mistura balada, trecho de ópera e hard rock e não tem refrão." },
+    "answers": ["Bohemian Rhapsody"],
+    "acceptedAliases": [],
+    "rejectedAnswers": [],
+    "hints": [
+      "Composta por Freddie Mercury.",
+      "Voltou às paradas em 1992 com a cena do carro em 'Quanto Mais Idiota Melhor'.",
+      "Dá nome à cinebiografia da banda lançada em 2018."
+    ],
+    "explanation": "Considerada 'longa demais' para as rádios, virou uma das canções mais famosas do rock.",
+    "tags": ["internacional", "clássicos", "rock"],
+    "source": { "url": "https://pt.wikipedia.org/wiki/Bohemian_Rhapsody", "attribution": "Wikipédia — Bohemian Rhapsody" }
+  },
+  {
+    "id": "mus-019",
+    "category": "musica",
+    "type": "emoji",
+    "difficulty": 2,
+    "prompt": "Qual música (e clipe) dos anos 80 estes emojis representam?",
+    "media": { "type": "emoji", "text": "🧟🌕💃🕺" },
+    "answers": ["Thriller"],
+    "acceptedAliases": [],
+    "rejectedAnswers": [],
+    "hints": [
+      "O clipe de 1983 tem quase 14 minutos e foi dirigido por John Landis.",
+      "Tem uma coreografia de mortos-vivos.",
+      "Termina com a gargalhada sinistra do ator Vincent Price."
+    ],
+    "explanation": "É a faixa-título do álbum mais vendido de todos os tempos, e o clipe revolucionou a forma de fazer videoclipes.",
+    "tags": ["internacional", "anos 80", "pop"],
+    "source": { "url": "https://pt.wikipedia.org/wiki/Thriller_(canção)", "attribution": "Wikipédia — Thriller (canção)" }
+  },
+  {
+    "id": "mus-020",
+    "category": "musica",
+    "type": "clue",
+    "difficulty": 2,
+    "prompt": "Qual cantora é descrita aqui?",
+    "media": { "type": "text", "style": "clue", "text": "Cantora americana que começou no country, regravou os próprios álbuns para ter os direitos sobre as gravações e fez a turnê de maior bilheteria da história." },
+    "answers": ["Taylor Swift"],
+    "acceptedAliases": ["Taylor"],
+    "rejectedAnswers": [],
+    "hints": [
+      "Lançou álbuns como '1989', 'Folklore' e 'Midnights'.",
+      "As regravações levam o selo '(... 's Version)'.",
+      "A turnê recordista se chama 'The Eras Tour'."
+    ],
+    "explanation": "A 'The Eras Tour' foi a primeira turnê da história a ultrapassar 1 bilhão de dólares em bilheteria.",
+    "tags": ["internacional", "anos 2010", "pop"],
+    "source": { "url": "https://pt.wikipedia.org/wiki/Taylor_Swift", "attribution": "Wikipédia — Taylor Swift" }
+  },
+  {
+    "id": "mus-021",
+    "category": "musica",
+    "type": "clue",
+    "difficulty": 2,
+    "prompt": "Qual música é descrita aqui?",
+    "media": { "type": "text", "style": "clue", "text": "Reggaeton porto-riquenho de 2017 que quebrou recordes de visualizações no YouTube e ganhou um remix com Justin Bieber." },
+    "answers": ["Despacito"],
+    "acceptedAliases": [],
+    "rejectedAnswers": [],
+    "hints": [
+      "Cantada por Luis Fonsi e Daddy Yankee.",
+      "O clipe foi gravado no bairro de La Perla, em San Juan.",
+      "O título significa 'devagarinho' em espanhol."
+    ],
+    "explanation": "Foi o vídeo mais visto da história do YouTube até 2020.",
+    "tags": ["internacional", "anos 2010", "reggaeton", "viral"],
+    "source": { "url": "https://pt.wikipedia.org/wiki/Despacito", "attribution": "Wikipédia — Despacito" }
+  },
+  {
+    "id": "mus-022",
+    "category": "musica",
+    "type": "clue",
+    "difficulty": 2,
+    "prompt": "Qual banda é descrita aqui?",
+    "media": { "type": "text", "style": "clue", "text": "Trio de Seattle que levou o grunge ao topo das paradas em 1991 com o álbum 'Nevermind' e o hit 'Smells Like Teen Spirit'." },
+    "answers": ["Nirvana"],
+    "acceptedAliases": [],
+    "rejectedAnswers": [],
+    "hints": [
+      "Liderada por Kurt Cobain.",
+      "O baterista Dave Grohl depois fundou o Foo Fighters."
+    ],
+    "explanation": "'Nevermind' chegou ao 1.º lugar da parada americana em janeiro de 1992 e virou símbolo da geração dos anos 90.",
+    "tags": ["internacional", "anos 90", "rock", "grunge"],
+    "source": { "url": "https://pt.wikipedia.org/wiki/Nirvana_(banda)", "attribution": "Wikipédia — Nirvana (banda)" }
+  },
+  {
+    "id": "mus-023",
+    "category": "musica",
+    "type": "clue",
+    "difficulty": 3,
+    "prompt": "Qual sambista é descrito aqui?",
+    "media": { "type": "text", "style": "clue", "text": "Sambista carioca nascido em Irajá, revelado nas rodas de samba do subúrbio e lançado pela madrinha Beth Carvalho em 1983; tem um sítio famoso em Xerém." },
+    "answers": ["Zeca Pagodinho", "Jessé Gomes da Silva Filho"],
+    "acceptedAliases": ["Zeca"],
+    "rejectedAnswers": [],
+    "hints": [
+      "É conhecido pelo jeitão malandro e bem-humorado.",
+      "Sua primeira gravação foi o samba 'Camarão que Dorme a Onda Leva'.",
+      "Seu nome artístico vem de um diminutivo do gênero que ele canta."
+    ],
+    "explanation": "O sambista é um dos maiores vendedores de discos do samba e virou sinônimo de roda de samba com os amigos.",
+    "tags": ["brasil", "anos 2000", "samba", "pagode"],
+    "source": { "url": "https://pt.wikipedia.org/wiki/Zeca_Pagodinho", "attribution": "Wikipédia — Zeca Pagodinho" }
+  },
+  {
+    "id": "mus-024",
+    "category": "musica",
+    "type": "emoji",
+    "difficulty": 3,
+    "prompt": "Qual samba clássico estes emojis representam?",
+    "media": { "type": "emoji", "text": "🚂🕚" },
+    "answers": ["Trem das Onze", "Trem das 11"],
+    "acceptedAliases": [],
+    "rejectedAnswers": [],
+    "hints": [
+      "Composição do paulistano Adoniran Barbosa.",
+      "Ficou famosa na voz do grupo Demônios da Garoa, em 1964.",
+      "Fala de um morador do Jaçanã, na Zona Norte de São Paulo."
+    ],
+    "explanation": "Apesar de ser um samba paulista, venceu um concurso de músicas do carnaval do Rio em 1965.",
+    "tags": ["brasil", "clássicos", "samba"],
+    "source": { "url": "https://pt.wikipedia.org/wiki/Trem_das_Onze", "attribution": "Wikipédia — Trem das Onze" }
+  },
+  {
+    "id": "mus-025",
+    "category": "musica",
+    "type": "clue",
+    "difficulty": 3,
+    "prompt": "Qual cantora é descrita aqui?",
+    "media": { "type": "text", "style": "clue", "text": "Cantora gaúcha apelidada de 'Pimentinha', revelada nos festivais dos anos 60 e considerada uma das maiores vozes do Brasil; gravou um álbum histórico com Tom Jobim em 1974." },
+    "answers": ["Elis Regina", "Elis Regina Carvalho Costa"],
+    "acceptedAliases": ["Elis"],
+    "rejectedAnswers": [],
+    "hints": [
+      "Venceu um festival em 1965 cantando 'Arrastão'.",
+      "Gravou 'Como Nossos Pais' e 'O Bêbado e a Equilibrista'.",
+      "É mãe da cantora Maria Rita."
+    ],
+    "explanation": "Os espetáculos 'Falso Brilhante' e 'Transversal do Tempo' revolucionaram os shows musicais no país.",
+    "tags": ["brasil", "clássicos", "mpb"],
+    "source": { "url": "https://pt.wikipedia.org/wiki/Elis_Regina", "attribution": "Wikipédia — Elis Regina" }
+  },
+  {
+    "id": "mus-026",
+    "category": "musica",
+    "type": "clue",
+    "difficulty": 3,
+    "prompt": "Qual girl group é descrito aqui?",
+    "media": { "type": "text", "style": "clue", "text": "Grupo pop feminino de cinco integrantes formado em 2002 no reality 'Popstars', do SBT, que estourou com a versão brasileira de um hit das espanholas Las Ketchup." },
+    "answers": ["Rouge"],
+    "acceptedAliases": [],
+    "rejectedAnswers": [],
+    "hints": [
+      "As integrantes eram Aline, Fantine, Karin, Li e Lu.",
+      "O primeiro álbum vendeu mais de 2 milhões de cópias no Brasil.",
+      "O nome do grupo é a palavra francesa para 'vermelho'."
+    ],
+    "explanation": "'Ragatanga', a versão de 'Aserejé', ficou 11 semanas seguidas no topo da parada brasileira.",
+    "tags": ["brasil", "anos 2000", "pop"],
+    "source": { "url": "https://pt.wikipedia.org/wiki/Rouge", "attribution": "Wikipédia — Rouge" }
+  },
+  {
+    "id": "mus-027",
+    "category": "musica",
+    "type": "clue",
+    "difficulty": 3,
+    "prompt": "Qual música é descrita aqui?",
+    "media": { "type": "text", "style": "clue", "text": "Funk de 2017 de MC Fioti construído sobre um trecho de flauta de uma partita de Johann Sebastian Bach, que viralizou no mundo todo." },
+    "answers": ["Bum Bum Tam Tam"],
+    "acceptedAliases": [],
+    "rejectedAnswers": [],
+    "hints": [
+      "O clipe foi lançado em março de 2017.",
+      "Ganhou um remix internacional com J Balvin, Future e Stefflon Don.",
+      "O título é uma onomatopeia de batida de tambor."
+    ],
+    "explanation": "A música é apontada como uma das grandes responsáveis por levar o funk brasileiro para o mundo.",
+    "tags": ["brasil", "anos 2010", "funk", "viral"],
+    "source": { "url": "https://pt.wikipedia.org/wiki/Bum_Bum_Tam_Tam", "attribution": "Wikipédia — Bum Bum Tam Tam" }
+  },
+  {
+    "id": "mus-028",
+    "category": "musica",
+    "type": "emoji",
+    "difficulty": 3,
+    "prompt": "Qual hit pop de 2007 estes emojis representam?",
+    "media": { "type": "emoji", "text": "☂️🌧️💃🏾" },
+    "answers": ["Umbrella"],
+    "acceptedAliases": [],
+    "rejectedAnswers": [],
+    "hints": [
+      "Cantado por uma artista nascida em Barbados.",
+      "Tem participação do rapper Jay-Z.",
+      "Ficou sete semanas seguidas no topo da parada americana."
+    ],
+    "explanation": "O hit de Rihanna passou 10 semanas seguidas em 1.º lugar no Reino Unido, a maior sequência de um single naquela década.",
+    "tags": ["internacional", "anos 2000", "pop"],
+    "source": { "url": "https://pt.wikipedia.org/wiki/Umbrella", "attribution": "Wikipédia — Umbrella" }
+  },
+  {
+    "id": "mus-029",
+    "category": "musica",
+    "type": "clue",
+    "difficulty": 3,
+    "prompt": "Qual grupo é descrito aqui?",
+    "media": { "type": "text", "style": "clue", "text": "Quarteto sueco que venceu o Eurovision em 1974 e cujas canções inspiraram o musical e o filme 'Mamma Mia!'." },
+    "answers": ["ABBA"],
+    "acceptedAliases": [],
+    "rejectedAnswers": [],
+    "hints": [
+      "Gravou 'Dancing Queen' e 'Waterloo'.",
+      "Formado por dois casais.",
+      "O nome é formado pelas iniciais de Agnetha, Björn, Benny e Anni-Frid."
+    ],
+    "explanation": "A vitória no Eurovision com 'Waterloo' lançou o grupo ao sucesso mundial.",
+    "tags": ["internacional", "clássicos", "pop", "disco"],
+    "source": { "url": "https://pt.wikipedia.org/wiki/ABBA", "attribution": "Wikipédia — ABBA" }
+  },
+  {
+    "id": "mus-030",
+    "category": "musica",
+    "type": "emoji",
+    "difficulty": 3,
+    "prompt": "Qual música viral estes emojis representam?",
+    "media": { "type": "emoji", "text": "🦊❓🎤" },
+    "answers": ["The Fox (What Does the Fox Say?)", "The Fox", "What Does the Fox Say?"],
+    "acceptedAliases": [],
+    "rejectedAnswers": [],
+    "hints": [
+      "Vídeo viral de 2013.",
+      "Feita pela dupla de humoristas noruegueses Ylvis.",
+      "Pergunta qual é o som que um certo animal faz."
+    ],
+    "explanation": "Criada como piada para um programa de TV norueguês, a música virou um dos maiores virais do YouTube em 2013.",
+    "tags": ["internacional", "anos 2010", "viral", "humor"],
+    "source": { "url": "https://pt.wikipedia.org/wiki/The_Fox_(What_Does_the_Fox_Say%3F)", "attribution": "Wikipédia — The Fox (What Does the Fox Say?)" }
+  },
+  {
+    "id": "mus-031",
+    "category": "musica",
+    "type": "clue",
+    "difficulty": 4,
+    "prompt": "Qual músico é descrito aqui?",
+    "media": { "type": "text", "style": "clue", "text": "Violonista e cantor baiano de Juazeiro, considerado o 'pai da bossa nova' por criar uma batida de violão inconfundível; sua gravação de 'Chega de Saudade', em 1958, é o marco inicial do gênero." },
+    "answers": ["João Gilberto", "João Gilberto Prado Pereira de Oliveira"],
+    "acceptedAliases": [],
+    "rejectedAnswers": [],
+    "hints": [
+      "Era famoso pelo perfeccionismo e por exigir silêncio absoluto nos shows.",
+      "Gravou um álbum lendário com o saxofonista americano Stan Getz.",
+      "Foi casado com a cantora Miúcha, irmã de Chico Buarque."
+    ],
+    "explanation": "O LP 'Chega de Saudade' (1959) influenciou toda uma geração, de Caetano Veloso a Chico Buarque.",
+    "tags": ["brasil", "clássicos", "bossa nova"],
+    "source": { "url": "https://pt.wikipedia.org/wiki/João_Gilberto", "attribution": "Wikipédia — João Gilberto" }
+  },
+  {
+    "id": "mus-032",
+    "category": "musica",
+    "type": "clue",
+    "difficulty": 4,
+    "prompt": "Qual sambista é descrito aqui?",
+    "media": { "type": "text", "style": "clue", "text": "Sambista carioca que ajudou a fundar a Estação Primeira de Mangueira e só gravou o primeiro disco solo em 1974, aos 66 anos." },
+    "answers": ["Cartola", "Angenor de Oliveira"],
+    "acceptedAliases": [],
+    "rejectedAnswers": [],
+    "hints": [
+      "Autor de 'As Rosas Não Falam' e 'O Mundo É um Moinho'.",
+      "Foi casado com Dona Zica, com quem abriu um famoso bar de samba.",
+      "Seu apelido vem do chapéu que usava para proteger a cabeça do cimento quando trabalhava como pedreiro."
+    ],
+    "explanation": "Mesmo com a estreia tardia em disco, gravou quatro álbuns solo e deixou clássicos absolutos do samba.",
+    "tags": ["brasil", "clássicos", "samba"],
+    "source": { "url": "https://pt.wikipedia.org/wiki/Cartola_(cantor)", "attribution": "Wikipédia — Cartola (cantor)" }
+  },
+  {
+    "id": "mus-033",
+    "category": "musica",
+    "type": "clue",
+    "difficulty": 4,
+    "prompt": "Qual banda é descrita aqui?",
+    "media": { "type": "text", "style": "clue", "text": "Banda paulista que puxou a onda do 'forró universitário' por volta de 2000, com o sucesso 'Xote dos Milagres'." },
+    "answers": ["Falamansa"],
+    "acceptedAliases": [],
+    "rejectedAnswers": [],
+    "hints": [
+      "O vocalista é conhecido como Tato.",
+      "O primeiro álbum se chama 'Deixa Entrar'.",
+      "O nome junta duas palavras que lembram um jeito calmo de conversar."
+    ],
+    "explanation": "O sucesso da banda ajudou a levar o forró pé de serra às baladas universitárias do Sudeste.",
+    "tags": ["brasil", "anos 2000", "forró"],
+    "source": { "url": "https://pt.wikipedia.org/wiki/Falamansa", "attribution": "Wikipédia — Falamansa" }
+  },
+  {
+    "id": "mus-034",
+    "category": "musica",
+    "type": "emoji",
+    "difficulty": 4,
+    "prompt": "Qual banda de rock brasileira estes emojis representam?",
+    "media": { "type": "emoji", "text": "👷👷🌺🏝️" },
+    "answers": ["Engenheiros do Hawaii", "Engenheiros do Havaí"],
+    "acceptedAliases": [],
+    "rejectedAnswers": [],
+    "hints": [
+      "Banda gaúcha formada em Porto Alegre, em 1985.",
+      "Liderada por Humberto Gessinger.",
+      "Gravou 'Infinita Highway' e 'Pra Ser Sincero'."
+    ],
+    "explanation": "O nome veio de uma música da banda que tirava sarro dos estudantes de engenharia civil, com quem os integrantes tinham uma rivalidade bem-humorada.",
+    "tags": ["brasil", "anos 80", "rock"],
+    "source": { "url": "https://pt.wikipedia.org/wiki/Engenheiros_do_Hawaii", "attribution": "Wikipédia — Engenheiros do Hawaii" }
+  },
+  {
+    "id": "mus-035",
+    "category": "musica",
+    "type": "emoji",
+    "difficulty": 4,
+    "prompt": "Qual música de 1984 (que também é título de filme e álbum) estes emojis representam?",
+    "media": { "type": "emoji", "text": "🟣🌧️🎸" },
+    "answers": ["Purple Rain"],
+    "acceptedAliases": [],
+    "rejectedAnswers": [],
+    "hints": [
+      "Cantada por um astro de Minneapolis.",
+      "O cantor estrelou o filme de mesmo nome.",
+      "Nos anos 90, o artista chegou a trocar o nome por um símbolo impronunciável."
+    ],
+    "explanation": "A balada de Prince, com longo solo de guitarra, fecha o filme e o álbum de mesmo nome e virou sua marca registrada.",
+    "tags": ["internacional", "anos 80", "pop", "rock"],
+    "source": { "url": "https://pt.wikipedia.org/wiki/Purple_Rain_(canção)", "attribution": "Wikipédia — Purple Rain (canção)" }
+  }
+]

@@ -1,0 +1,21 @@
+{
+  "name": "na-lata",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Na Lata! — quiz cultural multiplayer em português do Brasil, inspirado na dinâmica do PopSauce (JKLM).",
+  "type": "module",
+  "engines": {
+    "node": ">=22"
+  },
+  "scripts": {
+    "start": "node server/index.js",
+    "dev": "node --watch server/index.js",
+    "test": "node --test",
+    "validate:questions": "node tools/validate-questions.js",
+    "verify:sources": "node tools/verify-sources.js",
+    "fetch:media": "node tools/fetch-commons-media.js"
+  },
+  "dependencies": {
+    "ws": "^8.18.0"
+  }
+}

@@ -1,0 +1,800 @@
+[
+  {
+    "id": "esp-001",
+    "category": "esportes",
+    "type": "quote",
+    "difficulty": 1,
+    "prompt": "Qual narrador gritou esta frase, abraçado a Pelé, na final da Copa de 1994?",
+    "media": { "type": "text", "style": "quote", "text": "É tetra! É tetra!" },
+    "answers": ["Galvão Bueno"],
+    "acceptedAliases": ["Galvão"],
+    "rejectedAnswers": [],
+    "hints": [
+      "Foi a voz da TV Globo em Copas do Mundo e na Fórmula 1 por décadas",
+      "Também é dono do bordão 'Haja coração!'",
+      "Vivia perguntando ao comentarista de arbitragem: 'Pode isso, Arnaldo?'"
+    ],
+    "explanation": "Galvão Bueno narrou pela TV Globo os títulos mundiais de 1994 e de 2002, além das conquistas de Senna na Fórmula 1.",
+    "tags": ["brasil", "anos 90", "futebol", "copa do mundo", "narração"],
+    "source": { "url": "https://pt.wikipedia.org/wiki/Galv%C3%A3o_Bueno", "attribution": "Wikipédia — Galvão Bueno" }
+  },
+  {
+    "id": "esp-002",
+    "category": "esportes",
+    "type": "emoji",
+    "difficulty": 1,
+    "prompt": "Qual jogador brasileiro é representado pelos emojis?",
+    "media": { "type": "emoji", "text": "👑 ⚽ 🇧🇷" },
+    "answers": ["Pelé", "Rei Pelé", "Edson Arantes do Nascimento"],
+    "acceptedAliases": [],
+    "rejectedAnswers": [],
+    "hints": [
+      "Tricampeão mundial: 1958, 1962 e 1970",
+      "Ídolo eterno do Santos, sempre com a camisa 10",
+      "Marcou mais de mil gols na carreira"
+    ],
+    "explanation": "Pelé é o único jogador com três títulos de Copa do Mundo e foi eleito Jogador do Século pela IFFHS em 2000.",
+    "tags": ["brasil", "clássicos", "futebol", "copa do mundo"],
+    "source": { "url": "https://pt.wikipedia.org/wiki/Pel%C3%A9", "attribution": "Wikipédia — Pelé" }
+  },
+  {
+    "id": "esp-003",
+    "category": "esportes",
+    "type": "clue",
+    "difficulty": 1,
+    "prompt": "Qual jogador brasileiro ficou conhecido por este apelido?",
+    "media": { "type": "text", "style": "clue", "text": "Apelido: 'O Fenômeno'. Centroavante eleito três vezes o melhor do mundo pela FIFA (1996, 1997 e 2002)." },
+    "answers": ["Ronaldo", "Ronaldo Nazário", "Ronaldo Fenômeno", "Ronaldo Luís Nazário de Lima"],
+    "acceptedAliases": ["R9"],
+    "rejectedAnswers": ["Ronaldinho", "Ronaldinho Gaúcho", "Cristiano Ronaldo"],
+    "hints": [
+      "Jogou por Cruzeiro, PSV, Barcelona, Inter de Milão, Real Madrid e Corinthians",
+      "Foi o artilheiro da Copa de 2002",
+      "Marcou os dois gols da final do penta contra a Alemanha"
+    ],
+    "explanation": "Depois de pendurar as chuteiras, Ronaldo virou empresário e comprou a SAF do Cruzeiro, clube que o revelou.",
+    "tags": ["brasil", "anos 2000", "futebol", "apelidos"],
+    "source": { "url": "https://pt.wikipedia.org/wiki/Ronaldo_Naz%C3%A1rio", "attribution": "Wikipédia — Ronaldo Nazário" }
+  },
+  {
+    "id": "esp-004",
+    "category": "esportes",
+    "type": "clue",
+    "difficulty": 1,
+    "prompt": "Quem é este craque argentino?",
+    "media": { "type": "text", "style": "clue", "text": "Na Copa de 1986, contra a Inglaterra, marcou um gol com a mão — a famosa 'mão de Deus' — e, minutos depois, driblou meio time adversário para fazer o 'Gol do Século'." },
+    "answers": ["Maradona", "Diego Maradona", "Diego Armando Maradona"],
+    "acceptedAliases": ["Dieguito", "El Pibe de Oro", "Pibe de Oro"],
+    "rejectedAnswers": [],
+    "hints": [
+      "Camisa 10 da Argentina campeã do mundo em 1986",
+      "Ídolo máximo do Napoli, da Itália",
+      "Revelado pelo Argentinos Juniors, também brilhou no Boca Juniors"
+    ],
+    "explanation": "O segundo gol daquele jogo, em que ele saiu do meio-campo driblando vários ingleses, foi eleito pela FIFA o 'Gol do Século'.",
+    "tags": ["internacional", "anos 80", "futebol", "copa do mundo"],
+    "source": { "url": "https://pt.wikipedia.org/wiki/Diego_Maradona", "attribution": "Wikipédia — Diego Maradona" }
+  },
+  {
+    "id": "esp-005",
+    "category": "esportes",
+    "type": "emoji",
+    "difficulty": 1,
+    "prompt": "Qual clube brasileiro é representado pelos emojis?",
+    "media": { "type": "emoji", "text": "🐷 💚 ⚽" },
+    "answers": ["Palmeiras", "Sociedade Esportiva Palmeiras"],
+    "acceptedAliases": ["Verdão", "SEP", "Palestra Itália", "Palestra"],
+    "rejectedAnswers": [],
+    "hints": [
+      "Clube paulista fundado em 1914 por imigrantes italianos",
+      "Seu outro mascote oficial é o periquito",
+      "Manda seus jogos no Allianz Parque"
+    ],
+    "explanation": "O porco nasceu como provocação das torcidas rivais, mas acabou adotado pelos próprios palmeirenses como mascote.",
+    "tags": ["brasil", "futebol", "mascotes"],
+    "source": { "url": "https://pt.wikipedia.org/wiki/Sociedade_Esportiva_Palmeiras", "attribution": "Wikipédia — Sociedade Esportiva Palmeiras" }
+  },
+  {
+    "id": "esp-006",
+    "category": "esportes",
+    "type": "clue",
+    "difficulty": 1,
+    "prompt": "Qual piloto brasileiro?",
+    "media": { "type": "text", "style": "clue", "text": "Tricampeão mundial de Fórmula 1 (1988, 1990 e 1991) pela McLaren, famoso pelo capacete amarelo e pelo talento nas corridas com chuva." },
+    "answers": ["Ayrton Senna", "Senna", "Ayrton Senna da Silva"],
+    "acceptedAliases": [],
+    "rejectedAnswers": ["Bruno Senna"],
+    "hints": [
+      "Suas vitórias eram embaladas pelo 'Tema da Vitória' nas manhãs de domingo",
+      "Teve uma rivalidade histórica com o francês Alain Prost",
+      "Venceu o GP do Brasil, em Interlagos, em 1991 e 1993"
+    ],
+    "explanation": "Paulistano, ele estreou na Fórmula 1 em 1984, pela pequena equipe Toleman, antes de brilhar na Lotus e na McLaren.",
+    "tags": ["brasil", "anos 80", "fórmula 1"],
+    "source": { "url": "https://pt.wikipedia.org/wiki/Ayrton_Senna", "attribution": "Wikipédia — Ayrton Senna" }
+  },
+  {
+    "id": "esp-007",
+    "category": "esportes",
+    "type": "clue",
+    "difficulty": 1,
+    "prompt": "Qual tenista brasileiro?",
+    "media": { "type": "text", "style": "clue", "text": "Tenista catarinense tricampeão de Roland Garros (1997, 2000 e 2001) que, após o terceiro título, desenhou um grande coração no saibro de Paris." },
+    "answers": ["Gustavo Kuerten", "Guga", "Guga Kuerten"],
+    "acceptedAliases": [],
+    "rejectedAnswers": [],
+    "hints": [
+      "Terminou o ano 2000 como número 1 do ranking mundial",
+      "Nasceu em Florianópolis",
+      "Seu apelido curtinho é conhecido no mundo todo"
+    ],
+    "explanation": "Quando ganhou Roland Garros pela primeira vez, em 1997, ele era apenas o 66º do ranking mundial.",
+    "tags": ["brasil", "anos 2000", "tênis"],
+    "source": { "url": "https://pt.wikipedia.org/wiki/Gustavo_Kuerten", "attribution": "Wikipédia — Gustavo Kuerten" }
+  },
+  {
+    "id": "esp-008",
+    "category": "esportes",
+    "type": "clue",
+    "difficulty": 1,
+    "prompt": "Qual skatista brasileira?",
+    "media": { "type": "text", "style": "clue", "text": "Ganhou a medalha de prata no skate street em Tóquio 2020, aos 13 anos, depois de viralizar ainda criança num vídeo andando de skate fantasiada de fada." },
+    "answers": ["Rayssa Leal", "Jhúlia Rayssa Mendes Leal"],
+    "acceptedAliases": ["Fadinha", "Fadinha do Skate", "Rayssa"],
+    "rejectedAnswers": [],
+    "hints": [
+      "Compete no skate street",
+      "Nasceu em Imperatriz, no Maranhão",
+      "Virou a medalhista olímpica mais jovem da história do Brasil"
+    ],
+    "explanation": "Rayssa ganhou o apelido de 'Fadinha' por causa do vídeo, mas já disse que prefere ser chamada pelo nome.",
+    "tags": ["brasil", "anos 2020", "skate", "olimpíadas"],
+    "source": { "url": "https://pt.wikipedia.org/wiki/Rayssa_Leal", "attribution": "Wikipédia — Rayssa Leal" }
+  },
+  {
+    "id": "esp-009",
+    "category": "esportes",
+    "type": "clue",
+    "difficulty": 1,
+    "prompt": "Qual jogadora brasileira?",
+    "media": { "type": "text", "style": "clue", "text": "Eleita seis vezes a melhor jogadora do mundo pela FIFA e maior artilheira da história das Copas do Mundo femininas; é chamada de 'Rainha'." },
+    "answers": ["Marta", "Marta Vieira da Silva"],
+    "acceptedAliases": ["Rainha Marta"],
+    "rejectedAnswers": [],
+    "hints": [
+      "Nasceu em Dois Riachos, no sertão de Alagoas",
+      "Venceu o prêmio de melhor do mundo cinco vezes seguidas, de 2006 a 2010",
+      "Camisa 10 histórica da seleção feminina"
+    ],
+    "explanation": "Marta marcou 17 gols em Copas do Mundo e foi a primeira pessoa, entre homens e mulheres, a marcar em cinco edições diferentes do torneio.",
+    "tags": ["brasil", "anos 2000", "futebol", "futebol feminino"],
+    "source": { "url": "https://pt.wikipedia.org/wiki/Marta_(futebolista)", "attribution": "Wikipédia — Marta (futebolista)" }
+  },
+  {
+    "id": "esp-010",
+    "category": "esportes",
+    "type": "emoji",
+    "difficulty": 1,
+    "prompt": "Qual atleta é representado pelos emojis?",
+    "media": { "type": "emoji", "text": "⚡ 🏃‍♂️ 🇯🇲" },
+    "answers": ["Usain Bolt", "Bolt"],
+    "acceptedAliases": [],
+    "rejectedAnswers": [],
+    "hints": [
+      "Recordista mundial dos 100 m e dos 200 m rasos",
+      "Ganhou o ouro nos 100 m em Pequim 2008, Londres 2012 e Rio 2016",
+      "Sua comemoração imita alguém disparando um raio"
+    ],
+    "explanation": "A imprensa internacional o apelidou de 'Lightning Bolt' — algo como 'relâmpago'.",
+    "tags": ["internacional", "anos 2010", "atletismo", "olimpíadas"],
+    "source": { "url": "https://pt.wikipedia.org/wiki/Usain_Bolt", "attribution": "Wikipédia — Usain Bolt" }
+  },
+  {
+    "id": "esp-011",
+    "category": "esportes",
+    "type": "clue",
+    "difficulty": 1,
+    "prompt": "Qual é o nome popular deste estádio?",
+    "media": { "type": "text", "style": "clue", "text": "Estádio carioca inaugurado em 1950, palco de duas finais de Copa do Mundo (1950 e 2014). Seu nome oficial homenageia o jornalista Mário Filho." },
+    "answers": ["Maracanã", "Estádio do Maracanã"],
+    "acceptedAliases": ["Maraca"],
+    "rejectedAnswers": [],
+    "hints": [
+      "O apelido vem do nome de um rio que passa pela região",
+      "Ali Pelé marcou o seu milésimo gol, em 1969",
+      "É a casa de Flamengo e Fluminense"
+    ],
+    "explanation": "Mário Filho, irmão de Nelson Rodrigues, fez campanha na imprensa pela construção do estádio e é considerado seu idealizador.",
+    "tags": ["brasil", "clássicos", "futebol", "estádios"],
+    "source": { "url": "https://pt.wikipedia.org/wiki/Est%C3%A1dio_Jornalista_M%C3%A1rio_Filho", "attribution": "Wikipédia — Estádio Jornalista Mário Filho" }
+  },
+  {
+    "id": "esp-012",
+    "category": "esportes",
+    "type": "clue",
+    "difficulty": 1,
+    "prompt": "Qual jogador brasileiro?",
+    "media": { "type": "text", "style": "clue", "text": "Converteu o último pênalti da disputa contra a Alemanha, no Maracanã, e deu ao Brasil o inédito ouro olímpico no futebol masculino, em 2016." },
+    "answers": ["Neymar", "Neymar Jr", "Neymar da Silva Santos Júnior"],
+    "acceptedAliases": ["Ney", "Menino Ney"],
+    "rejectedAnswers": [],
+    "hints": [
+      "Revelado pelo Santos",
+      "Formou o trio 'MSN' no Barcelona, com Messi e Suárez",
+      "Em 2017, trocou o Barcelona pelo PSG numa transferência recorde"
+    ],
+    "explanation": "Naquela final ele também abriu o placar, com um gol de falta, antes de a decisão ir para os pênaltis.",
+    "tags": ["brasil", "anos 2010", "futebol", "olimpíadas"],
+    "source": { "url": "https://pt.wikipedia.org/wiki/Neymar", "attribution": "Wikipédia — Neymar" }
+  },
+  {
+    "id": "esp-013",
+    "category": "esportes",
+    "type": "clue",
+    "difficulty": 1,
+    "prompt": "Qual ginasta brasileira?",
+    "media": { "type": "text", "style": "clue", "text": "Ginasta de Guarulhos que, em Tóquio 2020, ganhou o ouro no salto e a prata no individual geral — as primeiras medalhas olímpicas da ginástica feminina brasileira." },
+    "answers": ["Rebeca Andrade", "Rebeca Rodrigues de Andrade"],
+    "acceptedAliases": ["Rebeca"],
+    "rejectedAnswers": [],
+    "hints": [
+      "Foi campeã mundial no individual geral em 2022",
+      "Também é bicampeã mundial no salto (2021 e 2023)",
+      "Defende o Flamengo"
+    ],
+    "explanation": "Em Tóquio, ela se tornou a primeira atleta brasileira a ganhar duas medalhas numa mesma edição dos Jogos.",
+    "tags": ["brasil", "anos 2020", "ginástica", "olimpíadas"],
+    "source": { "url": "https://pt.wikipedia.org/wiki/Rebeca_Andrade", "attribution": "Wikipédia — Rebeca Andrade" }
+  },
+  {
+    "id": "esp-014",
+    "category": "esportes",
+    "type": "quote",
+    "difficulty": 2,
+    "prompt": "Complete o bordão de Galvão Bueno com o nome do goleiro.",
+    "media": { "type": "text", "style": "quote", "text": "Sai que é sua, ___!" },
+    "answers": ["Taffarel", "Cláudio Taffarel", "Cláudio André Mergen Taffarel"],
+    "acceptedAliases": [],
+    "rejectedAnswers": [],
+    "hints": [
+      "Goleiro titular do tetra, em 1994",
+      "Especialista em defender pênaltis",
+      "Gaúcho de Santa Rosa, também brilhou no Galatasaray, da Turquia"
+    ],
+    "explanation": "Galvão contou que a frase era um incentivo: o goleiro costumava ficar muito colado à linha do gol.",
+    "tags": ["brasil", "anos 90", "futebol", "narração"],
+    "source": { "url": "https://pt.wikipedia.org/wiki/Taffarel", "attribution": "Wikipédia — Taffarel" }
+  },
+  {
+    "id": "esp-015",
+    "category": "esportes",
+    "type": "quote",
+    "difficulty": 2,
+    "prompt": "Qual ex-árbitro e comentarista de arbitragem eternizou este bordão?",
+    "media": { "type": "text", "style": "quote", "text": "A regra é clara!" },
+    "answers": ["Arnaldo Cezar Coelho"],
+    "acceptedAliases": ["Arnaldo"],
+    "rejectedAnswers": [],
+    "hints": [
+      "Comentava lances polêmicos nas transmissões da TV Globo",
+      "Galvão Bueno vivia perguntando a ele: 'Pode isso?'",
+      "Foi o primeiro brasileiro a apitar uma final de Copa do Mundo, em 1982"
+    ],
+    "explanation": "O bordão virou até título de livro, lançado por ele em 2002 com histórias de mais de 20 anos de arbitragem.",
+    "tags": ["brasil", "futebol", "arbitragem"],
+    "source": { "url": "https://pt.wikipedia.org/wiki/Arnaldo_Cezar_Coelho", "attribution": "Wikipédia — Arnaldo Cezar Coelho" }
+  },
+  {
+    "id": "esp-016",
+    "category": "esportes",
+    "type": "quote",
+    "difficulty": 2,
+    "prompt": "Qual técnico disparou esta frase após o título da Copa América de 1997?",
+    "media": { "type": "text", "style": "quote", "text": "Vocês vão ter que me engolir!" },
+    "answers": ["Zagallo", "Mário Zagallo", "Mário Jorge Lobo Zagallo"],
+    "acceptedAliases": [],
+    "rejectedAnswers": [],
+    "hints": [
+      "Ganhou Copas como jogador (1958 e 1962) e como técnico (1970)",
+      "Era famoso pela superstição com o número 13",
+      "Apelido: 'Velho Lobo'"
+    ],
+    "explanation": "Foi um desabafo contra as críticas da imprensa durante a preparação da seleção para aquela Copa América, vencida na Bolívia.",
+    "tags": ["brasil", "anos 90", "futebol", "técnicos"],
+    "source": { "url": "https://pt.wikipedia.org/wiki/Copa_Am%C3%A9rica_de_1997", "attribution": "Wikipédia — Copa América de 1997" }
+  },
+  {
+    "id": "esp-017",
+    "category": "esportes",
+    "type": "clue",
+    "difficulty": 2,
+    "prompt": "Qual jogador brasileiro?",
+    "media": { "type": "text", "style": "clue", "text": "Em novembro de 2005, depois de marcar duas vezes pelo Barcelona num 3 a 0, foi aplaudido de pé pela torcida do Real Madrid no Santiago Bernabéu." },
+    "answers": ["Ronaldinho Gaúcho", "Ronaldinho", "Ronaldo de Assis Moreira"],
+    "acceptedAliases": ["R10", "Dinho"],
+    "rejectedAnswers": ["Ronaldo", "Ronaldo Nazário", "Ronaldo Fenômeno"],
+    "hints": [
+      "Foi eleito o melhor do mundo pela FIFA em 2004 e 2005",
+      "Na Copa de 2002, fez um gol de falta por cobertura contra a Inglaterra",
+      "Famoso pelo sorriso largo e pelo apelido de 'Bruxo'"
+    ],
+    "explanation": "Aplausos da torcida rival no Bernabéu são raríssimos — e aquela noite virou um dos momentos mais lembrados da carreira dele.",
+    "tags": ["brasil", "anos 2000", "futebol"],
+    "source": { "url": "https://pt.wikipedia.org/wiki/Ronaldinho_Ga%C3%BAcho", "attribution": "Wikipédia — Ronaldinho Gaúcho" }
+  },
+  {
+    "id": "esp-018",
+    "category": "esportes",
+    "type": "emoji",
+    "difficulty": 2,
+    "prompt": "Qual clube brasileiro é representado pelos emojis?",
+    "media": { "type": "emoji", "text": "🦊 💙 ⭐" },
+    "answers": ["Cruzeiro", "Cruzeiro Esporte Clube"],
+    "acceptedAliases": ["Cabuloso", "CEC"],
+    "rejectedAnswers": [],
+    "hints": [
+      "Clube de Belo Horizonte",
+      "Foi fundado em 1921 como Palestra Itália",
+      "Seu maior rival é o Atlético Mineiro"
+    ],
+    "explanation": "A raposa foi desenhada em 1945 pelo chargista Mangabeira, inspirado na esperteza do ex-presidente do clube Mário Grosso.",
+    "tags": ["brasil", "futebol", "mascotes"],
+    "source": { "url": "https://pt.wikipedia.org/wiki/Cruzeiro_Esporte_Clube", "attribution": "Wikipédia — Cruzeiro Esporte Clube" }
+  },
+  {
+    "id": "esp-019",
+    "category": "esportes",
+    "type": "clue",
+    "difficulty": 2,
+    "prompt": "Qual atacante da seleção?",
+    "media": { "type": "text", "style": "clue", "text": "Nas quartas de final da Copa de 1994, contra a Holanda, marcou um gol e comemorou fingindo embalar um bebê, em homenagem ao filho recém-nascido." },
+    "answers": ["Bebeto", "José Roberto Gama de Oliveira"],
+    "acceptedAliases": [],
+    "rejectedAnswers": [],
+    "hints": [
+      "Formou a dupla de ataque do tetra com Romário",
+      "Baiano de Salvador, brilhou no Deportivo La Coruña, da Espanha",
+      "O filho homenageado, Mattheus, também virou jogador"
+    ],
+    "explanation": "A comemoração 'embala neném' foi copiada por jogadores do mundo inteiro depois daquela Copa.",
+    "tags": ["brasil", "anos 90", "futebol", "copa do mundo"],
+    "source": { "url": "https://pt.wikipedia.org/wiki/Bebeto", "attribution": "Wikipédia — Bebeto" }
+  },
+  {
+    "id": "esp-020",
+    "category": "esportes",
+    "type": "clue",
+    "difficulty": 2,
+    "prompt": "Qual jogador brasileiro?",
+    "media": { "type": "text", "style": "clue", "text": "Lateral-esquerdo que, em 1997, cobrou uma falta a cerca de 35 metros do gol contra a França, com uma curva que parecia impossível." },
+    "answers": ["Roberto Carlos", "Roberto Carlos da Silva"],
+    "acceptedAliases": [],
+    "rejectedAnswers": [],
+    "hints": [
+      "Pentacampeão mundial em 2002",
+      "Ganhou três Champions League pelo Real Madrid",
+      "Era famoso pelo chute fortíssimo de canhota"
+    ],
+    "explanation": "O gol foi no Torneio da França, em 3 de junho de 1997; ao longo da carreira, ele marcou 38 gols de falta.",
+    "tags": ["brasil", "anos 90", "futebol"],
+    "source": { "url": "https://pt.wikipedia.org/wiki/Roberto_Carlos_(futebolista)", "attribution": "Wikipédia — Roberto Carlos (futebolista)" }
+  },
+  {
+    "id": "esp-021",
+    "category": "esportes",
+    "type": "emoji",
+    "difficulty": 2,
+    "prompt": "Qual seleção ganhou o apelido representado pelos emojis?",
+    "media": { "type": "emoji", "text": "🍊 ⚙️ ⚽" },
+    "answers": ["Holanda", "Países Baixos", "Seleção Holandesa", "Seleção Neerlandesa"],
+    "acceptedAliases": [],
+    "rejectedAnswers": [],
+    "hints": [
+      "O apelido veio de um filme de Stanley Kubrick",
+      "Encantou o mundo na Copa de 1974 com o 'carrossel'",
+      "Seu maior craque era Johan Cruyff"
+    ],
+    "explanation": "Apesar do futebol revolucionário, a 'Laranja Mecânica' perdeu as três finais de Copa que disputou: 1974, 1978 e 2010.",
+    "tags": ["internacional", "clássicos", "futebol", "copa do mundo"],
+    "source": { "url": "https://pt.wikipedia.org/wiki/Sele%C3%A7%C3%A3o_Neerlandesa_de_Futebol", "attribution": "Wikipédia — Seleção Neerlandesa de Futebol" }
+  },
+  {
+    "id": "esp-022",
+    "category": "esportes",
+    "type": "clue",
+    "difficulty": 2,
+    "prompt": "Qual jogador brasileiro?",
+    "media": { "type": "text", "style": "clue", "text": "Ponta-direita bicampeão mundial (1958 e 1962), considerado um dos maiores dribladores da história e apelidado de 'Anjo de Pernas Tortas'." },
+    "answers": ["Garrincha", "Mané Garrincha"],
+    "acceptedAliases": ["Mané"],
+    "rejectedAnswers": [],
+    "hints": [
+      "Ídolo eterno do Botafogo",
+      "Seu apelido é o nome de um passarinho",
+      "Foi o grande nome do título de 1962, no Chile"
+    ],
+    "explanation": "Uma de suas pernas era seis centímetros mais curta que a outra — e mesmo assim ele deixava os marcadores no chão.",
+    "tags": ["brasil", "clássicos", "futebol", "apelidos"],
+    "source": { "url": "https://pt.wikipedia.org/wiki/Garrincha", "attribution": "Wikipédia — Garrincha" }
+  },
+  {
+    "id": "esp-023",
+    "category": "esportes",
+    "type": "clue",
+    "difficulty": 2,
+    "prompt": "Qual jogador brasileiro?",
+    "media": { "type": "text", "style": "clue", "text": "Camisa 10 do Flamengo campeão mundial em 1981, apelidado de 'Galinho de Quintino' por causa do corpo franzino e do bairro onde cresceu." },
+    "answers": ["Zico", "Arthur Antunes Coimbra"],
+    "acceptedAliases": [],
+    "rejectedAnswers": [],
+    "hints": [
+      "Craque da seleção de 1982",
+      "É o maior artilheiro da história do Flamengo",
+      "Também virou ídolo no Japão, no Kashima Antlers"
+    ],
+    "explanation": "Ele também é o maior artilheiro da história do Maracanã.",
+    "tags": ["brasil", "anos 80", "futebol", "apelidos"],
+    "source": { "url": "https://pt.wikipedia.org/wiki/Zico", "attribution": "Wikipédia — Zico" }
+  },
+  {
+    "id": "esp-024",
+    "category": "esportes",
+    "type": "clue",
+    "difficulty": 2,
+    "prompt": "Qual surfista brasileiro?",
+    "media": { "type": "text", "style": "clue", "text": "Começou a surfar em cima da tampa da caixa de isopor em que o pai pescador guardava os peixes — e virou o primeiro campeão olímpico da história do surfe, em Tóquio 2020." },
+    "answers": ["Ítalo Ferreira"],
+    "acceptedAliases": ["Ítalo"],
+    "rejectedAnswers": ["Gabriel Medina"],
+    "hints": [
+      "Foi campeão mundial da WSL em 2019",
+      "É de Baía Formosa, no Rio Grande do Norte",
+      "Venceu o japonês Kanoa Igarashi na final olímpica"
+    ],
+    "explanation": "Foi também a primeira medalha de ouro do Brasil naqueles Jogos, na estreia do surfe como esporte olímpico.",
+    "tags": ["brasil", "anos 2020", "surfe", "olimpíadas"],
+    "source": { "url": "https://pt.wikipedia.org/wiki/%C3%8Dtalo_Ferreira", "attribution": "Wikipédia — Ítalo Ferreira" }
+  },
+  {
+    "id": "esp-025",
+    "category": "esportes",
+    "type": "clue",
+    "difficulty": 2,
+    "prompt": "Qual jogador brasileiro?",
+    "media": { "type": "text", "style": "clue", "text": "Atacante revelado pelo Flamengo que marcou o gol do título do Real Madrid na final da Champions League de 2022, contra o Liverpool." },
+    "answers": ["Vinícius Júnior", "Vinicius Jr", "Vini Jr", "Vinícius José Paixão de Oliveira Júnior"],
+    "acceptedAliases": ["Vini"],
+    "rejectedAnswers": [],
+    "hints": [
+      "Foi vendido ao Real Madrid em 2017, com apenas 16 anos",
+      "Joga pela ponta esquerda",
+      "Também marcou numa final de Mundial de Clubes"
+    ],
+    "explanation": "Ele foi o primeiro brasileiro a marcar tanto numa final de Champions quanto numa final de Mundial de Clubes da FIFA.",
+    "tags": ["brasil", "anos 2020", "futebol"],
+    "source": { "url": "https://pt.wikipedia.org/wiki/Vin%C3%ADcius_J%C3%BAnior", "attribution": "Wikipédia — Vinícius Júnior" }
+  },
+  {
+    "id": "esp-026",
+    "category": "esportes",
+    "type": "clue",
+    "difficulty": 2,
+    "prompt": "Qual piloto brasileiro?",
+    "media": { "type": "text", "style": "clue", "text": "Primeiro brasileiro campeão mundial de Fórmula 1, em 1972, pela Lotus; voltou a ser campeão em 1974, pela McLaren." },
+    "answers": ["Emerson Fittipaldi"],
+    "acceptedAliases": ["Fittipaldi", "Emerson"],
+    "rejectedAnswers": ["Wilson Fittipaldi", "Christian Fittipaldi"],
+    "hints": [
+      "Foi por mais de 30 anos o campeão mais jovem da história da F1",
+      "Também venceu duas vezes as 500 Milhas de Indianápolis",
+      "Seu irmão, Wilson, também correu na Fórmula 1"
+    ],
+    "explanation": "Ele abriu as portas da Fórmula 1 para os brasileiros: depois vieram os títulos de Piquet e Senna.",
+    "tags": ["brasil", "clássicos", "fórmula 1"],
+    "source": { "url": "https://pt.wikipedia.org/wiki/Emerson_Fittipaldi", "attribution": "Wikipédia — Emerson Fittipaldi" }
+  },
+  {
+    "id": "esp-027",
+    "category": "esportes",
+    "type": "clue",
+    "difficulty": 2,
+    "prompt": "Qual jogador brasileiro?",
+    "media": { "type": "text", "style": "clue", "text": "Lateral-direito que disputou três finais de Copa seguidas (1994, 1998 e 2002) e levantou a taça do penta como capitão." },
+    "answers": ["Cafu", "Marcos Evangelista de Morais"],
+    "acceptedAliases": [],
+    "rejectedAnswers": [],
+    "hints": [
+      "Nasceu em Itaquaquecetuba, na Grande São Paulo",
+      "Jogou no São Paulo, na Roma e no Milan",
+      "É o jogador que mais vestiu a camisa da seleção: 142 partidas"
+    ],
+    "explanation": "Na final de 1994, ele entrou aos 22 minutos, no lugar do lateral Jorginho, que se machucou.",
+    "tags": ["brasil", "anos 2000", "futebol", "copa do mundo"],
+    "source": { "url": "https://pt.wikipedia.org/wiki/Cafu", "attribution": "Wikipédia — Cafu" }
+  },
+  {
+    "id": "esp-028",
+    "category": "esportes",
+    "type": "clue",
+    "difficulty": 2,
+    "prompt": "Qual jogador de basquete?",
+    "media": { "type": "text", "style": "clue", "text": "Ala brasileiro apelidado de 'Mão Santa', maior cestinha da história dos Jogos Olímpicos." },
+    "answers": ["Oscar Schmidt", "Oscar", "Oscar Daniel Bezerra Schmidt"],
+    "acceptedAliases": [],
+    "rejectedAnswers": [],
+    "hints": [
+      "Disputou cinco Olimpíadas, de Moscou 1980 a Atlanta 1996",
+      "Marcou 55 pontos num único jogo contra a Espanha, em Seul 1988",
+      "Seu primeiro nome é o mesmo do prêmio mais famoso do cinema"
+    ],
+    "explanation": "Foram 1.093 pontos em Olimpíadas — além de ele ser também o maior cestinha da história dos Mundiais de basquete.",
+    "tags": ["brasil", "anos 80", "basquete", "olimpíadas"],
+    "source": { "url": "https://en.wikipedia.org/wiki/Oscar_Schmidt", "attribution": "Wikipedia (en) — Oscar Schmidt" }
+  },
+  {
+    "id": "esp-029",
+    "category": "esportes",
+    "type": "clue",
+    "difficulty": 3,
+    "prompt": "Por qual apelido este técnico é conhecido?",
+    "media": { "type": "text", "style": "clue", "text": "Adenor Leonardo Bachi, gaúcho de Caxias do Sul, técnico da seleção brasileira nas Copas de 2018 e 2022." },
+    "answers": ["Tite"],
+    "acceptedAliases": [],
+    "rejectedAnswers": [],
+    "hints": [
+      "Foi campeão mundial de clubes com o Corinthians, em 2012",
+      "Levou a seleção ao título da Copa América de 2019",
+      "O apelido tem só quatro letras"
+    ],
+    "explanation": "Antes de virar técnico, ele foi jogador e começou no Caxias, clube da sua cidade natal, onde atuou de 1978 a 1984.",
+    "tags": ["brasil", "anos 2010", "futebol", "técnicos"],
+    "source": { "url": "https://pt.wikipedia.org/wiki/Tite_(treinador_de_futebol)", "attribution": "Wikipédia — Tite (treinador de futebol)" }
+  },
+  {
+    "id": "esp-030",
+    "category": "esportes",
+    "type": "clue",
+    "difficulty": 3,
+    "prompt": "De que cor era a camisa principal da seleção brasileira na Copa de 1950?",
+    "media": { "type": "text", "style": "clue", "text": "Depois da derrota para o Uruguai no Maracanã, em 1950, essa cor passou a ser vista como sinal de azar, e um concurso de jornal escolheu o uniforme 'canarinho'." },
+    "answers": ["Branca", "Branco"],
+    "acceptedAliases": [],
+    "rejectedAnswers": [],
+    "hints": [
+      "Com ela, o Brasil ganhou os sul-americanos de 1919, 1922 e 1949",
+      "É a cor do uniforme principal do Real Madrid",
+      "É a cor da bandeira da paz"
+    ],
+    "explanation": "O concurso do jornal Correio da Manhã foi vencido pelo gaúcho Aldyr Garcia Schlee, de apenas 19 anos.",
+    "tags": ["brasil", "clássicos", "futebol", "camisas"],
+    "source": { "url": "https://pt.wikipedia.org/wiki/Uniformes_da_Sele%C3%A7%C3%A3o_Brasileira_de_Futebol", "attribution": "Wikipédia — Uniformes da Seleção Brasileira de Futebol" }
+  },
+  {
+    "id": "esp-031",
+    "category": "esportes",
+    "type": "clue",
+    "difficulty": 3,
+    "prompt": "Qual é o nome deste clássico?",
+    "media": { "type": "text", "style": "clue", "text": "Apelido dado nos anos 1940 pelo jornalista Tomaz Mazzoni, da Gazeta Esportiva, ao clássico paulista entre Palmeiras e São Paulo." },
+    "answers": ["Choque-Rei"],
+    "acceptedAliases": [],
+    "rejectedAnswers": ["Clássico-Rei"],
+    "hints": [
+      "Não é o 'Majestoso' (São Paulo x Corinthians) nem o 'Derby' (Palmeiras x Corinthians)",
+      "O nome junta uma 'batida' com a realeza",
+      "O jogo já levou mais de 110 mil pessoas ao Morumbi"
+    ],
+    "explanation": "A rivalidade esquentou nos anos 1940, quando o Palestra Itália foi obrigado a mudar de nome para Palmeiras durante a Segunda Guerra.",
+    "tags": ["brasil", "futebol", "rivalidades"],
+    "source": { "url": "https://pt.wikipedia.org/wiki/Choque-Rei", "attribution": "Wikipédia — Choque-Rei" }
+  },
+  {
+    "id": "esp-032",
+    "category": "esportes",
+    "type": "clue",
+    "difficulty": 3,
+    "prompt": "Contra qual clube Pelé marcou o seu milésimo gol?",
+    "media": { "type": "text", "style": "clue", "text": "19 de novembro de 1969, Maracanã: Pelé, do Santos, converte um pênalti contra o goleiro argentino Andrada e chega ao gol número mil." },
+    "answers": ["Vasco", "Vasco da Gama", "Club de Regatas Vasco da Gama"],
+    "acceptedAliases": ["Gigante da Colina", "Vascão"],
+    "rejectedAnswers": [],
+    "hints": [
+      "É um clube carioca",
+      "Seu estádio é São Januário",
+      "Suas cores são preto e branco"
+    ],
+    "explanation": "O zagueiro vascaíno Fernando Silva, que fez o pênalti, passou a vida inteira negando que tivesse cometido a falta.",
+    "tags": ["brasil", "clássicos", "futebol"],
+    "source": { "url": "https://pt.wikipedia.org/wiki/Estat%C3%ADsticas_de_Pel%C3%A9", "attribution": "Wikipédia — Estatísticas de Pelé" }
+  },
+  {
+    "id": "esp-033",
+    "category": "esportes",
+    "type": "quote",
+    "difficulty": 3,
+    "prompt": "Qual narrador é dono deste bordão?",
+    "media": { "type": "text", "style": "quote", "text": "Pelo amor dos meus filhinhos!" },
+    "answers": ["Silvio Luiz"],
+    "acceptedAliases": [],
+    "rejectedAnswers": ["Silvio Santos"],
+    "hints": [
+      "Também gritava 'Olho no lance!' e 'Pelas barbas do profeta!'",
+      "Marcou época narrando futebol na Band",
+      "Emprestou a voz às narrações do jogo Pro Evolution Soccer"
+    ],
+    "explanation": "Irreverente, ele rompeu com o estilo do rádio na TV e chegou a narrar uma partida inteira numa música da banda Dr. Sin.",
+    "tags": ["brasil", "futebol", "narração"],
+    "source": { "url": "https://pt.wikipedia.org/wiki/Silvio_Luiz", "attribution": "Wikipédia — Silvio Luiz" }
+  },
+  {
+    "id": "esp-034",
+    "category": "esportes",
+    "type": "clue",
+    "difficulty": 3,
+    "prompt": "Qual lutador brasileiro?",
+    "media": { "type": "text", "style": "clue", "text": "Lutador carioca, filho de um grão-mestre de jiu-jítsu, que venceu os torneios UFC 1, UFC 2 e UFC 4 (1993–94) e popularizou o jiu-jítsu brasileiro no mundo." },
+    "answers": ["Royce Gracie"],
+    "acceptedAliases": ["Royce"],
+    "rejectedAnswers": ["Royler Gracie", "Rickson Gracie", "Rorion Gracie"],
+    "hints": [
+      "Venceu o americano Ken Shamrock no UFC 1",
+      "Entrou no Hall da Fama do UFC em 2003, na primeira turma",
+      "Seu sobrenome de família é sinônimo de jiu-jítsu"
+    ],
+    "explanation": "Na época, o UFC era um torneio de mata-mata sem divisão de peso e quase sem regras.",
+    "tags": ["brasil", "anos 90", "mma", "lutas"],
+    "source": { "url": "https://pt.wikipedia.org/wiki/Royce_Gracie", "attribution": "Wikipédia — Royce Gracie" }
+  },
+  {
+    "id": "esp-035",
+    "category": "esportes",
+    "type": "clue",
+    "difficulty": 3,
+    "prompt": "Qual é o nome deste drible?",
+    "media": { "type": "text", "style": "clue", "text": "O jogador empurra a bola para fora com a parte externa do pé e, num movimento rápido, a puxa de volta com a parte interna. Rivellino dizia que Sérgio Echigo o inventou, mas que ele o deixou perfeito." },
+    "answers": ["Elástico"],
+    "acceptedAliases": ["Flip flap"],
+    "rejectedAnswers": [],
+    "hints": [
+      "Ficou famoso nos anos 70",
+      "Muitos craques brasileiros, como Romário, também o usavam",
+      "O nome lembra algo que estica e volta"
+    ],
+    "explanation": "Sérgio Echigo era um jogador brasileiro descendente de japoneses; Rivellino tornou o lance conhecido no mundo todo.",
+    "tags": ["brasil", "clássicos", "futebol", "dribles"],
+    "source": { "url": "https://pt.wikipedia.org/wiki/El%C3%A1stico_(futebol)", "attribution": "Wikipédia — Elástico (futebol)" }
+  },
+  {
+    "id": "esp-036",
+    "category": "esportes",
+    "type": "clue",
+    "difficulty": 3,
+    "prompt": "Por qual apelido esse time ficou conhecido?",
+    "media": { "type": "text", "style": "clue", "text": "A seleção masculina de vôlei de Bernard, Renan, William e Montanaro, que ficou em segundo lugar nos Jogos de Los Angeles 1984." },
+    "answers": ["Geração de Prata"],
+    "acceptedAliases": [],
+    "rejectedAnswers": ["Geração de Ouro"],
+    "hints": [
+      "O técnico era Bebeto de Freitas",
+      "Bernardinho, futuro técnico multicampeão, fazia parte do elenco",
+      "O nome vem da medalha que conquistaram"
+    ],
+    "explanation": "Esse time popularizou o vôlei no Brasil e inspirou a geração seguinte, de Marcelo Negrão, Tande e Maurício.",
+    "tags": ["brasil", "anos 80", "vôlei", "olimpíadas"],
+    "source": { "url": "https://pt.wikipedia.org/wiki/Gera%C3%A7%C3%A3o_de_Prata", "attribution": "Wikipédia — Geração de Prata" }
+  },
+  {
+    "id": "esp-037",
+    "category": "esportes",
+    "type": "clue",
+    "difficulty": 3,
+    "prompt": "Qual jogador brasileiro?",
+    "media": { "type": "text", "style": "clue", "text": "Ponta-direita que marcou gols em todos os jogos da Copa de 1970, ganhando o apelido de 'Furacão da Copa'." },
+    "answers": ["Jairzinho", "Jair Ventura Filho"],
+    "acceptedAliases": [],
+    "rejectedAnswers": [],
+    "hints": [
+      "Ídolo do Botafogo",
+      "Usava a camisa 7 na seleção do tri",
+      "Também fez gol na final contra a Itália"
+    ],
+    "explanation": "Nenhum outro brasileiro repetiu a façanha de marcar em todas as partidas de uma Copa.",
+    "tags": ["brasil", "clássicos", "futebol", "copa do mundo"],
+    "source": { "url": "https://pt.wikipedia.org/wiki/Jairzinho", "attribution": "Wikipédia — Jairzinho" }
+  },
+  {
+    "id": "esp-038",
+    "category": "esportes",
+    "type": "clue",
+    "difficulty": 4,
+    "prompt": "Quem é esse atleta homenageado?",
+    "media": { "type": "text", "style": "clue", "text": "As duas estrelas douradas no escudo do São Paulo FC representam recordes mundiais de salto triplo de um atleta do clube, quebrados em 1952 e 1955." },
+    "answers": ["Adhemar Ferreira da Silva", "Ademar Ferreira da Silva", "Adhemar da Silva"],
+    "acceptedAliases": ["Adhemar"],
+    "rejectedAnswers": [],
+    "hints": [
+      "Foi campeão olímpico em Helsinque 1952 e Melbourne 1956",
+      "Foi o primeiro bicampeão olímpico do Brasil",
+      "Foi o primeiro atleta a passar dos 16 metros no salto triplo"
+    ],
+    "explanation": "Já as três estrelas vermelhas do escudo representam os títulos mundiais do clube (1992, 1993 e 2005).",
+    "tags": ["brasil", "clássicos", "atletismo", "olimpíadas"],
+    "source": { "url": "https://pt.wikipedia.org/wiki/S%C3%A3o_Paulo_Futebol_Clube", "attribution": "Wikipédia — São Paulo Futebol Clube" }
+  },
+  {
+    "id": "esp-039",
+    "category": "esportes",
+    "type": "clue",
+    "difficulty": 4,
+    "prompt": "Qual jogador brasileiro?",
+    "media": { "type": "text", "style": "clue", "text": "Atacante apelidado de 'Diamante Negro' e 'Homem de Borracha', artilheiro da Copa de 1938 e famoso por popularizar a bicicleta no futebol." },
+    "answers": ["Leônidas da Silva", "Leônidas"],
+    "acceptedAliases": [],
+    "rejectedAnswers": [],
+    "hints": [
+      "Fez sete gols na Copa da França, em 1938",
+      "Jogou no Flamengo e no São Paulo",
+      "Seu apelido virou nome de um chocolate famoso"
+    ],
+    "explanation": "Em 1939, a fabricante Lacta comprou dele o direito de usar o apelido 'Diamante Negro' num chocolate, que virou sucesso no Brasil.",
+    "tags": ["brasil", "clássicos", "futebol", "apelidos"],
+    "source": { "url": "https://en.wikipedia.org/wiki/Le%C3%B4nidas_(footballer,_born_1913)", "attribution": "Wikipedia (en) — Leônidas (footballer, born 1913)" }
+  },
+  {
+    "id": "esp-040",
+    "category": "esportes",
+    "type": "clue",
+    "difficulty": 4,
+    "prompt": "Qual tenista brasileira?",
+    "media": { "type": "text", "style": "clue", "text": "Paulistana, número 1 do mundo em 1959, venceu 19 torneios do Grand Slam — incluindo três títulos de simples em Wimbledon." },
+    "answers": ["Maria Esther Bueno"],
+    "acceptedAliases": ["Maria Bueno"],
+    "rejectedAnswers": [],
+    "hints": [
+      "Seu auge foi entre o fim dos anos 50 e os anos 60",
+      "Também venceu quatro vezes o torneio de Forest Hills, atual US Open",
+      "Em 1960, ganhou os quatro Grand Slams de duplas no mesmo ano"
+    ],
+    "explanation": "Ela é a única tenista sul-americana a vencer Wimbledon em simples.",
+    "tags": ["brasil", "clássicos", "tênis"],
+    "source": { "url": "https://pt.wikipedia.org/wiki/Maria_Esther_Bueno", "attribution": "Wikipédia — Maria Esther Bueno" }
+  },
+  {
+    "id": "esp-041",
+    "category": "esportes",
+    "type": "clue",
+    "difficulty": 4,
+    "prompt": "Qual era o nome deste saque?",
+    "media": { "type": "text", "style": "clue", "text": "Saque altíssimo, adaptado do vôlei de praia, que Bernard lançava a muitos metros de altura nos anos 80." },
+    "answers": ["Jornada nas Estrelas"],
+    "acceptedAliases": ["Star Trek"],
+    "rejectedAnswers": [],
+    "hints": [
+      "Bernard fazia parte da Geração de Prata",
+      "O nome é o título brasileiro de uma série de ficção científica dos anos 60",
+      "Na série, o capitão Kirk e o sr. Spock comandavam a nave Enterprise"
+    ],
+    "explanation": "Bernard Rajzman disputou três Olimpíadas: Montreal 1976, Moscou 1980 e Los Angeles 1984.",
+    "tags": ["brasil", "anos 80", "vôlei"],
+    "source": { "url": "https://pt.wikipedia.org/wiki/Bernard_Rajzman", "attribution": "Wikipédia — Bernard Rajzman" }
+  },
+  {
+    "id": "esp-042",
+    "category": "esportes",
+    "type": "quote",
+    "difficulty": 4,
+    "prompt": "Qual narrador criou este bordão?",
+    "media": { "type": "text", "style": "quote", "text": "Ripa na chulipa e pimba na gorduchinha!" },
+    "answers": ["Osmar Santos"],
+    "acceptedAliases": [],
+    "rejectedAnswers": [],
+    "hints": [
+      "Foi um dos maiores narradores do rádio esportivo brasileiro",
+      "Também gritava 'Parou por quê? Por que parou?'",
+      "Narrou ainda na TV, pela Rede Manchete"
+    ],
+    "explanation": "Os bordões dele eram tão populares que passaram a ecoar pelas arquibancadas dos estádios.",
+    "tags": ["brasil", "anos 80", "futebol", "narração"],
+    "source": { "url": "https://pt.wikipedia.org/wiki/Osmar_Santos", "attribution": "Wikipédia — Osmar Santos" }
+  }
+]
